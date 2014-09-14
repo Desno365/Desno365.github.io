@@ -15,5 +15,7 @@ I live near Milan in Italy.
 I made this site because I like computer and related things. Here I will add all of my public work (for example the mods that I'm making for Minecraft Pocket Edition).
 
 These are the geek stuffs that I use:
+{% highlight text %}
 - Nexus 4 – Stock 4.4.4 KTU84P
 - iMac (21.5-inch, Late 2009)
+{% endhighlight %}

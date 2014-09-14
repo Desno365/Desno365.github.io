@@ -34,11 +34,11 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 owner:
   name: Dennis Motta
   avatar: site-logo.png
-  email: desno465@gmail.com
+  email: desno365@gmail.com
   disqus-shortname:
   twitter: desno365
   facebook: #username
-  github: #username
+  github: Desno365
   stackexchange: #http://stackoverflow.com/users/123456/username
   linkedin: #username
   instagram: #username
