@@ -5,7 +5,7 @@ locale: en_US
 description: You can find everything I made here!
 logo: site-logo.png
 search: true
-url: http://0.0.0.0:4000
+url: http://desno365.github.io
 
 
 # Jekyll configuration
