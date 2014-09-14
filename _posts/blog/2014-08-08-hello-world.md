@@ -1,33 +1,21 @@
 ---
 layout: post
-title: "Hello World"
+title: "Hello World, my first post!"
 modified:
 categories: blog
 excerpt:
-tags: []
+tags: [website]
 image:
   feature:
-date: 2014-08-08T15:39:55-04:00
+date: 2014-09-14T22:35:55-04:00
 ---
 
-You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
-To add new posts, simply add a file in the `_posts` directory that follows the convention: YYYY-MM-DD-name-of-post.ext.
+So, this is mt first website that I made, nice ;)
+It is created with [Jekyll](http://jekyllrb.com/), hosted on Github (everyone can look at the [source code of this site](https://github.com/Desno365/Desno365.github.io)) and I used the [So Simple Theme](https://github.com/mmistakes/so-simple-theme/) that I really like (but I will try to personalize it more in these days).
+I made it because I wanted a place where I can publish what I think and what I do.
+My first idea was using [Wordpress](https://wordpress.com/), but after 10 minutes of using it I realized that I needed something more open and clear. I search on Google and the only easy to use site was [Weebly](http://www.weebly.com/) but also that wasn't open as I want. 
 
-## Sample Heading
+So, how did you find Jekyll?
+I found it by case when I was watching the [site of Ruby programming language](https://www.ruby-lang.org/en/) that is created with Jekyll.
 
-### Sample Heading 2
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll's GitHub repo][jekyll-gh].
-
-[jekyll-gh]: https://github.com/jekyll/jekyll
-[jekyll]:    http://jekyllrb.com
+And that was the story of how this website was born.

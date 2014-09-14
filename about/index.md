@@ -1,24 +1,19 @@
 ---
 layout: page
-title: About the Jekyll Theme
-excerpt: "So Simple is a responsive Jekyll theme for your words and images."
-modified: 2014-08-08T19:44:38.564948-04:00
+title: About me
+excerpt: "If you want to know more about who is Desno365 this is the page you are looking for"
+modified: 2014-09-14T22:35:38.564948-04:00
 image:
   feature: background-coding-image.jpg
 ---
 
-Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the follow up to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes) --- by designer slash illustrator [Michael Rose](http://mademistakes.com).
+Hello!
 
-## So Simple Theme is all about:
+My name is Dennis I’m 17 years old and I'm an student, a swimmer and a person who like to learn anything (I like especially Science and technology, but I should also learn English better :D ).
+I live near Milan in Italy.
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 9+ and all modern browsers.
-* Minimal embellishments and subtle animations.
-* Optional large feature images for posts and pages.
-* [Custom 404 page]({{ site.url }}/404.html) to get you started.
-* [Simple site search](https://github.com/christian-fei/Simple-Jekyll-Search)
-* Support for Disqus Comments
+I made this site because I like computer and related things. Here I will add all of my public work (for example the mods that I'm making for Minecraft Pocket Edition).
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install So Simple Theme</a>
-
-[^1]: Example: *domain.com/category-name/post-title*
+These are the geek stuffs that I use:
+- Nexus 4 – Stock 4.4.4 KTU84P
+- iMac (21.5-inch, Late 2009)
