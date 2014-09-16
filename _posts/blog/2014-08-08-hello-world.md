@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hello World, my first post!"
+title: "Hello World: my first post!"
 modified:
 categories: blog
 excerpt:
