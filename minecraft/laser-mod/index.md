@@ -5,7 +5,7 @@ excerpt: "Laser weapons in Minecraft"
 modified: 2014-09-16T15:48:38.564948-04:00
 ---
 
-WIP - Work In Progress ;)
+WIP: Work In Progress ;)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec dignissim, risus ac mattis bibendum, tellus ex fermentum ante, sit amet posuere enim mauris in elit. Donec ac ex fringilla, luctus mauris a, convallis sapien. Nunc fermentum vel enim in consequat. Nunc mollis ipsum vel ornare imperdiet. Suspendisse bibendum leo ut arcu maximus, eu consectetur tortor luctus. Aliquam sit amet volutpat nisi. Nulla eu placerat purus, sit amet venenatis quam. Proin placerat ante ut pulvinar tincidunt. Suspendisse faucibus ante nec turpis consectetur porta. Nam sed rutrum nisl, eu efficitur tortor. Ut et turpis id libero convallis dignissim. Aliquam erat volutpat.
 
