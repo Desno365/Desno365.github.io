@@ -24,8 +24,8 @@ These are the geek stuffs that I use:
 If you want you can follow me on Twitter and read my latest news, the link is in the footer of this page.
 
 I have also a Paypal account so if you really want to support me you can make a little donation. :)
-
 <div markdown="0"><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GBEMKJBA3Z7PG" class="btn">Donate!</a></div>
+
 
 
 > Thanks for reading!

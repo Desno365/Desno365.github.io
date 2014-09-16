@@ -5,12 +5,23 @@ excerpt: "All my work made for the XDA community"
 modified: 2014-09-16T15:49:38.564948-04:00
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum non dolor sed nisi lacinia rutrum vel et felis. Quisque sit amet elementum nulla. Donec efficitur massa nunc, non interdum nunc egestas non. Mauris rhoncus, quam sit amet rutrum semper, enim velit tempus purus, nec tempor elit elit quis mauris. Fusce eu maximus tellus, vel mollis orci. Sed sed interdum sem, et accumsan augue. Nunc at nunc tortor. Ut vitae egestas orci.
+## My profile:
 
-Curabitur tempus interdum vehicula. Vestibulum pulvinar ipsum et dapibus pretium. Integer mollis ex ac tincidunt gravida. Vivamus a dapibus enim. Aenean et vehicula odio, in gravida felis. Curabitur congue magna tempus sagittis dignissim. In quis lacinia nulla, non accumsan nisi. Nam ut sem quis enim tempor dapibus. Maecenas vestibulum mauris vitae euismod finibus. Nunc sed porttitor tellus, nec finibus urna. Pellentesque id mauris tempus, pretium eros sed, congue sem. Nunc at augue a enim eleifend volutpat ac vitae magna. Quisque ac posuere est, luctus maximus mauris. Suspendisse ac ante tellus. Cras sit amet aliquam purus, vel facilisis massa. Nunc sit amet ante justo.
+[Desno365](http://forum.xda-developers.com/member.php?u=5289638)
 
-Nulla sed pulvinar nibh, at blandit magna. Proin venenatis urna odio, vitae porta sem suscipit vel. Mauris tellus velit, commodo id nisi et, dictum interdum sem. Mauris sed mauris eu augue vestibulum faucibus eu vel ex. Fusce sodales turpis in convallis condimentum. Phasellus ullamcorper interdum tortor in faucibus. Phasellus arcu odio, suscipit vitae mi sed, sollicitudin condimentum nulla. Morbi dolor nulla, auctor vitae mauris id, sagittis consectetur sapien. Etiam hendrerit molestie malesuada. Duis at posuere orci, id pulvinar est. Ut vitae congue dolor, vel egestas ex. In fringilla nulla a ultrices lobortis.
 
-Sed et ex non arcu aliquet tincidunt at suscipit odio. In hac habitasse platea dictumst. Aliquam accumsan dolor eget augue elementum, vitae interdum libero congue. Pellentesque suscipit malesuada nibh quis efficitur. Vestibulum nec quam nisi. Duis venenatis et quam quis tristique. Sed feugiat nisi quis odio elementum maximus. Suspendisse potenti. Donec id enim semper, dapibus libero id, egestas dui. Fusce in pretium tortor.
+## My projects:
 
-Ut venenatis ipsum mattis lacus tincidunt, sed suscipit erat tincidunt. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam commodo quam sit amet volutpat euismod. Duis nec risus eu enim bibendum vestibulum vitae a magna. Aenean quis tincidunt est. Maecenas sit amet lacus hendrerit, eleifend orci et, semper metus. Proin tincidunt volutpat nisl in facilisis. Vestibulum non vestibulum libero. Donec volutpat, purus nec maximus dapibus, risus lectus interdum est, ut tempus sem ligula a leo. Ut vehicula, velit eu gravida vulputate, lectus risus consectetur nisl, at consequat arcu tellus vitae mauris. Pellentesque sed lorem luctus, laoreet tellus ac, egestas ligula. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla facilisi. Nulla leo neque, egestas eget consequat sed, tempor a dolor. Aliquam eleifend ultricies ex scelerisque convallis. Integer sit amet mauris euismod, fringilla urna a, pulvinar nisi.
+### Projects:
+
+[overSTOCK ROM for Nexus 4](http://forum.xda-developers.com/nexus-4/development/rom-overstock-v5-0-0-nexus-5-ui-t2541559/post47805637)
+
+[Guide: How to take Screenshots in Recovery with adb - Nexus 4](http://forum.xda-developers.com/nexus-4/general/guide-how-to-screenshots-recovery-adb-t2544042/post47864712)
+
+[Bootanimation: Nexus 4 Light Rays](http://forum.xda-developers.com/nexus-4/themes-apps/bootanimation-nexus-4-light-rays-t2559666/post48242446)
+
+
+### Discontinued projects:
+
+[Custom options in Settings (App Ops, SuperSU and many others) - Nexus 4 with Android 4.4.x](http://forum.xda-developers.com/nexus-4/themes-apps/discontinued-custom-options-settings-t2593536/post49022804)
+
