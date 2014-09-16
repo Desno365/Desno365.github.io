@@ -28,6 +28,6 @@ I have also a Paypal account so if you really want to support me you can make a 
 
 <div markdown="0"><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GBEMKJBA3Z7PG" class="btn">Donate!</a></div>
 
-<br><br><br>
+<br>
 
 > Thanks for reading!
