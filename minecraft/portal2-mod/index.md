@@ -5,6 +5,15 @@ excerpt: "Brings Portal 2 in MCPE!"
 modified: 2014-09-16T15:48:38.564948-04:00
 ---
 
+<style type="text/css">
+/* animated spoiler CSS by Bloggersentral.com */
+.spoilerbutton {display:block;margin:5px 0;}
+.spoiler {overflow:hidden;background: #f5f5f5;}
+.spoiler > div {-webkit-transition: all 0.2s ease;-moz-transition: margin 0.2s ease;-o-transition: all 0.2s ease;transition: margin 0.2s ease;}
+.spoilerbutton[value="Show"] + .spoiler > div {margin-top:-100%;}
+.spoilerbutton[value="Hide"] + .spoiler {padding:5px;} 
+</style>
+
 This page is in Work In Progress ;)
 
 However you can check out the minecraft-forum thread of this mod at this link:
@@ -63,7 +72,8 @@ Currently there aren't any download link for the new version, check out the [old
 {% endhighlight %}
 
 **Older versions:**
-<input class="spoilerbutton" type="button" value="Show" onclick="this.value=this.value=='Show'?'Hide':'Show';"><div class="spoiler"><div>
+<input class="spoilerbutton" type="button" value="Show" onclick="this.value=this.value=='Show'?'Hide':'Show';">
+<div class="spoiler"><div>
 **Portal 2 Mod r005**
 {% highlight text %}
 - NEW: you can set the buttons size for PortalGuns and GravityGun. 
@@ -126,7 +136,8 @@ Currently there aren't any download link for the new version, check out the [old
 
 ## F.A.Q.
 
-<input class="spoilerbutton" type="button" value="Show" onclick="this.value=this.value=='Show'?'Hide':'Show';"><div class="spoiler"><div>
+<input class="spoilerbutton" type="button" value="Show" onclick="this.value=this.value=='Show'?'Hide':'Show';">
+<div class="spoiler"><div>
 PUT CONTENT YOU WISH TO HIDE HERE
 cjS<VAJWBHRW
 VEABREABSR
