@@ -63,8 +63,7 @@ Currently there aren't any download link for the new version, check out the [old
 {% endhighlight %}
 
 **Older versions:**
-<input class="spoilerbutton" type="button" value="Show" onclick="this.value=this.value=='Show'?'Hide':'Show';">
-<div class="spoiler"><div>
+<input class="spoilerbutton" type="button" value="Show" onclick="this.value=this.value=='Show'?'Hide':'Show';"><div class="spoiler"><div>
 **Portal 2 Mod r005**
 {% highlight text %}
 - NEW: you can set the buttons size for PortalGuns and GravityGun. 
@@ -127,8 +126,7 @@ Currently there aren't any download link for the new version, check out the [old
 
 ## F.A.Q.
 
-<input class="spoilerbutton" type="button" value="Show" onclick="this.value=this.value=='Show'?'Hide':'Show';">
-<div class="spoiler"><div>
+<input class="spoilerbutton" type="button" value="Show" onclick="this.value=this.value=='Show'?'Hide':'Show';"><div class="spoiler"><div>
 PUT CONTENT YOU WISH TO HIDE HERE
 cjS<VAJWBHRW
 VEABREABSR
