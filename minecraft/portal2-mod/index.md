@@ -14,7 +14,7 @@ function showSpoiler(obj)
     else
         inner.style.display = "none";
     }
-    </script>
+</script>
 
 This page is in Work In Progress ;)
 
@@ -74,7 +74,7 @@ Currently there aren't any download link for the new version, check out the [old
 {% endhighlight %}
 
 **Older versions:**
-<div class="spoiler">
+<div markdown="0">
     <input type="button" onclick="showSpoiler(this);" value="Show/Hide" />
     <div class="inner" style="display:none;">
 **Portal 2 Mod r005**
