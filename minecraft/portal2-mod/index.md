@@ -123,7 +123,8 @@ Currently there aren't any download link for the new version, check out the [old
 
 ## F.A.Q.
 
-<div class="smallfont" style="margin-bottom: 2px;"><b><font size="2">Archivio Edizioni:</font></b> <input value="Mostra" style="margin: 0px; padding: 0px; width: 80px; font-size: 10px;" onclick="if (this.parentNode.parentNode.getElementsByTagName('div')&#91;1&#93;.getElementsByTagName('div')&#91;0&#93;.style.display != '') { this.parentNode.parentNode.getElementsByTagName('div')&#91;1&#93;.getElementsByTagName('div')&#91;0&#93;.style.display = ''; this.innerText = ''; this.value = 'Nascondi'; } else { this.parentNode.parentNode.getElementsByTagName('div')&#91;1&#93;.getElementsByTagName('div')&#91;0&#93;.style.display = 'none'; this.innerText = ''; this.value = 'Mostra'; }" type="button"> </div> <div class="alt2" style="border: 1px inset ; margin: 0px; padding: 6px;"> <div style="display: none;"> TESTO TESTO</div>
+<div class="smallfont" style="margin-bottom: 2px;"><b><font size="2">Archivio Edizioni:</font></b> <input value="Mostra" style="margin: 0px; padding: 0px; width: 80px; font-size: 10px;" onclick="if (this.parentNode.parentNode.getElementsByTagName('div')&#91;1&#93;.getElementsByTagName('div')&#91;0&#93;.style.display != '') { this.parentNode.parentNode.getElementsByTagName('div')&#91;1&#93;.getElementsByTagName('div')&#91;0&#93;.style.display = ''; this.innerText = ''; this.value = 'Click to hide'; } else { this.parentNode.parentNode.getElementsByTagName('div')&#91;1&#93;.getElementsByTagName('div')&#91;0&#93;.style.display = 'none'; this.innerText = ''; this.value = 'Click to show'; }" type="button"> </div> <div class="alt2" style="border: 1px inset ; margin: 0px; padding: 6px;"> <div style="display: none;"> TESTO TESTO</div>
+Lorem ipsum duvhrivrjboijiwrjegoirejdiovhreiwbrhajrihwebiahwe
 
 ---
 
