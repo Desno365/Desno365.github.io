@@ -62,6 +62,9 @@ Currently there aren't any download link for the new version, check out the [old
 - UPDATED: increased a little bit speed of the PortalGun's bullets.
 {% endhighlight %}
 
+**Older versions:**
+<input class="spoilerbutton" type="button" value="Show" onclick="this.value=this.value=='Show'?'Hide':'Show';">
+<div class="spoiler"><div>
 **Portal 2 Mod r005**
 {% highlight text %}
 - NEW: you can set the buttons size for PortalGuns and GravityGun. 
@@ -114,6 +117,7 @@ Currently there aren't any download link for the new version, check out the [old
 {% highlight text %}
 - Initial release
 {% endhighlight %}
+</div></div>
 
 ---
 
