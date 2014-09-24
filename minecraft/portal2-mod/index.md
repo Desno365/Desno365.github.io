@@ -11,12 +11,129 @@ However you can check out the minecraft-forum thread of this mod at this link:
 
 <div markdown="0"><a href="http://bit.ly/1ysWtIO" class="btn">Link to the thread</a></div>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec dignissim, risus ac mattis bibendum, tellus ex fermentum ante, sit amet posuere enim mauris in elit. Donec ac ex fringilla, luctus mauris a, convallis sapien. Nunc fermentum vel enim in consequat. Nunc mollis ipsum vel ornare imperdiet. Suspendisse bibendum leo ut arcu maximus, eu consectetur tortor luctus. Aliquam sit amet volutpat nisi. Nulla eu placerat purus, sit amet venenatis quam. Proin placerat ante ut pulvinar tincidunt. Suspendisse faucibus ante nec turpis consectetur porta. Nam sed rutrum nisl, eu efficitur tortor. Ut et turpis id libero convallis dignissim. Aliquam erat volutpat.
 
-Etiam pulvinar erat neque, vel imperdiet diam dignissim et. Proin purus nibh, dignissim id mattis id, hendrerit ac nisi. Suspendisse dui ipsum, consequat sit amet eleifend ut, dignissim vel diam. Suspendisse mauris felis, elementum id dolor vitae, ullamcorper hendrerit odio. Praesent tortor eros, commodo in arcu et, tincidunt pretium justo. Morbi eget suscipit felis. Ut vel viverra ligula. Praesent at hendrerit eros, eget tempus tellus. Donec vitae libero efficitur, pulvinar ante at, aliquam felis. Maecenas consectetur sit amet eros sit amet vestibulum. Sed sed efficitur turpis.
 
-Morbi libero arcu, consequat eu placerat at, porta at dolor. Aenean ut nisl ac sem ultrices vehicula sed non magna. Integer pulvinar cursus nisl, at pellentesque ligula viverra quis. Proin dapibus gravida vehicula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at est at odio egestas pretium. Nulla volutpat malesuada dolor, nec molestie massa viverra ut. Praesent aliquet eros ac nunc consectetur, a bibendum enim venenatis. Sed vitae semper libero, vitae fermentum tellus. Phasellus maximus dictum tortor, sed semper turpis ornare in. In hac habitasse platea dictumst. Sed a massa tortor.
+* Table of Contents
+{:toc}
 
-Donec nunc odio, rutrum in lacus quis, volutpat laoreet nibh. Ut ut justo lacus. Fusce sit amet congue nulla. Nulla ut lectus tellus. Vestibulum consequat sapien mi, ut gravida lorem vulputate vel. Nunc congue vitae dolor et varius. Cras egestas viverra est sed dignissim. Curabitur dapibus, justo ac varius pellentesque, velit nunc volutpat urna, vel sodales urna diam vel dui. Praesent ligula tellus, sodales scelerisque felis et, hendrerit dictum magna. Sed erat sem, faucibus eget lobortis quis, malesuada quis elit. Proin non tortor euismod, efficitur eros et, rhoncus tortor.
+## Informations
 
-Cras varius eget velit ut consequat. Pellentesque eu lorem ut sapien ornare aliquam nec quis nulla. Phasellus eu lectus gravida, bibendum libero at, dignissim metus. Nullam sed orci nec erat volutpat iaculis. Sed vel porta nibh, at pellentesque tellus. Nullam rhoncus eget erat ut ornare. Fusce dui nunc, porta nec sapien eget, ullamcorper imperdiet dolor. Fusce at hendrerit ipsum. Ut eu massa lacus. Integer et tellus vel felis commodo porttitor vitae ac augue. Aliquam ut magna in nibh vehicula sodales. Mauris convallis luctus congue. Ut velit lacus, interdum ac finibus id, luctus at dui. Aliquam dictum hendrerit diam, vel fringilla nulla aliquam non. Morbi porta id magna at cursus.
+This mod ports the famous PC game "Portal" in Minecraft Pocket Edition. If you don't know what Portal is you should kill yourself. No, I'm joking, look at [this link](http://lmgtfy.com/?q=portal) for more informations about the game.
+
+With this mod you can craft the Portal Gun and then just shoot! ;)
+You can teleport yourself everywhere with these portals.
+There are five different Portal Guns with different characteristics.
+In this mod you can find also other items inspired by the game "Portal": GravityGun, Long Fall Boots, Jumpers. And many other features will come out in future updates.
+
+---
+
+## Installation instructions
+
+* Download the zip that contains the necessary files.
+* Extract it with a [file manager](http://lmgtfy.com/?q=file+manager+android) (I use ES File Explorer) or with your computer. 
+* <u>IMPORTANT</u>: Move the "portal-sounds" folder in the /sdcard directory of the internal-memory. 
+* Install textures.
+* Import the script from local storage in Blocklauncher.
+* Enjoy! ;)
+
+---
+
+## Downloads
+
+Currently there aren't any download link for the new version, check out the [old version](http://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-mods-tools/2097326-mod-beta-portal-2-mod-portal-gun-alpha-r006-by).
+
+---
+
+## Screenshots
+
+---
+
+## How to craft and items IDs
+
+---
+
+## Changelog
+
+**Portal 2 Mod r006**
+{% highlight text %}
+- NEW: added the Portal's items in Creative. 
+- FIXED: when you destroy the block under a turret, the turret will fall instead of flying (sometimes glitchy, in certain circumstances the turret can move itself after falling).
+- FIXED: fixed the bug that in certain circumstances, without an Internet connection, the mod wrongly reports that there is a new update.
+- UPDATED: increased a little bit speed of the PortalGun's bullets.
+{% endhighlight %}
+
+**Portal 2 Mod r005**
+{% highlight text %}
+- NEW: you can set the buttons size for PortalGuns and GravityGun. 
+- NEW: place 4 turrets near themselves and they will start to sing (see [url=http://i.imgur.com/foYMwi1.jpg|_blank]image[/url]). 
+- UPDATE: increased the max limit of turrets, now you can spawn a max of 20 turrets.
+- UPDATE: turrets open the guns when they are shooting. And if aggressive is ON a laser for the turret will appear.
+- UPDATE: added an option in the Turrets Options GUI for removing the turret.
+- FIXED: fixed the bug that turrets fly after they have been dropped by a PortalGun or by a GravityGun.
+{% endhighlight %}
+
+**Portal 2 Mod r004**
+{% highlight text %}
+- UPDATE: now compatible with MCPE 0.9.x
+- NEW: Turrets
+- NEW: GravityGun
+- NEW: PortalGuns can pick mobs
+- NEW: momentum
+- NEW: the PortalGun change color when you shoot
+- NEW: added "credits", "custom maps" and "settings for map-makers" section in the GUI
+- NEW: check updates automatically when you launch the game (needs internet connection)
+- UPDATE: flat portals
+- UPDATE: new algorithm for long fall boots (works better)
+- UPDATE: updated "support the developer" section in the GUI
+- FIXED: now correctly deletes the portals when your exit the game
+{% endhighlight %}
+
+**Portal 2 Mod r003**
+{% highlight text %}
+- NEW: restyled GUI (see screenshots)
+- NEW: you can spawn portals under blocks (see [url=http://imgur.com/GRlgnFX]image[/url])
+- NEW: damage for Portal guns
+- NEW: sound for the PortalGun Wood & Stone
+- NEW: "turret song" in the Portal jukebox
+- FIX: fixed the bug that blue portals can be placed outside the world
+- UPDATE: speed of "mobs support for portals and jumper" improved by ≈90%
+- NEW: there is also an Easter Egg hidden in the "Portal Informations" GUI, is a button that you have to long press (can someone find it?)
+{% endhighlight %}
+
+**Portal 2 Mod r002**
+{% highlight text %}
+- NEW: option in the "Portal Informations" GUI to enable support of mobs in portals and jumpers
+- NEW: sounds
+- NEW: Portal Jukebox block
+- NEW: jumper block
+- NEW: long fall boots
+- FIX & UPDATES: bug fix and improvements
+{% endhighlight %}
+
+**Portal 2 Mod r001:**
+{% highlight text %}
+- Initial release
+{% endhighlight %}
+
+---
+
+## Known bugs and issues
+
+---
+
+## Copyrights
+
+This work is licensed under the Creative Commons Attribution- NonCommercial 4.0 International License. To view a copy of this license, visit [http://creativecommo...nses/by-nc/4.0/](http://creativecommons.org/licenses/by-nc/4.0/) or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
+
+---
+
+## Credits
+
+* Thanks to [i]mcpemodder[/i] for helping me in making the code when the PortalGun shoot.
+* Thanks to [i]iChun[/i] for a few images extracted from his mod.
+* Thanks to [i]TBPM[/i] for his idea of decoding images with base64.
+* Thanks to [i]minecrave79[/i] for helping me for the damage code for the portal guns.
+* Thanks to [i]MyNameIsAnti[/i] that made for me a fantastic render for the turret.
+* Thanks to [i]Thecactigod[/i] that made some lines of code for this mod. 
+* Thanks to [i]MC_miner_bros[/i] for some beautiful textures.
+
