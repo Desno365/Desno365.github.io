@@ -4,13 +4,8 @@ title: Portal 2 Mod
 excerpt: "Brings Portal 2 in MCPE!"
 ---
 
-This page is in Work In Progress ;)
-
-However you can check out the minecraft-forum thread of this mod at this link:
-
-<div markdown="0"><a href="http://bit.ly/1ysWtIO" class="btn">Link to the thread</a></div>
-
 ![Minecraft Portal by Desno365]({{ site.url }}/minecraft/portal2-mod/images/minecraft-portal.jpg)
+
 
 
 * Table of Contents
@@ -41,7 +36,7 @@ In this mod you can find also other items inspired by the game "Portal": Gravity
 ## Downloads
 
 <i>Minecraft Pocket Edition 0.9.5:</i><br>
-<i>   Portal 2 Mod r007:</i>
+<i> --- Portal 2 Mod <b>r007</b>:</i>
 
 | Website | Support | Regular |
 |:--------|:-------:|:-------:|
@@ -50,6 +45,7 @@ In this mod you can find also other items inspired by the game "Portal": Gravity
 | MEGA:            | [Support download](http://adf.ly/sQu3j) | [Regular download](https://mega.co.nz/#!eswB3DAK!a7PQ8-kZ0WklCHxyD_ZC7iMMr1ECSOjHzx217woAbm4) |
 |----
 {: rules="groups"}
+
 
 
 <i>Older Minecraft Pocket Edition versions:</i>
@@ -97,7 +93,7 @@ In this mod you can find also other items inspired by the game "Portal": Gravity
 
 See the full changelog here:
 
-<div markdown="0"><a href="{{ site.url }}/minecraft/portal2-mod/full-changelog" class="btn">Changelog</a></div>
+<div markdown="0"><a href="{{ site.url }}/minecraft/portal2-mod/full-changelog" class="btn">Full changelog</a></div>
 
 ---
 
@@ -114,7 +110,9 @@ See the full changelog here:
 
 ## F.A.Q.
 
-Lorem ipsum
+This section is Work In Progress
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. In efficitur ante vel quam pulvinar, vitae tincidunt ante ultrices. Morbi porta ipsum volutpat laoreet suscipit. Proin placerat imperdiet elit, ut tristique turpis consectetur et. Aenean ac sem molestie, eleifend ligula cursus, accumsan dolor. Donec egestas massa eros, vitae sodales mauris tempor at. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed eget neque tellus.
 
 ---
 
@@ -135,7 +133,4 @@ This work is licensed under the Creative Commons Attribution- NonCommercial 4.0 
 • Thanks to <i>MC_miner_bros</i> for some beautiful textures.
 
 ---
-
-* Table of Contents
-{:toc}
 

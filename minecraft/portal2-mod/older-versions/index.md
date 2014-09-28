@@ -5,7 +5,7 @@ excerpt: "Portal 2 Mod older versions"
 ---
 
 <i>Minecraft Pocket Edition 0.8.1 and BlockLauncher 1.6.10:</i><br>
-<i>   Portal 2 Mod r003:</i>
+<i> --- Portal 2 Mod r003:</i>
 
 | Website | Support | Regular |
 |:--------|:-------:|:-------:|
@@ -15,7 +15,7 @@ excerpt: "Portal 2 Mod older versions"
 {: rules="groups"}
 
 
-Return to the Portal 2 Mod web page:
+<br>Return to the Portal 2 Mod web page:
 
 <div markdown="0"><a href="{{ site.url }}/minecraft/portal2-mod" class="btn">Portal 2 Mod</a></div>
 

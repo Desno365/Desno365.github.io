@@ -4,8 +4,6 @@ title: Portal 2 Mod full changelog
 excerpt: "Portal 2 Mod full changelog"
 ---
 
-## Full changelog
-
 **Portal 2 Mod r007**
 {% highlight text %}
 - NEW: the Repulsion Gel Block
@@ -81,7 +79,7 @@ excerpt: "Portal 2 Mod full changelog"
 {% endhighlight %}
 
 
-Return to the Portal 2 Mod web page:
+<br>Return to the Portal 2 Mod web page:
 
 <div markdown="0"><a href="{{ site.url }}/minecraft/portal2-mod" class="btn">Portal 2 Mod</a></div>
 
