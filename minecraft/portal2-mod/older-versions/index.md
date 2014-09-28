@@ -5,7 +5,7 @@ excerpt: "Portal 2 Mod older versions"
 ---
 
 <i>Minecraft Pocket Edition 0.8.1 and BlockLauncher 1.6.10:</i><br>
-<i> --- Portal 2 Mod r003:</i>
+<i> --- Portal 2 Mod <b>r003</b>:</i>
 
 | Website | Support | Regular |
 |:--------|:-------:|:-------:|

@@ -6,8 +6,6 @@ excerpt: "Brings Portal 2 in MCPE!"
 
 ![Minecraft Portal by Desno365]({{ site.url }}/minecraft/portal2-mod/images/minecraft-portal.jpg)
 
-
-
 * Table of Contents
 {:toc}
 
@@ -37,7 +35,6 @@ In this mod you can find also other items inspired by the game "Portal": Gravity
 
 <i>Minecraft Pocket Edition 0.9.5:</i><br>
 <i> --- Portal 2 Mod <b>r007</b>:</i>
-
 | Website | Support | Regular |
 |:--------|:-------:|:-------:|
 | MediaFire:       | [Support download](http://adf.ly/sQu1s) | [Regular download](http://www.mediafire.com/download/v22karukooyn2sr/Portal_Mod_r007_Desno365.zip) |
@@ -46,7 +43,7 @@ In this mod you can find also other items inspired by the game "Portal": Gravity
 |----
 {: rules="groups"}
 
-
+<br>
 
 <i>Older Minecraft Pocket Edition versions:</i>
 
@@ -74,6 +71,10 @@ In this mod you can find also other items inspired by the game "Portal": Gravity
 
 ## How to craft and items IDs
 
+This section is Work In Progress
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. In efficitur ante vel quam pulvinar, vitae tincidunt ante ultrices. Morbi porta ipsum volutpat laoreet suscipit. Proin placerat imperdiet elit, ut tristique turpis consectetur et. Aenean ac sem molestie, eleifend ligula cursus, accumsan dolor. Donec egestas massa eros, vitae sodales mauris tempor at. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed eget neque tellus.
+
 ---
 
 ## Changelog
@@ -90,6 +91,8 @@ In this mod you can find also other items inspired by the game "Portal": Gravity
 - FIX: GravityGun shoot image
 - FIX:: invisible portals with the latest BlockLauncher beta
 {% endhighlight %}
+
+<br>
 
 See the full changelog here:
 
