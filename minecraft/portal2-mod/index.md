@@ -42,8 +42,7 @@ In this mod you can find also other items inspired by the game "Portal": Gravity
 ## Downloads
 
 <i>Minecraft Pocket Edition 0.9.5:</i>
-
-|                  |                    |                    |
+|----
 |:-----------------|:------------------:|:------------------:|
 | MediaFire:       | [Support download](http://adf.ly/sQu1s) | [Regular download](http://www.mediafire.com/download/v22karukooyn2sr/Portal_Mod_r007_Desno365.zip) |
 | AndroidFileHost: | [Support download](http://adf.ly/sQtuw) | [Regular download](https://www.androidfilehost.com/?fid=23681161096070998) |
