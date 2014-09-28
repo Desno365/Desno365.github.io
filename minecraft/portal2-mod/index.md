@@ -40,7 +40,7 @@ In this mod you can find also other items inspired by the game "Portal": Gravity
 
 ## Downloads
 
-<i>Minecraft Pocket Edition 0.9.5:</i>
+<i>Minecraft Pocket Edition 0.9.5:</i><br>
 <i>   Portal 2 Mod r007:</i>
 
 | Website | Support | Regular |
@@ -114,6 +114,7 @@ See the full changelog here:
 
 ## F.A.Q.
 
+Lorem ipsum
 
 ---
 
@@ -133,6 +134,7 @@ This work is licensed under the Creative Commons Attribution- NonCommercial 4.0 
 • Thanks to <i>Thecactigod</i> that made some lines of code for this mod.<br>
 • Thanks to <i>MC_miner_bros</i> for some beautiful textures.
 
+---
 
 * Table of Contents
 {:toc}
