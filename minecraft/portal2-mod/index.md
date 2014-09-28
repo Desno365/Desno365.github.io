@@ -11,7 +11,8 @@ However you can check out the minecraft-forum thread of this mod at this link:
 
 <div markdown="0"><a href="http://bit.ly/1ysWtIO" class="btn">Link to the thread</a></div>
 
-![Minecraft Portal by Desno365]({{ site.url }}/minecraft/portal2-mod/images/minecraft-portal.jpg)
+<center>![Minecraft Portal by Desno365]({{ site.url }}/minecraft/portal2-mod/images/minecraft-portal.jpg)</center>
+
 
 * Table of Contents
 {:toc}
@@ -29,23 +30,30 @@ In this mod you can find also other items inspired by the game "Portal": Gravity
 
 ## Installation instructions
 
-• Download the zip that contains the necessary files.
-
-• Extract it with a [file manager](http://lmgtfy.com/?q=file+manager+android) (I use ES File Explorer) or with your computer. 
-
-• <u>IMPORTANT</u>: Move the "portal-sounds" folder in the "/sdcard/games/com.mojang/" folder. 
-
-• Install textures.
-
-• Import the script from local storage in Blocklauncher and enable it.
-
+• Download the zip that contains the necessary files.<br>
+• Extract it with a [file manager](http://lmgtfy.com/?q=file+manager+android) (I use ES File Explorer) or with your computer.<br>
+• <u>IMPORTANT</u>: Move the "portal-sounds" folder in the "/sdcard/games/com.mojang/" folder.<br>
+• Install textures.<br>
+• Import the script from local storage in Blocklauncher and enable it.<br>
 • Enjoy! ;)
 
 ---
 
 ## Downloads
 
-Currently there aren't any download link for the new version, check out the [old version](http://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-mods-tools/2097326-mod-beta-portal-2-mod-portal-gun-alpha-r006-by).
+<u>Minecraft Pocket Edition 0.9.5:</u>
+   MediaFire:
+   AndroidFileHost:
+   MEGA:
+
+|                 |         |         |
+|:----------------|:-------:|--------:|
+| MediaFire       | test | test |
+| AndroidFileHost | test | test |
+|----
+| MEGA            | test | test |
+|----
+{: rules="groups"}
 
 ---
 
@@ -73,22 +81,35 @@ Currently there aren't any download link for the new version, check out the [old
 
 ## Changelog
 
+**Portal 2 Mod r007**
+{% highlight text %}
+- NEW: the Repulsion Gel Block
+- NEW: the Propulsion Gel Block
+- NEW: the Portal Radio block (tap it to play the "radio loop" song)
+- NEW: new UI in Minecraft style!
+- NEW: a new settings to change the background image for the UIs
+- UPDATE: re-written code for the turrets
+- UPDATE: different folder for the portal-sounds
+- FIX: GravityGun shoot image
+- FIX:: invisible portals with the latest BlockLauncher beta
+{% endhighlight %}
+
 **Portal 2 Mod r006**
 {% highlight text %}
-- NEW: added the Portal's items in Creative. 
-- FIXED: when you destroy the block under a turret, the turret will fall instead of flying (sometimes glitchy, in certain circumstances the turret can move itself after falling).
-- FIXED: fixed the bug that in certain circumstances, without an Internet connection, the mod wrongly reports that there is a new update.
-- UPDATED: increased a little bit speed of the PortalGun's bullets.
+- NEW: added the Portal's items in Creative
+- FIXED: when you destroy the block under a turret, the turret will fall instead of flying (sometimes glitchy, in certain circumstances the turret can move itself after falling)
+- FIXED: fixed the bug that in certain circumstances, without an Internet connection, the mod wrongly reports that there is a new update
+- UPDATED: increased a little bit speed of the PortalGun's bullets
 {% endhighlight %}
 
 **Portal 2 Mod r005**
 {% highlight text %}
-- NEW: you can set the buttons size for PortalGuns and GravityGun. 
-- NEW: place 4 turrets near themselves and they will start to sing (see [url=http://i.imgur.com/foYMwi1.jpg|_blank]image[/url]). 
+- NEW: you can set the buttons size for PortalGuns and GravityGun
+- NEW: place 4 turrets near themselves and they will start to sing (see [url=http://i.imgur.com/foYMwi1.jpg|_blank]image[/url])
 - UPDATE: increased the max limit of turrets, now you can spawn a max of 20 turrets.
-- UPDATE: turrets open the guns when they are shooting. And if aggressive is ON a laser for the turret will appear.
-- UPDATE: added an option in the Turrets Options GUI for removing the turret.
-- FIXED: fixed the bug that turrets fly after they have been dropped by a PortalGun or by a GravityGun.
+- UPDATE: turrets open the guns when they are shooting. And if aggressive is ON a laser for the turret will appear
+- UPDATE: added an option in the Turrets Options GUI for removing the turret
+- FIXED: fixed the bug that turrets fly after they have been dropped by a PortalGun or by a GravityGun
 {% endhighlight %}
 
 **Portal 2 Mod r004**
@@ -138,12 +159,12 @@ Currently there aren't any download link for the new version, check out the [old
 
 ## Known bugs and issues
 
-- In certain circumstances long fall boots don't work.
-- Turrets are in pre-beta stage so you can find many bugs with them.
-- The images of portals are black (BlockLauncher bug).
-- There is a x-ray glitch near portals (BlockLauncher bug).
 
-- If you find a bug report it in the [minecraft-forum.net thread](http://bit.ly/1ysWtIO).
+• In certain circumstances long fall boots don't work.<br>
+• Turrets are in pre-beta stage so you can find many bugs with them.<br>
+• The images of portals are black (BlockLauncher bug).<br>
+• There is a x-ray glitch near portals (BlockLauncher bug).<br>
+• If you find a bug report it in the [minecraft-forum.net thread](http://bit.ly/1ysWtIO).
 
 ---
 
@@ -160,11 +181,11 @@ This work is licensed under the Creative Commons Attribution- NonCommercial 4.0 
 
 ## Credits
 
-* Thanks to <u>mcpemodder</u> for helping me in making the code when the PortalGun shoot.
-* Thanks to <u>iChun</u> for a few images extracted from his mod.
-* Thanks to <u>TBPM</u> for his idea of decoding images with base64.
-* Thanks to <u>minecrave79</u> for helping me for the damage code for the portal guns.
-* Thanks to <u>MyNameIsAnti</u> that made for me a fantastic render for the turret.
-* Thanks to <u>Thecactigod</u> that made some lines of code for this mod. 
-* Thanks to <u>MC_miner_bros</u> for some beautiful textures.
+• Thanks to <u>mcpemodder</u> for helping me in making the code when the PortalGun shoot.<br>
+• Thanks to <u>iChun</u> for a few images extracted from his mod.<br>
+• Thanks to <u>TBPM</u> for his idea of decoding images with base64.<br>
+• Thanks to <u>minecrave79</u> for helping me for the damage code for the portal guns.<br>
+• Thanks to <u>MyNameIsAnti</u> that made for me a fantastic render for the turret.<br>
+• Thanks to <u>Thecactigod</u> that made some lines of code for this mod.<br>
+• Thanks to <u>MC_miner_bros</u> for some beautiful textures.
 
