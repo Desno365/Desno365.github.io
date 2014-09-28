@@ -5,35 +5,24 @@ excerpt: "Brings Portal 2 in MCPE!"
 modified: 2014-09-16T15:48:38.564948-04:00
 ---
 
-<script type="text/javascript">
-function showSpoiler(obj)
-    {
-    var inner = obj.parentNode.getElementsByTagName("div")[0];
-    if (inner.style.display == "none")
-        inner.style.display = "";
-    else
-        inner.style.display = "none";
-    }
-</script>
-
 This page is in Work In Progress ;)
 
 However you can check out the minecraft-forum thread of this mod at this link:
 
 <div markdown="0"><a href="http://bit.ly/1ysWtIO" class="btn">Link to the thread</a></div>
 
-
+![Minecraft Portal by Desno365]({{ site.url }}/minecraft/portal2-mod/images/minecraft-portal.jpg)
 
 * Table of Contents
 {:toc}
 
 ## Informations
 
-This mod ports the famous PC game "Portal" in Minecraft Pocket Edition. If you don't know what Portal is you should kill yourself. No, I'm joking, look at [this link](http://lmgtfy.com/?q=portal) for more informations about the game.
+This mod ports the famous PC game "Portal" in Minecraft Pocket Edition. If you don't know what Portal is look at [this link](http://lmgtfy.com/?q=portal) for more informations about the game.
 
-With this mod you can craft the Portal Gun and then just shoot! ;)
-You can teleport yourself everywhere with these portals.
-There are five different Portal Guns with different characteristics.
+With this mod you can craft the Portal Gun and then just shoot!<br>
+You can teleport yourself everywhere with these portals.<br>
+There are five different Portal Guns with different characteristics.<br>
 In this mod you can find also other items inspired by the game "Portal": GravityGun, Long Fall Boots, Jumpers. And many other features will come out in future updates.
 
 ---
@@ -41,10 +30,15 @@ In this mod you can find also other items inspired by the game "Portal": Gravity
 ## Installation instructions
 
 • Download the zip that contains the necessary files.
+
 • Extract it with a [file manager](http://lmgtfy.com/?q=file+manager+android) (I use ES File Explorer) or with your computer. 
-• <u>IMPORTANT</u>: Move the "portal-sounds" folder in the /sdcard directory of the internal-memory. 
+
+• <u>IMPORTANT</u>: Move the "portal-sounds" folder in the "/sdcard/games/com.mojang/" folder. 
+
 • Install textures.
-• Import the script from local storage in Blocklauncher.
+
+• Import the script from local storage in Blocklauncher and enable it.
+
 • Enjoy! ;)
 
 ---
@@ -56,6 +50,20 @@ Currently there aren't any download link for the new version, check out the [old
 ---
 
 ## Screenshots
+
+![Portal screenshot]({{ site.url }}/minecraft/portal2-mod/images/portals.png)
+
+![PortalGun Wood and Stone screenshot]({{ site.url }}/minecraft/portal2-mod/images/portal-gun-wood-and-stone.png)
+
+<figure>
+  <img src="{{ site.url }}/minecraft/portal2-mod/images/portal-mod-ui.png" alt="portal mod ui">
+  <figcaption>The "Portal Informations" UI</figcaption>
+</figure>
+
+<figure>
+  <img src="{{ site.url }}/minecraft/portal2-mod/images/portal-jukebox.png" alt="portal jukebox ui">
+  <figcaption>The "Portal jukebox" UI</figcaption>
+</figure>
 
 ---
 
@@ -73,10 +81,6 @@ Currently there aren't any download link for the new version, check out the [old
 - UPDATED: increased a little bit speed of the PortalGun's bullets.
 {% endhighlight %}
 
-**Older versions:**
-<div markdown="0">
-    <input type="button" onclick="showSpoiler(this);" value="Show/Hide" />
-    <div class="inner" style="display:none;">
 **Portal 2 Mod r005**
 {% highlight text %}
 - NEW: you can set the buttons size for PortalGuns and GravityGun. 
@@ -129,21 +133,22 @@ Currently there aren't any download link for the new version, check out the [old
 {% highlight text %}
 - Initial release
 {% endhighlight %}
-</div>
 
 ---
 
 ## Known bugs and issues
 
+- In certain circumstances long fall boots don't work.
+- Turrets are in pre-beta stage so you can find many bugs with them.
+- The images of portals are black (BlockLauncher bug).
+- There is a x-ray glitch near portals (BlockLauncher bug).
+
+- If you find a bug report it in the [minecraft-forum.net thread](http://bit.ly/1ysWtIO).
+
 ---
 
 ## F.A.Q.
 
-<div class="spoiler">
-    <input type="button" onclick="showSpoiler(this);" value="Show/Hide" />
-    <div class="inner" style="display:none;">
-    This is a spoiler!
-    </div>
 
 ---
 
@@ -155,11 +160,11 @@ This work is licensed under the Creative Commons Attribution- NonCommercial 4.0 
 
 ## Credits
 
-* Thanks to [i]mcpemodder[/i] for helping me in making the code when the PortalGun shoot.
-* Thanks to [i]iChun[/i] for a few images extracted from his mod.
-* Thanks to [i]TBPM[/i] for his idea of decoding images with base64.
-* Thanks to [i]minecrave79[/i] for helping me for the damage code for the portal guns.
-* Thanks to [i]MyNameIsAnti[/i] that made for me a fantastic render for the turret.
-* Thanks to [i]Thecactigod[/i] that made some lines of code for this mod. 
-* Thanks to [i]MC_miner_bros[/i] for some beautiful textures.
+* Thanks to <u>mcpemodder</u> for helping me in making the code when the PortalGun shoot.
+* Thanks to <u>iChun</u> for a few images extracted from his mod.
+* Thanks to <u>TBPM</u> for his idea of decoding images with base64.
+* Thanks to <u>minecrave79</u> for helping me for the damage code for the portal guns.
+* Thanks to <u>MyNameIsAnti</u> that made for me a fantastic render for the turret.
+* Thanks to <u>Thecactigod</u> that made some lines of code for this mod. 
+* Thanks to <u>MC_miner_bros</u> for some beautiful textures.
 
