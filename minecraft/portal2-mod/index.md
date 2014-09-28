@@ -2,7 +2,6 @@
 layout: page
 title: Portal 2 Mod
 excerpt: "Brings Portal 2 in MCPE!"
-modified: 2014-09-16T15:48:38.564948-04:00
 ---
 
 This page is in Work In Progress ;)
@@ -21,10 +20,10 @@ However you can check out the minecraft-forum thread of this mod at this link:
 
 This mod ports the famous PC game "Portal" in Minecraft Pocket Edition. If you don't know what Portal is look at [this link](http://lmgtfy.com/?q=portal) for more informations about the game.
 
-With this mod you can craft the Portal Gun and then just shoot!<br>
+With this mod you can craft the Portal Gun and then shoot!<br>
 You can teleport yourself everywhere with these portals.<br>
 There are five different Portal Guns with different characteristics.<br>
-In this mod you can find also other items inspired by the game "Portal": GravityGun, Long Fall Boots, Jumpers. And many other features will come out in future updates.
+In this mod you can find also other items inspired by the game "Portal": GravityGun, Long Fall Boots, Jumpers, Gels. And many other features will come out in future updates.
 
 ---
 
@@ -42,6 +41,7 @@ In this mod you can find also other items inspired by the game "Portal": Gravity
 ## Downloads
 
 <i>Minecraft Pocket Edition 0.9.5:</i>
+<i>   Portal 2 Mod r007:</i>
 
 | Website | Support | Regular |
 |:--------|:-------:|:-------:|
@@ -50,6 +50,11 @@ In this mod you can find also other items inspired by the game "Portal": Gravity
 | MEGA:            | [Support download](http://adf.ly/sQu3j) | [Regular download](https://mega.co.nz/#!eswB3DAK!a7PQ8-kZ0WklCHxyD_ZC7iMMr1ECSOjHzx217woAbm4) |
 |----
 {: rules="groups"}
+
+
+<i>Older Minecraft Pocket Edition versions:</i>
+
+<div markdown="0"><a href="{{ site.url }}/minecraft/portal2-mod/older-versions" class="btn">Older versions</a></div>
 
 ---
 
@@ -90,66 +95,9 @@ In this mod you can find also other items inspired by the game "Portal": Gravity
 - FIX:: invisible portals with the latest BlockLauncher beta
 {% endhighlight %}
 
-**Portal 2 Mod r006**
-{% highlight text %}
-- NEW: added the Portal's items in Creative
-- FIXED: when you destroy the block under a turret, the turret will fall instead of flying (sometimes glitchy, in certain circumstances the turret can move itself after falling)
-- FIXED: fixed the bug that in certain circumstances, without an Internet connection, the mod wrongly reports that there is a new update
-- UPDATED: increased a little bit speed of the PortalGun's bullets
-{% endhighlight %}
+See the full changelog here:
 
-**Portal 2 Mod r005**
-{% highlight text %}
-- NEW: you can set the buttons size for PortalGuns and GravityGun
-- NEW: place 4 turrets near themselves and they will start to sing (see [url=http://i.imgur.com/foYMwi1.jpg|_blank]image[/url])
-- UPDATE: increased the max limit of turrets, now you can spawn a max of 20 turrets.
-- UPDATE: turrets open the guns when they are shooting. And if aggressive is ON a laser for the turret will appear
-- UPDATE: added an option in the Turrets Options GUI for removing the turret
-- FIXED: fixed the bug that turrets fly after they have been dropped by a PortalGun or by a GravityGun
-{% endhighlight %}
-
-**Portal 2 Mod r004**
-{% highlight text %}
-- UPDATE: now compatible with MCPE 0.9.x
-- NEW: Turrets
-- NEW: GravityGun
-- NEW: PortalGuns can pick mobs
-- NEW: momentum
-- NEW: the PortalGun change color when you shoot
-- NEW: added "credits", "custom maps" and "settings for map-makers" section in the GUI
-- NEW: check updates automatically when you launch the game (needs internet connection)
-- UPDATE: flat portals
-- UPDATE: new algorithm for long fall boots (works better)
-- UPDATE: updated "support the developer" section in the GUI
-- FIXED: now correctly deletes the portals when your exit the game
-{% endhighlight %}
-
-**Portal 2 Mod r003**
-{% highlight text %}
-- NEW: restyled GUI (see screenshots)
-- NEW: you can spawn portals under blocks (see [url=http://imgur.com/GRlgnFX]image[/url])
-- NEW: damage for Portal guns
-- NEW: sound for the PortalGun Wood & Stone
-- NEW: "turret song" in the Portal jukebox
-- FIX: fixed the bug that blue portals can be placed outside the world
-- UPDATE: speed of "mobs support for portals and jumper" improved by ≈90%
-- NEW: there is also an Easter Egg hidden in the "Portal Informations" GUI, is a button that you have to long press (can someone find it?)
-{% endhighlight %}
-
-**Portal 2 Mod r002**
-{% highlight text %}
-- NEW: option in the "Portal Informations" GUI to enable support of mobs in portals and jumpers
-- NEW: sounds
-- NEW: Portal Jukebox block
-- NEW: jumper block
-- NEW: long fall boots
-- FIX & UPDATES: bug fix and improvements
-{% endhighlight %}
-
-**Portal 2 Mod r001:**
-{% highlight text %}
-- Initial release
-{% endhighlight %}
+<div markdown="0"><a href="{{ site.url }}/minecraft/portal2-mod/full-changelog" class="btn">Changelog</a></div>
 
 ---
 
@@ -159,7 +107,7 @@ In this mod you can find also other items inspired by the game "Portal": Gravity
 • In certain circumstances long fall boots don't work.<br>
 • Turrets are in pre-beta stage so you can find many bugs with them.<br>
 • The images of portals are black (BlockLauncher bug).<br>
-• There is a x-ray glitch near portals (BlockLauncher bug).<br>
+• There is a x-ray glitch near portals (BlockLauncher bug).<br><br>
 • If you find a bug report it in the [minecraft-forum.net thread](http://bit.ly/1ysWtIO).
 
 ---
@@ -184,4 +132,8 @@ This work is licensed under the Creative Commons Attribution- NonCommercial 4.0 
 • Thanks to <i>MyNameIsAnti</i> that made for me a fantastic render for the turret.<br>
 • Thanks to <i>Thecactigod</i> that made some lines of code for this mod.<br>
 • Thanks to <i>MC_miner_bros</i> for some beautiful textures.
+
+
+* Table of Contents
+{:toc}
 
