@@ -11,7 +11,7 @@ However you can check out the minecraft-forum thread of this mod at this link:
 
 <div markdown="0"><a href="http://bit.ly/1ysWtIO" class="btn">Link to the thread</a></div>
 
-<center>![Minecraft Portal by Desno365]({{ site.url }}/minecraft/portal2-mod/images/minecraft-portal.jpg)</center>
+![Minecraft Portal by Desno365]({{ site.url }}/minecraft/portal2-mod/images/minecraft-portal.jpg)
 
 
 * Table of Contents
@@ -46,12 +46,11 @@ In this mod you can find also other items inspired by the game "Portal": Gravity
    AndroidFileHost:
    MEGA:
 
-|                 |         |         |
-|:----------------|:-------:|--------:|
-| MediaFire       | test | test |
-| AndroidFileHost | test | test |
-|----
-| MEGA            | test | test |
+|                  |                    |                    |
+|:-----------------|:------------------:|:------------------:|
+| MediaFire:       | [Support download](http://bit.ly/1ysWtIO) | [Regular download](http://bit.ly/1ysWtIO) |
+| AndroidFileHost: | [Support download](http://bit.ly/1ysWtIO) | [Regular download](http://bit.ly/1ysWtIO) |
+| MEGA:            | [Support download](http://bit.ly/1ysWtIO) | [Regular download](http://bit.ly/1ysWtIO) |
 |----
 {: rules="groups"}
 
@@ -181,11 +180,11 @@ This work is licensed under the Creative Commons Attribution- NonCommercial 4.0 
 
 ## Credits
 
-• Thanks to <u>mcpemodder</u> for helping me in making the code when the PortalGun shoot.<br>
-• Thanks to <u>iChun</u> for a few images extracted from his mod.<br>
-• Thanks to <u>TBPM</u> for his idea of decoding images with base64.<br>
-• Thanks to <u>minecrave79</u> for helping me for the damage code for the portal guns.<br>
-• Thanks to <u>MyNameIsAnti</u> that made for me a fantastic render for the turret.<br>
-• Thanks to <u>Thecactigod</u> that made some lines of code for this mod.<br>
-• Thanks to <u>MC_miner_bros</u> for some beautiful textures.
+• Thanks to <i>mcpemodder</i> for helping me in making the code when the PortalGun shoot.<br>
+• Thanks to <i>iChun</i> for a few images extracted from his mod.<br>
+• Thanks to <i>TBPM</i> for his idea of decoding images with base64.<br>
+• Thanks to <i>minecrave79</i> for helping me for the damage code for the portal guns.<br>
+• Thanks to <i>MyNameIsAnti</i> that made for me a fantastic render for the turret.<br>
+• Thanks to <i>Thecactigod</i> that made some lines of code for this mod.<br>
+• Thanks to <i>MC_miner_bros</i> for some beautiful textures.
 
