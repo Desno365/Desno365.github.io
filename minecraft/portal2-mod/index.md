@@ -34,13 +34,13 @@ In this mod you can find also other items inspired by the game "Portal": Gravity
 ## Downloads
 
 <i>Minecraft Pocket Edition 0.9.5:</i><br>
-<i> --- Portal 2 Mod <b>r007</b>:</i>
+<i> --- Portal 2 Mod <b>r008</b>:</i>
 
 | Website | Support | Regular |
 |:--------|:-------:|:-------:|
-| MediaFire:       | [Support download](http://adf.ly/sQu1s) | [Regular download](http://www.mediafire.com/download/v22karukooyn2sr/Portal_Mod_r007_Desno365.zip) |
-| AndroidFileHost: | [Support download](http://adf.ly/sQtuw) | [Regular download](https://www.androidfilehost.com/?fid=23681161096070998) |
-| MEGA:            | [Support download](http://adf.ly/sQu3j) | [Regular download](https://mega.co.nz/#!eswB3DAK!a7PQ8-kZ0WklCHxyD_ZC7iMMr1ECSOjHzx217woAbm4) |
+| MediaFire:       | [Support download](http://adf.ly/sUcZK) | [Regular download](http://www.mediafire.com/download/h98mzybsjms5hkl/Portal_Mod_r008_Desno365.zip) |
+| AndroidFileHost: | in upload | in upload |
+| MEGA:            | [Support download](http://adf.ly/sUcaR) | [Regular download](https://mega.co.nz/#!3tQkAKJR!lg-qEw501m6paWnn_k12TIfYpakGhOOs7N-iORDldmU) |
 |----
 {: rules="groups"}
 
@@ -79,6 +79,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. In efficitur ante vel q
 ---
 
 ## Changelog
+
+**Portal 2 Mod r008**
+{% highlight text %}
+- FIX: fixed the bug that, when you are playing on negative axes, Jumper, Propulsion Gel and Repulsion Gel act like they are at -1 Z and -1 X from where they are
+{% endhighlight %}
 
 **Portal 2 Mod r007**
 {% highlight text %}
@@ -122,7 +127,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. In efficitur ante vel q
 
 ## Copyrights
 
-This work is licensed under the Creative Commons Attribution- NonCommercial 4.0 International License. To view a copy of this license, visit [http://creativecommo...nses/by-nc/4.0/](http://creativecommons.org/licenses/by-nc/4.0/) or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
+This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License. To view a copy of this license, visit [http://creativecommo...nses/by-nc/4.0/](http://creativecommons.org/licenses/by-nc/4.0/) or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
 
 ---
 

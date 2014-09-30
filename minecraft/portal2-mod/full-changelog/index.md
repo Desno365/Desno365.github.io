@@ -4,6 +4,11 @@ title: Portal 2 Mod full changelog
 excerpt: "Portal 2 Mod full changelog"
 ---
 
+**Portal 2 Mod r008**
+{% highlight text %}
+- FIX: fixed the bug that, when you are playing on negative axes, Jumper, Propulsion Gel and Repulsion Gel act like they are at -1 Z and -1 X from where they are
+{% endhighlight %}
+
 **Portal 2 Mod r007**
 {% highlight text %}
 - NEW: the Repulsion Gel Block
