@@ -76,16 +76,13 @@ This section is Work In Progress
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. In efficitur ante vel quam pulvinar, vitae tincidunt ante ultrices. Morbi porta ipsum volutpat laoreet suscipit. Proin placerat imperdiet elit, ut tristique turpis consectetur et. Aenean ac sem molestie, eleifend ligula cursus, accumsan dolor. Donec egestas massa eros, vitae sodales mauris tempor at. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed eget neque tellus.
 
->! Testing something
->! Lorem ipsum dolor sit amet, consectetur adipiscing elit. In efficitur ante vel quam pulvinar, vitae tincidunt ante ultrices. Morbi porta ipsum volutpat laoreet suscipit. Proin placerat imperdiet elit, ut tristique turpis consectetur et. Aenean ac sem molestie, eleifend ligula cursus, accumsan dolor. Donec egestas massa eros, vitae sodales mauris tempor at. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed eget neque tellus.
-
 ---
 
 ## Changelog
 
 **Portal 2 Mod r008**
 {% highlight text %}
-- FIX: fixed the bug that, when you are playing on negative axes, Jumper, Propulsion Gel and Repulsion Gel act like they are at -1 Z and -1 X from where they are
+- FIX: fixed the bug that, when the player is on negative axes, Jumper, Propulsion Gel and Repulsion Gel act like they are at -1 Z and -1 X from where they are
 {% endhighlight %}
 
 **Portal 2 Mod r007**
