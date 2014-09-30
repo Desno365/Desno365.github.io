@@ -23,7 +23,7 @@ In this mod you can find also other items inspired by the game "Portal": Gravity
 ## Installation instructions
 
 • Download the zip that contains the necessary files.<br>
-• Extract it with a [file manager](http://lmgtfy.com/?q=file+manager+android) (I use ES File Explorer) or with your computer.<br>
+• Extract it with an [Android file manager](http://lmgtfy.com/?q=file+manager+android) (I use ES File Explorer) or with your computer.<br>
 • <u>IMPORTANT</u>: Move the "portal-sounds" folder in the "/sdcard/games/com.mojang/" folder.<br>
 • Install textures.<br>
 • Import the script from local storage in Blocklauncher and enable it.<br>
