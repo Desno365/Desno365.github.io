@@ -17,5 +17,5 @@ excerpt: "Portal 2 Mod older versions"
 
 <br>Return to the Portal 2 Mod web page:
 
-<div markdown="0"><a href="{{ site.url }}/minecraft/portal2-mod" class="btn">Portal 2 Mod</a></div>
+<div markdown="0"><a href="{{ site.url }}/minecraft/portal2-mod/#downloads" class="btn">Portal 2 Mod</a></div>
 
