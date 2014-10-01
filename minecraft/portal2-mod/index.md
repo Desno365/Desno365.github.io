@@ -11,12 +11,12 @@ excerpt: "Brings Portal 2 in MCPE!"
 
 ## Informations
 
-This mod ports the famous PC game "Portal" in Minecraft Pocket Edition. If you don't know what Portal is look at [this link](http://lmgtfy.com/?q=portal) for more informations about the game.
+This mod try to bring the features of the famous PC game "Portal" in Minecraft Pocket Edition. If you don't know what Portal is look at [this link](http://lmgtfy.com/?q=portal) for more informations about the game.
 
 With this mod you can craft the Portal Gun and then shoot!<br>
 You can teleport yourself everywhere with these portals.<br>
 There are five different Portal Guns with different characteristics.<br>
-In this mod you can find also other items inspired by the game "Portal": GravityGun, Long Fall Boots, Jumpers, Gels. And many other features will come out in future updates.
+In this mod you can find also other items taken from the game "Portal": GravityGun, Long Fall Boots, Jumpers, Gels. And many other features will come out in future updates.
 
 ---
 
@@ -39,7 +39,7 @@ In this mod you can find also other items inspired by the game "Portal": Gravity
 | Website | Support | Regular |
 |:--------|:-------:|:-------:|
 | MediaFire:       | [Support download](http://adf.ly/sUcZK) | [Regular download](http://www.mediafire.com/download/h98mzybsjms5hkl/Portal_Mod_r008_Desno365.zip) |
-| AndroidFileHost: | in upload | in upload |
+| AndroidFileHost: | [Support download](http://adf.ly/sWLGx) | [Regular download](https://www.androidfilehost.com/?fid=95747613655040767) |
 | MEGA:            | [Support download](http://adf.ly/sUcaR) | [Regular download](https://mega.co.nz/#!3tQkAKJR!lg-qEw501m6paWnn_k12TIfYpakGhOOs7N-iORDldmU) |
 |----
 {: rules="groups"}
