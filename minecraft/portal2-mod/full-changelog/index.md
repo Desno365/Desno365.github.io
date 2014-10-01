@@ -19,7 +19,7 @@ excerpt: "Portal 2 Mod full changelog"
 - UPDATE: re-written code for the turrets
 - UPDATE: different folder for the portal-sounds
 - FIX: GravityGun shoot image
-- FIX:: invisible portals with the latest BlockLauncher beta
+- FIX: invisible portals with the latest BlockLauncher beta
 {% endhighlight %}
 
 **Portal 2 Mod r006**

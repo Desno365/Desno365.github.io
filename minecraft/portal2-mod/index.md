@@ -95,7 +95,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. In efficitur ante vel q
 - UPDATE: re-written code for the turrets
 - UPDATE: different folder for the portal-sounds
 - FIX: GravityGun shoot image
-- FIX:: invisible portals with the latest BlockLauncher beta
+- FIX: invisible portals with the latest BlockLauncher beta
 {% endhighlight %}
 
 <br>
