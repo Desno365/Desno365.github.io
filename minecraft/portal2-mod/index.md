@@ -52,11 +52,11 @@ In this mod you can find also other items taken from the game "Portal": GravityG
 <br>
 <font color="#C0C0C0">ADVERTISEMENT:</font><br>
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- ad-inside-pages -->
+<!-- inside-pages-ad-large-rectangle -->
 <ins class="adsbygoogle"
-     style="display:inline-block;width:320px;height:100px"
+     style="display:inline-block;width:336px;height:280px"
      data-ad-client="ca-pub-4328789168608769"
-     data-ad-slot="3011070534"></ins>
+     data-ad-slot="1857238131"></ins>
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
@@ -83,9 +83,30 @@ In this mod you can find also other items taken from the game "Portal": GravityG
 
 ## How to craft and items IDs
 
-This section is Work In Progress
+Click a icon under the "**Crafting**" column to display the how-to-craft image.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In efficitur ante vel quam pulvinar, vitae tincidunt ante ultrices. Morbi porta ipsum volutpat laoreet suscipit. Proin placerat imperdiet elit, ut tristique turpis consectetur et. Aenean ac sem molestie, eleifend ligula cursus, accumsan dolor. Donec egestas massa eros, vitae sodales mauris tempor at. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed eget neque tellus.
+| Item                         | ID       | Crafting |
+|:-----------------------------|:--------:|:--------:|
+| Portal Informations:         | 475      | <figure><a href="{{ site.url }}/images/how-to-craft/crafting/portalInformations.jpg"><img src="{{ site.url }}/images/how-to-craft/icons/portalInformations.png" alt="image"></a></figure> |
+| PortalGun:                   | 470      | <figure><a href="{{ site.url }}/images/how-to-craft/crafting/portalgun.jpg"><img src="{{ site.url }}/images/how-to-craft/icons/portalgun.png" alt="image"></a></figure> |
+| PortalGun Gold:              | 472      | <figure><a href="{{ site.url }}/images/how-to-craft/crafting/portalgunGold.jpg"><img src="{{ site.url }}/images/how-to-craft/icons/portalgunGold.png" alt="image"></a></figure> |
+| PortalGun Iron:              | 473      | <figure><a href="{{ site.url }}/images/how-to-craft/crafting/portalgunIron.jpg"><img src="{{ site.url }}/images/how-to-craft/icons/portalgunIron.png" alt="image"></a></figure> |
+| PortalGun Lava:              | 474      | <figure><a href="{{ site.url }}/images/how-to-craft/crafting/portalgunLava.jpg"><img src="{{ site.url }}/images/how-to-craft/icons/portalgunLava.png" alt="image"></a></figure> |
+| PortalGun Wood & Stone:      | 475      | <figure><a href="{{ site.url }}/images/how-to-craft/crafting/portalgunWoodStone.jpg"><img src="{{ site.url }}/images/how-to-craft/icons/portalgunWoodStone.png" alt="image"></a></figure> |
+| GravityGun:                  | 479      | <figure><a href="{{ site.url }}/images/how-to-craft/crafting/gravityGun.jpg"><img src="{{ site.url }}/images/how-to-craft/icons/gravityGun.png" alt="image"></a></figure> |
+| Long Fall Boot:              | 476      | <figure><a href="{{ site.url }}/images/how-to-craft/crafting/longFallBoot.jpg"><img src="{{ site.url }}/images/how-to-craft/icons/longFallBoot.png" alt="image"></a></figure> |
+| Long Fall Boots:             | 305      | <figure><a href="{{ site.url }}/images/how-to-craft/crafting/longFallBoots.jpg"><img src="{{ site.url }}/images/how-to-craft/icons/longFallBoots.png" alt="image"></a></figure> |
+| Portal Jukebox:              | 220      | Crafting not available<a href="#crafting-not-available-explanation">*</a> |
+| Jumper:                      | 221      | Crafting not available<a href="#crafting-not-available-explanation">*</a> |
+| Portal Radio:                | 222≈225  | Crafting not available<a href="#crafting-not-available-explanation">*</a> |
+| Repulsion Gel Block:         | 226      | Crafting not available<a href="#crafting-not-available-explanation">*</a> |
+| Propulsion Gel Block:        | 227      | Crafting not available<a href="#crafting-not-available-explanation">*</a> |
+| Turret:                      | 478      | Crafting not available<a href="#crafting-not-available-explanation">*</a> |
+| Turrets Options:             | 480      | Crafting not available<a href="#crafting-not-available-explanation">*</a> |
+|----
+{: rules="groups"}
+
+<div id="crafting-not-available-explanation">*The crafting of this item/block is not available, but you find it in Creative Mode or by using this method in Survival Mode: "Portal Informations UI" --> "Settings" --> "Options for custom map-makers" --> "Get Aperture Lab equipment".</div>
 
 ---
 
