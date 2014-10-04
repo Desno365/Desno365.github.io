@@ -119,9 +119,21 @@ See the full changelog here:
 
 ## F.A.Q.
 
-This section is Work In Progress
+*• Can I share this mod on whatever-website.com ?*<br>
+Yes you can, but you have to follow the [license of this mod]({{ site.url }}/minecraft/portal2-mod/#copyrights), this means that you have to give me credits and you can't use my work for commercial purposes (in a few words you can't make money from my work, for example you can't sell my mod).<br>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In efficitur ante vel quam pulvinar, vitae tincidunt ante ultrices. Morbi porta ipsum volutpat laoreet suscipit. Proin placerat imperdiet elit, ut tristique turpis consectetur et. Aenean ac sem molestie, eleifend ligula cursus, accumsan dolor. Donec egestas massa eros, vitae sodales mauris tempor at. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed eget neque tellus.
+*• Does this mod works on local multiplayer?*<br>
+Currently no, because with the current APIs will be pretty difficult to make it working.<br>
+
+*• Can I make a YouTube review for this mod?*<br>
+Of course you can. Remember that you should give me credits for this mod and if you put a link of the [minecraft-forum.net](http://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-mods-tools/2097326-mod-beta-portal-2-mod-portal-gun-r008-by-desno365) thread or the link of [the page on my website]({{ site.url }}/minecraft/portal2-mod) it would be a lot better.<br>
+
+*• If I found a bug, where I should report it?*<br>
+The best way to report a bug is write it on the [minecraft-forum.net](http://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-mods-tools/2097326-mod-beta-portal-2-mod-portal-gun-r008-by-desno365) thread. But, before posting your bug-report, read the ["Known bugs and issues"](http://desno365.github.io/minecraft/portal2-mod/#known-bugs-and-issues) section.
+
+*• How can I support you?*<br>
+You can [follow me on Twitter](https://twitter.com/desno365), [make a donation](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GBEMKJBA3Z7PG), or just a "Thanks" written on the [minecraft-forum.net](http://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-mods-tools/2097326-mod-beta-portal-2-mod-portal-gun-r008-by-desno365) thread makes me happy. ;)<br>
+But only the fact that someone is downloading my mod makes me glad that I made it. :)
 
 ---
 
