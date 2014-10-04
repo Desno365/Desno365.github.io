@@ -11,7 +11,7 @@ excerpt: "Brings Portal 2 in MCPE!"
 
 ## Informations
 
-This mod try to bring the features of the famous PC game "Portal" in Minecraft Pocket Edition. If you don't know what Portal is look at [this link](http://lmgtfy.com/?q=portal) for more informations about the game.
+This mod tries to bring the features of the famous PC game "Portal" in Minecraft Pocket Edition. If you don't know what Portal is look at [this link](http://lmgtfy.com/?q=portal) for more informations about the game.
 
 With this mod you can craft the Portal Gun and then shoot!<br>
 You can teleport yourself everywhere with these portals.<br>
