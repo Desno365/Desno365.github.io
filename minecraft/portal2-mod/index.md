@@ -49,6 +49,17 @@ In this mod you can find also other items taken from the game "Portal": GravityG
 <i>Older Minecraft Pocket Edition versions:</i>
 
 <div markdown="0"><a href="{{ site.url }}/minecraft/portal2-mod/older-versions" class="btn">Older versions</a></div>
+<br>
+<font color="#C0C0C0">ADVERTISEMENT:</font><br>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- ad-inside-pages -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:320px;height:100px"
+     data-ad-client="ca-pub-4328789168608769"
+     data-ad-slot="3011070534"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ---
 
