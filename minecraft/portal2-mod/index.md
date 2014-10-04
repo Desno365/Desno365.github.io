@@ -106,7 +106,7 @@ Click a icon under the "**Crafting**" column to display the how-to-craft image.
 |----
 {: rules="groups"}
 
-<div id="crafting-not-available-explanation">*The crafting of this item/block is not available, but you find it in Creative Mode or by using this method in Survival Mode: "Portal Informations UI" --> "Settings" --> "Options for custom map-makers" --> "Get Aperture Lab equipment".</div>
+<div id="crafting-not-available-explanation">*This item/block doesn't have a crafting recipe but you can get it in Creative Mode or by using this method in Survival Mode: "Portal Informations UI" --> "Settings" --> "Options for custom map-makers" --> "Get Aperture Lab equipment".</div>
 
 ---
 
