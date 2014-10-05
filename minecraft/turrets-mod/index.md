@@ -5,6 +5,120 @@ excerpt: "Turrets in Minecraft PE, kill mobs automatically!"
 comments: true
 ---
 
+![Minecraft Turrets by Desno365]({{ site.url }}/minecraft/turrets-mod/images/turrets-mod-image.jpg)
+
+* Table of Contents
+{:toc}
+
+## Features
+
+• Craft a turret and place it where you want, then make it aggressive with the "Turret options" item and the turret will start to shoot every selected mob that come in his range.<br>
+• There is an option to change the name of the turret.<br>
+• Protect your home with your turrets! ;)
+
+---
+
+## Installation instructions
+
+• Download the zip that contains the necessary files.<br>
+• Extract it with an [Android file manager](http://lmgtfy.com/?q=file+manager+android) (I use ES File Explorer) or with your computer.<br>
+• Install textures.<br>
+• Import the script from local storage in Blocklauncher and enable it.<br>
+• Enjoy! ;)
+
+---
+
+## Downloads
+
+<i>Minecraft Pocket Edition 0.9.5:</i><br>
+<i> --- Turrets Mod <b>r001</b>:</i>
+
+| Website | Support | Regular |
+|:--------|:-------:|:-------:|
+| MediaFire:       | [Support download](http://adf.ly/rfJUz) | [Regular download](http://www.mediafire.com/download/o7xdbe19za3x2to/Turrets_Mod_r001_Desno365.zip) |
+| AndroidFileHost: | [Support download](http://adf.ly/rfJmM) | [Regular download](https://www.androidfilehost.com/?fid=23622183712465438) 
+| MEGA:            | [Support download](http://adf.ly/rfJZn) | [Regular download](https://mega.co.nz/#!u5hgjLLQ!A3fMHmlNpNPUjuo9UXURP2-n0Bn9Fuf-0NrtLg995gA) |
+|----
+{: rules="groups"}
+
+<br>
+
+<font color="#C0C0C0">ADVERTISEMENT:</font><br>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- inside-pages-ad-large-rectangle -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:336px;height:280px"
+     data-ad-client="ca-pub-4328789168608769"
+     data-ad-slot="1857238131"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+---
+
+## Screenshots
+
+<figure>
+  <img src="{{ site.url }}/minecraft/turrets-mod/images/turrets.jpg" alt="turrets">
+  <figcaption>Turrets</figcaption>
+</figure>
+
+<figure>
+  <img src="{{ site.url }}/minecraft/turrets-mod/images/turrets-option-ui.jpg" alt="turrets option ui">
+  <figcaption>The "Turrets options" UI</figcaption>
+</figure>
+
+<figure>
+  <img src="{{ site.url }}/minecraft/turrets-mod/images/turrets-remote-control-ui.jpg" alt="turrets remote control ui">
+  <figcaption>The "Turrets Remote Control" UI</figcaption>
+</figure>
+
+---
+
+## How to craft and items IDs
+
+Click a icon under the "**Crafting**" column to display the crafting recipe of that item.
+
+| Item                         | ID       | Crafting |
+|:-----------------------------|:--------:|:--------:|
+| Turrets Option:              | 400      | <figure><a href="{{ site.url }}/minecraft/turrets-mod/images/how-to-craft/crafting/turretsOptions.jpg"><img src="{{ site.url }}/minecraft/turrets-mod/images/how-to-craft/icons/turretsOptions.png" alt="image"></a></figure> |
+| Turret:                      | 401      | <figure><a href="{{ site.url }}/minecraft/turrets-mod/images/how-to-craft/crafting/turret.jpg"><img src="{{ site.url }}/minecraft/turrets-mod/images/how-to-craft/icons/turret.png" alt="image"></a></figure> |
+| Remote Control:              | 402      | <figure><a href="{{ site.url }}/minecraft/turrets-mod/images/how-to-craft/crafting/remoteControl.jpg"><img src="{{ site.url }}/minecraft/turrets-mod/images/how-to-craft/icons/remoteControl.png" alt="image"></a></figure> |
+|----
+{: rules="groups"}
+
+---
+
+## Changelog
+
+**Turrets Mod r001**
+{% highlight text %}
+- Initial release
+{% endhighlight %}
+
+---
+
+## Known bugs and issues
+
+• If you go far away from a turret it will be removed automatically by Minecraft (but added in your inventory), I'm trying to fix this problem.<br><br>
+• If you find a bug report it in the [minecraft-forum.net thread](http://bit.ly/1ysWtIO).
+
+---
+
+## F.A.Q.
+
+*• Can I share this mod on whatever-website.com ?*<br>
+Yes you can, but you have to follow the [license of this mod]({{ site.url }}/minecraft/turrets-mod/#copyrights), this means that you have to give me credits and you can't use my work for commercial purposes (in a few words you can't make money from my work, for example you can't sell my mod).<br>
+
+*• Can I make a YouTube review for this mod?*<br>
+Of course you can. Remember that you should give me credits for this mod and if you put a link of the [minecraft-forum.net](http://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-mods-tools/2201372-mod-beta-turrets-mod-kill-mobs-automatically-r001) thread or the link of [the page on my website]({{ site.url }}/minecraft/turrets-mod) it would be a lot better.<br>
+
+*• If I found a bug, where I should report it?*<br>
+The best way to report a bug is write it on the [minecraft-forum.net](http://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-mods-tools/2201372-mod-beta-turrets-mod-kill-mobs-automatically-r001) thread. But, before posting your bug-report, read the ["Known bugs and issues"](http://desno365.github.io/minecraft/turrets-mod/#known-bugs-and-issues) section.
+
+*• How can I support you?*<br>
+You can [follow me on Twitter](https://twitter.com/desno365), [make a donation](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GBEMKJBA3Z7PG), or just a "Thanks" written on the [minecraft-forum.net](http://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-mods-tools/2201372-mod-beta-turrets-mod-kill-mobs-automatically-r001) thread makes me happy. ;)<br>
+But only the fact that someone is downloading my mod makes me glad that I made it. :)
 
 ---
 
