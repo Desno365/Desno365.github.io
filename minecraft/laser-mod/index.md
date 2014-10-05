@@ -2,6 +2,7 @@
 layout: page
 title: Laser Mod
 excerpt: "Laser Weapons in Minecraft PE"
+comments: true
 ---
 
 ![Minecraft Laser by Desno365]({{ site.url }}/minecraft/laser-mod/images/laser-mod-image.jpg)

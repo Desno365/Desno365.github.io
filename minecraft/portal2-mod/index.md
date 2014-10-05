@@ -2,6 +2,7 @@
 layout: page
 title: Portal 2 Mod
 excerpt: "Brings Portal 2 in MCPE!"
+comments: true
 ---
 
 ![Minecraft Portal by Desno365]({{ site.url }}/minecraft/portal2-mod/images/minecraft-portal.jpg)
