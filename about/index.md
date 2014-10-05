@@ -2,7 +2,6 @@
 layout: page
 title: About me
 excerpt: "If you want to know more about who is Desno365 this is the page you are looking for"
-modified: 2014-09-14T22:35:38.564948-04:00
 image:
   feature: background-coding-image.jpg
 ---

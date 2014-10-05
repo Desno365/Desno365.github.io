@@ -1,16 +1,12 @@
 ---
 layout: page
-title: Minecraft forum
-excerpt: "All my work made for the Minecraft community"
-modified: 2014-09-16T15:48:38.564948-04:00
+title: Minecraft PE mods
+excerpt: "All my work made for the Minecraft PE community"
 ---
 
-##### My profile on minecraft-forum.net: [Desno365](http://www.minecraftforum.net/members/Desno365)
+![MinecraftPage Image]({{ site.url }}/images/background-minecraft-page-image.jpg)
 
-
-#### My projects:
-
-##### Projects:
+#### My mods:
 
 * [Portal 2 Mod]({{ site.url }}/minecraft/portal2-mod)
 
@@ -21,3 +17,6 @@ modified: 2014-09-16T15:48:38.564948-04:00
 * [Jukebox Mod]({{ site.url }}/minecraft/jukebox-mod)
 
 * [The companion Mod]({{ site.url }}/minecraft/the-companion-mod)
+
+<br>
+**My profile on minecraft-forum.net:** [Desno365](http://www.minecraftforum.net/members/Desno365)

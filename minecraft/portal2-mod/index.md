@@ -87,15 +87,15 @@ Click a icon under the "**Crafting**" column to display the crafting recipe of t
 
 | Item                         | ID       | Crafting |
 |:-----------------------------|:--------:|:--------:|
-| Portal Informations:         | 475      | <figure><a href="{{ site.url }}/images/how-to-craft/crafting/portalInformations.jpg"><img src="{{ site.url }}/images/how-to-craft/icons/portalInformations.png" alt="image"></a></figure> |
-| PortalGun:                   | 470      | <figure><a href="{{ site.url }}/images/how-to-craft/crafting/portalgun.jpg"><img src="{{ site.url }}/images/how-to-craft/icons/portalgun.png" alt="image"></a></figure> |
-| PortalGun Gold:              | 472      | <figure><a href="{{ site.url }}/images/how-to-craft/crafting/portalgunGold.jpg"><img src="{{ site.url }}/images/how-to-craft/icons/portalgunGold.png" alt="image"></a></figure> |
-| PortalGun Iron:              | 473      | <figure><a href="{{ site.url }}/images/how-to-craft/crafting/portalgunIron.jpg"><img src="{{ site.url }}/images/how-to-craft/icons/portalgunIron.png" alt="image"></a></figure> |
-| PortalGun Lava:              | 474      | <figure><a href="{{ site.url }}/images/how-to-craft/crafting/portalgunLava.jpg"><img src="{{ site.url }}/images/how-to-craft/icons/portalgunLava.png" alt="image"></a></figure> |
-| PortalGun Wood & Stone:      | 475      | <figure><a href="{{ site.url }}/images/how-to-craft/crafting/portalgunWoodStone.jpg"><img src="{{ site.url }}/images/how-to-craft/icons/portalgunWoodStone.png" alt="image"></a></figure> |
-| GravityGun:                  | 479      | <figure><a href="{{ site.url }}/images/how-to-craft/crafting/gravityGun.jpg"><img src="{{ site.url }}/images/how-to-craft/icons/gravityGun.png" alt="image"></a></figure> |
-| Long Fall Boot:              | 476      | <figure><a href="{{ site.url }}/images/how-to-craft/crafting/longFallBoot.jpg"><img src="{{ site.url }}/images/how-to-craft/icons/longFallBoot.png" alt="image"></a></figure> |
-| Long Fall Boots:             | 305      | <figure><a href="{{ site.url }}/images/how-to-craft/crafting/longFallBoots.jpg"><img src="{{ site.url }}/images/how-to-craft/icons/longFallBoots.png" alt="image"></a></figure> |
+| Portal Informations:         | 475      | <figure><a href="{{ site.url }}/minecraft/portal2-mod/images/how-to-craft/crafting/portalInformations.jpg"><img src="{{ site.url }}/minecraft/portal2-mod/images/how-to-craft/icons/portalInformations.png" alt="image"></a></figure> |
+| PortalGun:                   | 470      | <figure><a href="{{ site.url }}/minecraft/portal2-mod/images/how-to-craft/crafting/portalgun.jpg"><img src="{{ site.url }}/minecraft/portal2-mod/images/how-to-craft/icons/portalgun.png" alt="image"></a></figure> |
+| PortalGun Gold:              | 472      | <figure><a href="{{ site.url }}/minecraft/portal2-mod/images/how-to-craft/crafting/portalgunGold.jpg"><img src="{{ site.url }}/minecraft/portal2-mod/images/how-to-craft/icons/portalgunGold.png" alt="image"></a></figure> |
+| PortalGun Iron:              | 473      | <figure><a href="{{ site.url }}/minecraft/portal2-mod/images/how-to-craft/crafting/portalgunIron.jpg"><img src="{{ site.url }}/minecraft/portal2-mod/images/how-to-craft/icons/portalgunIron.png" alt="image"></a></figure> |
+| PortalGun Lava:              | 474      | <figure><a href="{{ site.url }}/minecraft/portal2-mod/images/how-to-craft/crafting/portalgunLava.jpg"><img src="{{ site.url }}/minecraft/portal2-mod/images/how-to-craft/icons/portalgunLava.png" alt="image"></a></figure> |
+| PortalGun Wood & Stone:      | 475      | <figure><a href="{{ site.url }}/minecraft/portal2-mod/images/how-to-craft/crafting/portalgunWoodStone.jpg"><img src="{{ site.url }}/minecraft/portal2-mod/images/how-to-craft/icons/portalgunWoodStone.png" alt="image"></a></figure> |
+| GravityGun:                  | 479      | <figure><a href="{{ site.url }}/minecraft/portal2-mod/images/how-to-craft/crafting/gravityGun.jpg"><img src="{{ site.url }}/minecraft/portal2-mod/images/how-to-craft/icons/gravityGun.png" alt="image"></a></figure> |
+| Long Fall Boot:              | 476      | <figure><a href="{{ site.url }}/minecraft/portal2-mod/images/how-to-craft/crafting/longFallBoot.jpg"><img src="{{ site.url }}/minecraft/portal2-mod/images/how-to-craft/icons/longFallBoot.png" alt="image"></a></figure> |
+| Long Fall Boots:             | 305      | <figure><a href="{{ site.url }}/minecraft/portal2-mod/images/how-to-craft/crafting/longFallBoots.jpg"><img src="{{ site.url }}/minecraft/portal2-mod/images/how-to-craft/icons/longFallBoots.png" alt="image"></a></figure> |
 | Portal Jukebox:              | 220      | Crafting not available<a href="#crafting-not-available-explanation">*</a> |
 | Jumper:                      | 221      | Crafting not available<a href="#crafting-not-available-explanation">*</a> |
 | Portal Radio:                | 222≈225  | Crafting not available<a href="#crafting-not-available-explanation">*</a> |
