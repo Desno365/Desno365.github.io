@@ -5,18 +5,133 @@ excerpt: "The jukebox of Minecraft PC in Minecraft PE"
 modified: 2014-09-16T15:48:38.564948-04:00
 ---
 
-This page is in Work In Progress ;)
+<i>Do you miss the Jukebox of Minecraft PC? This mod is a porting of it to Minecraft Pocket Edition!</i>
 
-However you can check out the minecraft-forum thread of this mod at this link:
+* Table of Contents
+{:toc}
 
-<div markdown="0"><a href="http://bit.ly/1ysX6lQ" class="btn">Link to the thread</a></div>
+## Features
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec dignissim, risus ac mattis bibendum, tellus ex fermentum ante, sit amet posuere enim mauris in elit. Donec ac ex fringilla, luctus mauris a, convallis sapien. Nunc fermentum vel enim in consequat. Nunc mollis ipsum vel ornare imperdiet. Suspendisse bibendum leo ut arcu maximus, eu consectetur tortor luctus. Aliquam sit amet volutpat nisi. Nulla eu placerat purus, sit amet venenatis quam. Proin placerat ante ut pulvinar tincidunt. Suspendisse faucibus ante nec turpis consectetur porta. Nam sed rutrum nisl, eu efficitur tortor. Ut et turpis id libero convallis dignissim. Aliquam erat volutpat.
+• There are twelve different discs with twelve different songs (songs are ported from Minecraft PC).<br>
+• Tap the jukebox with a disc and it will start playing the choosed song.<br>
+• Greater the distance between you and the Jukebox, lower the volume of it.<br>
+• Support multiple jukeboxes that play simultaneously.<br>
+• There is a random chance of finding a disc every 30 kills of hostile mobs.<br>
+• Tap the Jukebox to eject the disc. When the song ends the disc will be ejected automatically.<br>
+• The Jukebox block and the discs are also in the creative inventory.<br>
+• The crafting recipes of the Jukebox are the same of the PC version.
 
-Etiam pulvinar erat neque, vel imperdiet diam dignissim et. Proin purus nibh, dignissim id mattis id, hendrerit ac nisi. Suspendisse dui ipsum, consequat sit amet eleifend ut, dignissim vel diam. Suspendisse mauris felis, elementum id dolor vitae, ullamcorper hendrerit odio. Praesent tortor eros, commodo in arcu et, tincidunt pretium justo. Morbi eget suscipit felis. Ut vel viverra ligula. Praesent at hendrerit eros, eget tempus tellus. Donec vitae libero efficitur, pulvinar ante at, aliquam felis. Maecenas consectetur sit amet eros sit amet vestibulum. Sed sed efficitur turpis.
 
-Morbi libero arcu, consequat eu placerat at, porta at dolor. Aenean ut nisl ac sem ultrices vehicula sed non magna. Integer pulvinar cursus nisl, at pellentesque ligula viverra quis. Proin dapibus gravida vehicula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at est at odio egestas pretium. Nulla volutpat malesuada dolor, nec molestie massa viverra ut. Praesent aliquet eros ac nunc consectetur, a bibendum enim venenatis. Sed vitae semper libero, vitae fermentum tellus. Phasellus maximus dictum tortor, sed semper turpis ornare in. In hac habitasse platea dictumst. Sed a massa tortor.
+---
 
-Donec nunc odio, rutrum in lacus quis, volutpat laoreet nibh. Ut ut justo lacus. Fusce sit amet congue nulla. Nulla ut lectus tellus. Vestibulum consequat sapien mi, ut gravida lorem vulputate vel. Nunc congue vitae dolor et varius. Cras egestas viverra est sed dignissim. Curabitur dapibus, justo ac varius pellentesque, velit nunc volutpat urna, vel sodales urna diam vel dui. Praesent ligula tellus, sodales scelerisque felis et, hendrerit dictum magna. Sed erat sem, faucibus eget lobortis quis, malesuada quis elit. Proin non tortor euismod, efficitur eros et, rhoncus tortor.
+## Installation instructions
 
-Cras varius eget velit ut consequat. Pellentesque eu lorem ut sapien ornare aliquam nec quis nulla. Phasellus eu lectus gravida, bibendum libero at, dignissim metus. Nullam sed orci nec erat volutpat iaculis. Sed vel porta nibh, at pellentesque tellus. Nullam rhoncus eget erat ut ornare. Fusce dui nunc, porta nec sapien eget, ullamcorper imperdiet dolor. Fusce at hendrerit ipsum. Ut eu massa lacus. Integer et tellus vel felis commodo porttitor vitae ac augue. Aliquam ut magna in nibh vehicula sodales. Mauris convallis luctus congue. Ut velit lacus, interdum ac finibus id, luctus at dui. Aliquam dictum hendrerit diam, vel fringilla nulla aliquam non. Morbi porta id magna at cursus.
+• Download the zip that contains the necessary files.<br>
+• Extract it with an [Android file manager](http://lmgtfy.com/?q=file+manager+android) (I use ES File Explorer) or with your computer.<br>
+• <u>IMPORTANT</u>: Move the "minecraft-jukebox" folder in the "/sdcard/games/com.mojang/" folder.<br>
+• Import the script from local storage in Blocklauncher and enable it.<br>
+• Enjoy! ;)
+
+---
+
+## Downloads
+
+<i>Minecraft Pocket Edition 0.9.5:</i><br>
+<i> --- Jukebox Mod <b>r002</b>:</i>
+
+| Website | Support | Regular |
+|:--------|:-------:|:-------:|
+| MediaFire:       | [Support download](http://adf.ly/rMLgk) | [Regular download](http://www.mediafire.com/download/qvtuhflw0wncfb7/Jukebox_Mod_r002_Desno365.zip) |
+| MEGA:            | [Support download](http://adf.ly/rMKm6) | [Regular download](https://mega.co.nz/#!P4pWzCgA!HrjiZ2epU-rbRYGlBgH4wG5YBZfe3tTHroA4gdUJCwg) |
+|----
+{: rules="groups"}
+
+<br>
+
+<font color="#C0C0C0">ADVERTISEMENT:</font><br>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- inside-pages-ad-large-rectangle -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:336px;height:280px"
+     data-ad-client="ca-pub-4328789168608769"
+     data-ad-slot="1857238131"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+---
+
+## Screenshots
+
+![Now Playing screenshot]({{ site.url }}/minecraft/jukebox-mod/images/now-playing-screen.jpg)
+
+![Eject Disc screenshot]({{ site.url }}/minecraft/jukebox-mod/images/eject-screen.jpg)
+
+<figure>
+  <img src="{{ site.url }}/minecraft/jukebox-mod/images/help-ui.jpg" alt="jukebox help ui">
+  <figcaption>This help UI will be displayed when you tap the Jukebox with an item that isn't a disc</figcaption>
+</figure>
+
+---
+
+## How to craft and items IDs
+
+Click a icon under the "**Crafting**" column to display the crafting recipe of that item.
+
+| Item                         | ID       | Crafting |
+|:-----------------------------|:--------:|:--------:|
+| Jukebox:                     | 84      | <figure><a href="{{ site.url }}/minecraft/jukebox-mod/images/how-to-craft/crafting/jukebox.jpg"><img src="{{ site.url }}/minecraft/jukebox-mod/images/how-to-craft/icons/jukebox.png" alt="image"></a></figure> |
+| Discs:                       | 415≈426 | Crafting not available<a href="#crafting-not-available-explanation">*</a> |
+|----
+{: rules="groups"}
+
+<div id="crafting-not-available-explanation">*This item/block doesn't have a crafting recipe but you can get it in Creative Mode, or there is a random chance of finding a disc every 30 kills of hostile mobs in Survival Mode.</div>
+
+---
+
+## Changelog
+
+**Jukebox Mod r002**
+{% highlight text %}
+- NEW: now it's possible to craft the jukebox. 
+- UPDATED: increased the distance when the volume of the music is 0 (before the volume became 0 at 30 blocks, now you need a distance of 65 blocks for a volume of 0). This is now the same as the PC. 
+{% endhighlight %}
+
+**Jukebox Mod r001**
+{% highlight text %}
+- Initial release
+{% endhighlight %}
+
+---
+
+## Known bugs and issues
+
+• No known bugs (for now).<br><br>
+• If you find a bug report it in the [minecraft-forum.net thread][thread].
+
+---
+
+## F.A.Q.
+
+*• Can I share this mod on whatever-website.com ?*<br>
+Yes you can, but you have to follow the [license of this mod]({{ site.url }}/minecraft/jukebox-mod/#copyrights), this means that you have to give me credits and you can't use my work for commercial purposes (in a few words you can't make money from my work, for example you can't sell my mod).<br>
+
+*• Can I make a YouTube review for this mod?*<br>
+Of course you can. Remember that you should give me credits for this mod and if you put a link of the [minecraft-forum.net][thread] thread or the link of [the page on my website]({{ site.url }}/minecraft/jukebox-mod) it would be a lot better.<br>
+
+*• If I found a bug, where I should report it?*<br>
+The best way to report a bug is write it on the [minecraft-forum.net][thread] thread. But, before posting your bug-report, read the ["Known bugs and issues"](http://desno365.github.io/minecraft/jukebox-mod/#known-bugs-and-issues) section.
+
+*• How can I support you?*<br>
+You can [follow me on Twitter](https://twitter.com/desno365), [make a donation](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GBEMKJBA3Z7PG), or just a "Thanks" written on the [minecraft-forum.net][thread] thread makes me happy. ;)<br>
+But only the fact that someone is downloading my mod makes me glad that I made it. :)
+
+---
+
+## Copyrights
+
+This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License. To view a copy of this license, visit [http://creativecommo...nses/by-nc/4.0/](http://creativecommons.org/licenses/by-nc/4.0/) or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
+
+---
+
+[thread]:    http://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-mods-tools/2173829-mod-jukebox-mod-pc-porting-r002-by-desno365

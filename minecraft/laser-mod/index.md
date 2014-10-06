@@ -125,7 +125,7 @@ See the full changelog here:
 ## Known bugs and issues
 
 • Laser Gun: sometimes the block destroyed it's not the block pointed with the laser.<br><br>
-• If you find a bug report it in the [minecraft-forum.net thread](http://bit.ly/1ysWtIO).
+• If you find a bug report it in the [minecraft-forum.net thread][thread].
 
 ---
 
@@ -135,13 +135,13 @@ See the full changelog here:
 Yes you can, but you have to follow the [license of this mod]({{ site.url }}/minecraft/laser-mod/#copyrights), this means that you have to give me credits and you can't use my work for commercial purposes (in a few words you can't make money from my work, for example you can't sell my mod).<br>
 
 *• Can I make a YouTube review for this mod?*<br>
-Of course you can. Remember that you should give me credits for this mod and if you put a link of the [minecraft-forum.net](http://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-mods-tools/2179257-mod-beta-laser-mod-laser-weapons-r003-by-desno365) thread or the link of [the page on my website]({{ site.url }}/minecraft/laser-mod) it would be a lot better.<br>
+Of course you can. Remember that you should give me credits for this mod and if you put a link of the [minecraft-forum.net][thread] thread or the link of [the page on my website]({{ site.url }}/minecraft/laser-mod) it would be a lot better.<br>
 
 *• If I found a bug, where I should report it?*<br>
-The best way to report a bug is write it on the [minecraft-forum.net](http://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-mods-tools/2179257-mod-beta-laser-mod-laser-weapons-r003-by-desno365) thread. But, before posting your bug-report, read the ["Known bugs and issues"](http://desno365.github.io/minecraft/laser-mod/#known-bugs-and-issues) section.
+The best way to report a bug is write it on the [minecraft-forum.net][thread] thread. But, before posting your bug-report, read the ["Known bugs and issues"](http://desno365.github.io/minecraft/laser-mod/#known-bugs-and-issues) section.
 
 *• How can I support you?*<br>
-You can [follow me on Twitter](https://twitter.com/desno365), [make a donation](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GBEMKJBA3Z7PG), or just a "Thanks" written on the [minecraft-forum.net](http://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-mods-tools/2179257-mod-beta-laser-mod-laser-weapons-r003-by-desno365) thread makes me happy. ;)<br>
+You can [follow me on Twitter](https://twitter.com/desno365), [make a donation](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GBEMKJBA3Z7PG), or just a "Thanks" written on the [minecraft-forum.net][thread] thread makes me happy. ;)<br>
 But only the fact that someone is downloading my mod makes me glad that I made it. :)
 
 ---
@@ -158,3 +158,4 @@ This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 I
 
 ---
 
+[thread]: http://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-mods-tools/2179257-mod-beta-laser-mod-laser-weapons-r003-by-desno365

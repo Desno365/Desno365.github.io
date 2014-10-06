@@ -107,7 +107,7 @@ Click a icon under the "**Crafting**" column to display the crafting recipe of t
 |----
 {: rules="groups"}
 
-<div id="crafting-not-available-explanation">*This item/block doesn't have a crafting recipe but you can get it in Creative Mode or by using this method in Survival Mode: "Portal Informations UI" --> "Settings" --> "Options for custom map-makers" --> "Get Aperture Lab equipment".</div>
+<div id="crafting-not-available-explanation">*This item/block doesn't have a crafting recipe but you can get it in Creative Mode, or by using this method in Survival Mode: "Portal Informations UI" --> "Settings" --> "Options for custom map-makers" --> "Get Aperture Lab equipment".</div>
 
 ---
 
@@ -146,7 +146,7 @@ See the full changelog here:
 • Turrets are in pre-beta stage so you can find many bugs with them.<br>
 • The images of portals are black (BlockLauncher bug).<br>
 • There is a x-ray glitch near portals (BlockLauncher bug).<br><br>
-• If you find a bug report it in the [minecraft-forum.net thread](http://bit.ly/1ysWtIO).
+• If you find a bug report it in the [minecraft-forum.net thread][thread].
 
 ---
 
@@ -159,13 +159,13 @@ Yes you can, but you have to follow the [license of this mod]({{ site.url }}/min
 Currently no, because with the current APIs will be pretty difficult to make it working.<br>
 
 *• Can I make a YouTube review for this mod?*<br>
-Of course you can. Remember that you should give me credits for this mod and if you put a link of the [minecraft-forum.net](http://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-mods-tools/2097326-mod-beta-portal-2-mod-portal-gun-r008-by-desno365) thread or the link of [the page on my website]({{ site.url }}/minecraft/portal2-mod) it would be a lot better.<br>
+Of course you can. Remember that you should give me credits for this mod and if you put a link of the [minecraft-forum.net][thread] thread or the link of [the page on my website]({{ site.url }}/minecraft/portal2-mod) it would be a lot better.<br>
 
 *• If I found a bug, where I should report it?*<br>
-The best way to report a bug is write it on the [minecraft-forum.net](http://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-mods-tools/2097326-mod-beta-portal-2-mod-portal-gun-r008-by-desno365) thread. But, before posting your bug-report, read the ["Known bugs and issues"](http://desno365.github.io/minecraft/portal2-mod/#known-bugs-and-issues) section.
+The best way to report a bug is write it on the [minecraft-forum.net][thread] thread. But, before posting your bug-report, read the ["Known bugs and issues"](http://desno365.github.io/minecraft/portal2-mod/#known-bugs-and-issues) section.
 
 *• How can I support you?*<br>
-You can [follow me on Twitter](https://twitter.com/desno365), [make a donation](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GBEMKJBA3Z7PG), or just a "Thanks" written on the [minecraft-forum.net](http://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-mods-tools/2097326-mod-beta-portal-2-mod-portal-gun-r008-by-desno365) thread makes me happy. ;)<br>
+You can [follow me on Twitter](https://twitter.com/desno365), [make a donation](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GBEMKJBA3Z7PG), or just a "Thanks" written on the [minecraft-forum.net][thread] thread makes me happy. ;)<br>
 But only the fact that someone is downloading my mod makes me glad that I made it. :)
 
 ---
@@ -188,3 +188,4 @@ This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 I
 
 ---
 
+[thread]: http://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-mods-tools/2097326-mod-beta-portal-2-mod-portal-gun-r008-by-desno365
