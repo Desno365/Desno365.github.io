@@ -58,7 +58,7 @@ excerpt: "Portal 2 Mod full changelog"
 
 **Portal 2 Mod r003**
 {% highlight text %}
-- NEW: restyled GUI (see screenshots)
+- NEW: restyled GUI
 - NEW: you can spawn portals under blocks (see http://imgur.com/GRlgnFX)
 - NEW: damage for Portal guns
 - NEW: sound for the PortalGun Wood & Stone
