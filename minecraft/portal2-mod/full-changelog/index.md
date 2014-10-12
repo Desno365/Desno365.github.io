@@ -25,19 +25,19 @@ excerpt: "Portal 2 Mod full changelog"
 **Portal 2 Mod r006**
 {% highlight text %}
 - NEW: added the Portal's items in Creative
-- FIXED: when you destroy the block under a turret, the turret will fall instead of flying (sometimes glitchy, in certain circumstances the turret can move itself after falling)
-- FIXED: fixed the bug that in certain circumstances, without an Internet connection, the mod wrongly reports that there is a new update
-- UPDATED: increased a little bit speed of the PortalGun's bullets
+- FIX: when you destroy the block under a turret, the turret will fall instead of flying (sometimes glitchy, in certain circumstances the turret can move itself after falling)
+- FIX: fixed the bug that in certain circumstances, without an Internet connection, the mod wrongly reports that there is a new update
+- UPDATE: increased a little bit speed of the PortalGun's bullets
 {% endhighlight %}
 
 **Portal 2 Mod r005**
 {% highlight text %}
 - NEW: you can set the buttons size for PortalGuns and GravityGun
-- NEW: place 4 turrets near themselves and they will start to sing (see [url=http://i.imgur.com/foYMwi1.jpg|_blank]image[/url])
+- NEW: place 4 turrets near themselves and they will start to sing (see http://i.imgur.com/foYMwi1.jpg)
 - UPDATE: increased the max limit of turrets, now you can spawn a max of 20 turrets.
 - UPDATE: turrets open the guns when they are shooting. And if aggressive is ON a laser for the turret will appear
 - UPDATE: added an option in the Turrets Options GUI for removing the turret
-- FIXED: fixed the bug that turrets fly after they have been dropped by a PortalGun or by a GravityGun
+- FIX: fixed the bug that turrets fly after they have been dropped by a PortalGun or by a GravityGun
 {% endhighlight %}
 
 **Portal 2 Mod r004**
@@ -53,13 +53,13 @@ excerpt: "Portal 2 Mod full changelog"
 - UPDATE: flat portals
 - UPDATE: new algorithm for long fall boots (works better)
 - UPDATE: updated "support the developer" section in the GUI
-- FIXED: now correctly deletes the portals when your exit the game
+- FIX: now correctly deletes the portals when your exit the game
 {% endhighlight %}
 
 **Portal 2 Mod r003**
 {% highlight text %}
 - NEW: restyled GUI (see screenshots)
-- NEW: you can spawn portals under blocks (see [url=http://imgur.com/GRlgnFX]image[/url])
+- NEW: you can spawn portals under blocks (see http://imgur.com/GRlgnFX)
 - NEW: damage for Portal guns
 - NEW: sound for the PortalGun Wood & Stone
 - NEW: "turret song" in the Portal jukebox
