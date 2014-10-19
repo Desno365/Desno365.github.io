@@ -26,6 +26,13 @@ comments: true
 • Import the script from local storage in Blocklauncher and enable it.<br>
 • Enjoy! ;)
 
+• Optional: download the ["Desno365's Mods" app](https://play.google.com/store/apps/details?id=com.desno365.mods) from Google Play Store.
+
+<a href="https://play.google.com/store/apps/details?id=com.desno365.mods">
+  <img alt="Get it on Google Play"
+       src="/images/en_generic_rgb_wo_45.png" />
+</a>
+
 ---
 
 ## Downloads
@@ -41,7 +48,8 @@ comments: true
 |----
 {: rules="groups"}
 
-<br>
+• Remember to read the "Installation instructions" section before downloading.
+<br><br>
 
 <font color="#C0C0C0">ADVERTISEMENT:</font><br>
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>

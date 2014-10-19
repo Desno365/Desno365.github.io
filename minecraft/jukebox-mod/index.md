@@ -13,7 +13,7 @@ modified: 2014-09-16T15:48:38.564948-04:00
 ## Features
 
 • There are twelve different discs with twelve different songs (songs are ported from Minecraft PC).<br>
-• Tap the jukebox with a disc and it will start playing the choosed song.<br>
+• Tap the jukebox with a disc and it will start playing the chosen song.<br>
 • Greater the distance between you and the Jukebox, lower the volume of it.<br>
 • Support multiple jukeboxes that play simultaneously.<br>
 • There is a random chance of finding a disc every 30 kills of hostile mobs.<br>
@@ -32,6 +32,13 @@ modified: 2014-09-16T15:48:38.564948-04:00
 • Import the script from local storage in Blocklauncher and enable it.<br>
 • Enjoy! ;)
 
+• Optional: download the ["Desno365's Mods" app](https://play.google.com/store/apps/details?id=com.desno365.mods) from Google Play Store.
+
+<a href="https://play.google.com/store/apps/details?id=com.desno365.mods">
+  <img alt="Get it on Google Play"
+       src="/images/en_generic_rgb_wo_45.png" />
+</a>
+
 ---
 
 ## Downloads
@@ -46,7 +53,8 @@ modified: 2014-09-16T15:48:38.564948-04:00
 |----
 {: rules="groups"}
 
-<br>
+• Remember to read the "Installation instructions" section before downloading.
+<br><br>
 
 <font color="#C0C0C0">ADVERTISEMENT:</font><br>
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
