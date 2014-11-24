@@ -15,7 +15,7 @@ I made this site because I like computer and related things. Here I will add all
 
 These are the geek stuffs that I use:
 {% highlight text %}
-- Nexus 4 – Stock 4.4.4 KTU84P
+- Nexus 4 – Android stock 5.0 LRX21T
 - iMac (21.5-inch, Late 2009)
 {% endhighlight %}
 
@@ -23,7 +23,7 @@ These are the geek stuffs that I use:
 
 If you want you can follow me on Twitter and read my latest news, the link is in the footer of this page.
 
-I have also a Paypal account so if you want to support me you can make a little donation.
+I have also a Paypal account so if you want to support me you can make a donation. :)
 
 <div markdown="0"><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GBEMKJBA3Z7PG" class="btn">Donate!</a></div>
 
