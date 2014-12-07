@@ -91,7 +91,7 @@ In this mod you can find also other items taken from the game "Portal": GravityG
 
 ## How to craft and items IDs
 
-Click a icon under the "**Crafting**" column to display the crafting recipe of that item.
+Click an icon under the "**Crafting**" column to display the crafting recipe of that item.
 
 | Item                         | ID       | Crafting |
 |:-----------------------------|:--------:|:--------:|

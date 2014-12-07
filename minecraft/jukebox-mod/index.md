@@ -84,7 +84,7 @@ modified: 2014-09-16T15:48:38.564948-04:00
 
 ## How to craft and items IDs
 
-Click a icon under the "**Crafting**" column to display the crafting recipe of that item.
+Click an icon under the "**Crafting**" column to display the crafting recipe of that item.
 
 | Item                         | ID       | Crafting |
 |:-----------------------------|:--------:|:--------:|
