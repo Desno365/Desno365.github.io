@@ -17,7 +17,7 @@ This mod tries to bring the features of the famous PC game "Portal" in Minecraft
 With this mod you can craft the Portal Gun and then shoot!<br>
 You can teleport yourself everywhere with these portals.<br>
 There are five different Portal Guns with different characteristics.<br>
-In this mod you can find also other items taken from the game "Portal": GravityGun, Long Fall Boots, Jumpers, Gels. And many other features will come out in future updates.
+In this mod you can find also other items taken from the game "Portal": Long Fall Boots, Jumpers, Gels. And many other features will come out in future updates.
 
 ---
 
