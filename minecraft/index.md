@@ -8,6 +8,8 @@ excerpt: "All my work made for the Minecraft PE community"
 
 #### My mods:
 
+* [DesnoGuns Mod]({{ site.url }}/minecraft/desnoguns-mod)
+
 * [Portal 2 Mod]({{ site.url }}/minecraft/portal2-mod)
 
 * [Laser Mod]({{ site.url }}/minecraft/laser-mod)
