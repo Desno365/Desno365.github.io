@@ -41,9 +41,9 @@ Guns. Weapons. Explosions. This is the DesnoGuns Mod! :D
 
 | Website | Support | Regular |
 |:--------|:-------:|:-------:|
-| MediaFire:       | Download not available until the 12th of December | Download not available until the 12th of December |
-| AndroidFileHost: | Download not available until the 12th of December | Download not available until the 12th of December |
-| MEGA:            | Download not available until the 12th of December | Download not available until the 12th of December |
+| MediaFire:       | [Support download](http://adf.ly/vCnna) | [Regular download](http://www.mediafire.com/download/nvrd0kkc76v8mxi/DesnoGuns_r001_Desno365.zip) |
+| AndroidFileHost: | [Support download](http://adf.ly/vCtLy) | [Regular download](https://www.androidfilehost.com/?fid=95853297432265019) |
+| MEGA:            | [Support download](http://adf.ly/vCnSI) | [Regular download](https://mega.co.nz/#!G0xnGahL!k0SjnYIEJHFVCHRgaHLcbMsFRkJyeYvMOWU6l2mdWhI) |
 |----
 {: rules="groups"}
 
@@ -180,13 +180,13 @@ Click an icon under the "**Crafting**" column to display the crafting recipe of 
 
 ## F.A.Q.
 
-*• Can I share this mod on whatever-website.com ?*<br>
+*• Can I share this mod on whatever-website.com / with my friends / on the xyz social network ?*<br>
 Yes you can, but you have to follow the [license of this mod]({{ site.url }}/minecraft/desnoguns-mod/#copyrights), this means that you have to give me credits and you can't use my work for commercial purposes (in a few words you can't make money from my work, for example you can't sell my mod).<br>
 
 *• Can I make a YouTube review for this mod?*<br>
-Of course you can. Remember that you should give me credits for this mod and if you put a link of the [minecraft-forum.net][thread] thread or the link of [the page on my website]({{ site.url }}/minecraft/desnoguns-mod) it would be a lot better.<br>
+Of course you can. Only one thing: if you want to add a link for the download, please, don't put a direct download link but just put a link of this web page.<br>
 
-*• If I found a bug, where I should report it?*<br>
+*• If I find a bug, where I should report it?*<br>
 The best way to report a bug is write it on the [minecraft-forum.net][thread] thread. But, before posting your bug-report, read the ["Known bugs and issues"](http://desno365.github.io/minecraft/desnoguns-mod/#known-bugs-and-issues) section.
 
 *• How can I support you?*<br>

@@ -145,7 +145,7 @@ Yes you can, but you have to follow the [license of this mod]({{ site.url }}/min
 *• Can I make a YouTube review for this mod?*<br>
 Of course you can. Remember that you should give me credits for this mod and if you put a link of the [minecraft-forum.net][thread] thread or the link of [the page on my website]({{ site.url }}/minecraft/laser-mod) it would be a lot better.<br>
 
-*• If I found a bug, where I should report it?*<br>
+*• If I find a bug, where I should report it?*<br>
 The best way to report a bug is write it on the [minecraft-forum.net][thread] thread. But, before posting your bug-report, read the ["Known bugs and issues"](http://desno365.github.io/minecraft/laser-mod/#known-bugs-and-issues) section.
 
 *• How can I support you?*<br>
