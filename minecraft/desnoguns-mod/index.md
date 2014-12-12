@@ -210,4 +210,4 @@ The work of Flan (all the textures and some of the sounds) are licensed under th
 
 ---
 
-[thread]: http://not.released.on.minecraftforum.net.yet
+[thread]: http://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-mods-tools/2299721-mod-desnoguns-mod-r001-by-desno365
