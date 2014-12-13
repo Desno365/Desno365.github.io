@@ -173,7 +173,8 @@ Click an icon under the "**Crafting**" column to display the crafting recipe of 
 
 ## Known bugs and issues
 
-• If you shoot multiple arrows to a mob, sometimes, they bounce back to you and damage you. I made a workaround for this, you can enable it in the settings of the mod.<br><br>
+• If you shoot multiple arrows to a mob, sometimes, they bounce back to you and damage you. I made a workaround for this, you can enable it in the settings of the mod.<br>
+• Grenades are cows (this is due to a BlockLauncher bug).<br><br>
 • If you find a bug report it in the [minecraft-forum.net thread][thread].
 
 ---
@@ -181,6 +182,7 @@ Click an icon under the "**Crafting**" column to display the crafting recipe of 
 ## F.A.Q.
 
 *• Can I share this mod on whatever-website.com / with my friends / on the xyz social network ?*<br>
+*• Can I make a modpack with this mod?*<br>
 Yes you can, but you have to follow the [license of this mod]({{ site.url }}/minecraft/desnoguns-mod/#copyrights), this means that you have to give me credits and you can't use my work for commercial purposes (in a few words you can't make money from my work, for example you can't sell my mod).<br>
 
 *• Can I make a YouTube review for this mod?*<br>
