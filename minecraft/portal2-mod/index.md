@@ -17,7 +17,7 @@ This mod tries to bring the features of the famous PC game "Portal" in Minecraft
 With this mod you can craft the Portal Gun and then shoot!<br>
 You can teleport yourself everywhere with these portals.<br>
 There are five different Portal Guns with different characteristics.<br>
-In this mod you can find also other items taken from the game "Portal": Long Fall Boots, Jumpers, Gels. And many other features will come out in future updates.
+In this mod you can find also other items copied from the game "Portal": Long Fall Boots, Jumpers, Gels. And many other features will come out in future updates.
 
 ---
 
@@ -25,9 +25,9 @@ In this mod you can find also other items taken from the game "Portal": Long Fal
 
 • Download the zip that contains the necessary files.<br>
 • Extract it with an [Android file manager](http://lmgtfy.com/?q=file+manager+android) (I use ES File Explorer) or with your computer.<br>
-• <u>IMPORTANT</u>: Move the "portal-sounds" folder in the "/sdcard/games/com.mojang/" folder.<br>
-• Install textures.<br>
-• Import the script from local storage in Blocklauncher and enable it.<br>
+• <u>IMPORTANT</u>: Move with your file manager the "portal-sounds" folder in the "/sdcard/games/com.mojang/" folder.<br>
+• Install textures in BlockLauncher.<br>
+• Import the script from local storage in BlockLauncher and enable it.<br>
 • Enjoy! ;)
 
 • Optional: download the ["Desno365's Mods" app](https://play.google.com/store/apps/details?id=com.desno365.mods) from Google Play Store.
@@ -41,14 +41,14 @@ In this mod you can find also other items taken from the game "Portal": Long Fal
 
 ## Downloads
 
-<i>Minecraft Pocket Edition 0.9.5:</i><br>
-<i> --- Portal 2 Mod <b>r008</b>:</i>
+<i>Minecraft Pocket Edition 0.10.4 & 0.9.5:</i><br>
+<i> --- Portal 2 Mod <b>r009</b>:</i>
 
 | Website | Support | Regular |
 |:--------|:-------:|:-------:|
-| MediaFire:       | [Support download](http://adf.ly/sUcZK) | [Regular download](http://www.mediafire.com/download/h98mzybsjms5hkl/Portal_Mod_r008_Desno365.zip) |
-| AndroidFileHost: | [Support download](http://adf.ly/sWLGx) | [Regular download](https://www.androidfilehost.com/?fid=95747613655040767) |
-| MEGA:            | [Support download](http://adf.ly/sUcaR) | [Regular download](https://mega.co.nz/#!3tQkAKJR!lg-qEw501m6paWnn_k12TIfYpakGhOOs7N-iORDldmU) |
+| MediaFire:       | [Support download](http://adf.ly/vEMDH) | [Regular download](http://www.mediafire.com/download/sswtq381n35gikw/Portal_Mod_r009_Desno365.zip) |
+| AndroidFileHost: | [Support download](http://adf.ly/vEMLV) | [Regular download](https://www.androidfilehost.com/?fid=95855108297851051) |
+| MEGA:            | [Support download](http://adf.ly/vEN7p) | [Regular download](https://mega.co.nz/#!vtQCiS5J!hSCmx7CttjfPYv3PGtBp72QoKMvkA9ors8VkCp32R3A) |
 |----
 {: rules="groups"}
 
@@ -120,22 +120,9 @@ Click an icon under the "**Crafting**" column to display the crafting recipe of 
 
 ## Changelog
 
-**Portal 2 Mod r008**
+**Portal 2 Mod r009**
 {% highlight text %}
-- FIX: fixed the bug that, when the player is on negative axes, Jumper, Propulsion Gel and Repulsion Gel act like they are at -1 Z and -1 X from where they are
-{% endhighlight %}
-
-**Portal 2 Mod r007**
-{% highlight text %}
-- NEW: the Repulsion Gel Block
-- NEW: the Propulsion Gel Block
-- NEW: the Portal Radio block (tap it to play the "radio loop" song)
-- NEW: new UI in Minecraft style!
-- NEW: a new settings to change the background image for the UIs
-- UPDATE: re-written code for the turrets
-- UPDATE: different folder for the portal-sounds
-- FIX: GravityGun shoot image
-- FIX: invisible portals with the latest BlockLauncher beta
+- NEW: support for Minecraft PE 0.10.4
 {% endhighlight %}
 
 <br>

@@ -4,6 +4,12 @@ title: Portal 2 Mod full changelog
 excerpt: "Portal 2 Mod full changelog"
 ---
 
+
+**Portal 2 Mod r009**
+{% highlight text %}
+- NEW: support for Minecraft PE 0.10.4
+{% endhighlight %}
+
 **Portal 2 Mod r008**
 {% highlight text %}
 - FIX: fixed the bug that, when you are playing on negative axes, Jumper, Propulsion Gel and Repulsion Gel act like they are at -1 Z and -1 X from where they are

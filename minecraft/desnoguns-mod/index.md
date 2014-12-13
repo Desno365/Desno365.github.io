@@ -22,7 +22,7 @@ Guns. Weapons. Explosions. This is the DesnoGuns Mod! :D
 • Extract it with an [Android file manager](http://lmgtfy.com/?q=file+manager+android) (I use ES File Explorer) or with your computer.<br>
 • <u>IMPORTANT</u>: Move with your file manager the "desnoguns-sounds" folder in the "/sdcard/games/com.mojang/" folder.<br>
 • Install textures in BlockLauncher.<br>
-• Import the script from local storage in Blocklauncher and enable it.<br>
+• Import the script from local storage in BlockLauncher and enable it.<br>
 • Enjoy! ;)
 
 • Optional: download the ["Desno365's Mods" app](https://play.google.com/store/apps/details?id=com.desno365.mods) from Google Play Store.

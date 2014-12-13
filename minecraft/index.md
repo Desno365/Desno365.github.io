@@ -4,8 +4,6 @@ title: Minecraft PE mods
 excerpt: "All my work made for the Minecraft PE community"
 ---
 
-![MinecraftPage Image]({{ site.url }}/images/background-minecraft-page-image.jpg)
-
 #### My mods:
 
 * [DesnoGuns Mod]({{ site.url }}/minecraft/desnoguns-mod)
