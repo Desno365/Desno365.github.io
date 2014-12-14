@@ -37,13 +37,13 @@ Guns. Weapons. Explosions. This is the DesnoGuns Mod! :D
 ## Downloads
 
 <i>Minecraft Pocket Edition 0.10.4 & 0.9.5:</i><br>
-<i> --- DesnoGuns Mod <b>r001</b>:</i>
+<i> --- DesnoGuns Mod <b>r002</b>:</i>
 
 | Website | Support | Regular |
 |:--------|:-------:|:-------:|
-| MediaFire:       | [Support download](http://adf.ly/vCnna) | [Regular download](http://www.mediafire.com/download/nvrd0kkc76v8mxi/DesnoGuns_r001_Desno365.zip) |
-| AndroidFileHost: | [Support download](http://adf.ly/vCtLy) | [Regular download](https://www.androidfilehost.com/?fid=95853297432265019) |
-| MEGA:            | [Support download](http://adf.ly/vCnSI) | [Regular download](https://mega.co.nz/#!G0xnGahL!k0SjnYIEJHFVCHRgaHLcbMsFRkJyeYvMOWU6l2mdWhI) |
+| MediaFire:       | [Support download](http://adf.ly/vFZz2) | [Regular download](http://www.mediafire.com/download/q3j1j11x1j4aphe/DesnoGuns_r002_Desno365.zip) |
+| AndroidFileHost: | [Support download](http://adf.ly/vFZxE) | [Regular download](https://www.androidfilehost.com/?fid=95855108297851476) |
+| MEGA:            | [Support download](http://adf.ly/vFaMc) | [Regular download](https://mega.co.nz/#!vkgWGAia!Z6ZeKdtpC8lWODGF3ghWJ7Ilq-Qw-Vk22tA-KSKmynM) |
 |----
 {: rules="groups"}
 
@@ -164,6 +164,12 @@ Click an icon under the "**Crafting**" column to display the crafting recipe of 
 
 ## Changelog
 
+**DesnoGuns Mod r002**
+{% highlight text %}
+- FIX: gun's sounds won't be displayed in your music player
+- FIX: other bug fixes (here more informations https://bitbucket.org/Desno365/desnoguns-mod/commits/de888e7d698451d049e66c74f27e3f8598c6a5c9)
+{% endhighlight %}
+
 **DesnoGuns Mod r001**
 {% highlight text %}
 - Initial release
@@ -186,7 +192,7 @@ Click an icon under the "**Crafting**" column to display the crafting recipe of 
 Yes you can, but you have to follow the [license of this mod]({{ site.url }}/minecraft/desnoguns-mod/#copyrights), this means that you have to give me credits and you can't use my work for commercial purposes (in a few words you can't make money from my work, for example you can't sell my mod).<br>
 
 *• Can I make a YouTube review for this mod?*<br>
-Of course you can. Only one thing: if you want to add a link for the download, please, don't put a direct download link but just put a link of this web page.<br>
+Of course you can. Only one thing: if you want to add a link for the download, please, don't put a download link but just put a link of this web page.<br>
 
 *• If I find a bug, where I should report it?*<br>
 The best way to report a bug is write it on the [minecraft-forum.net][thread] thread. But, before posting your bug-report, read the ["Known bugs and issues"](http://desno365.github.io/minecraft/desnoguns-mod/#known-bugs-and-issues) section.
