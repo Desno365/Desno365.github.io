@@ -43,7 +43,7 @@ modified: 2014-09-16T15:48:38.564948-04:00
 
 ## Downloads
 
-<i>Minecraft Pocket Edition 0.9.5:</i><br>
+<i>Minecraft Pocket Edition 0.10.4 & 0.9.5:</i><br>
 <i> --- Jukebox Mod <b>r002</b>:</i>
 
 | Website | Support | Regular |

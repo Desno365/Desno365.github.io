@@ -37,7 +37,7 @@ comments: true
 
 ## Downloads
 
-<i>Minecraft Pocket Edition 0.9.5:</i><br>
+<i>Minecraft Pocket Edition 0.10.4 & 0.9.5:</i><br>
 <i> --- Turrets Mod <b>r001</b>:</i>
 
 | Website | Support | Regular |
