@@ -167,7 +167,7 @@ Click an icon under the "**Crafting**" column to display the crafting recipe of 
 **DesnoGuns Mod r002**
 {% highlight text %}
 - FIX: gun's sounds won't be displayed in your music player
-- FIX: other bug fixes (here more informations https://bitbucket.org/Desno365/desnoguns-mod/commits/de888e7d698451d049e66c74f27e3f8598c6a5c9)
+- FIX: other bug fixes (here more informations https://bitbucket.org/Desno365/desnoguns-mod/commits/de888e7d698451d049e66c74f27e3f8598c6a5c9 )
 {% endhighlight %}
 
 **DesnoGuns Mod r001**
