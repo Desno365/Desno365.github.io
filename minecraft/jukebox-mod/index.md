@@ -121,18 +121,18 @@ Click an icon under the "**Crafting**" column to display the crafting recipe of 
 
 ## F.A.Q.
 
-*• Can I share this mod on whatever-website.com ?*<br>
+*• Can I share this mod on whatever-website.com / with my friends / on the xyz social network ?*<br>
+*• Can I make a modpack with this mod?*<br>
 Yes you can, but you have to follow the [license of this mod]({{ site.url }}/minecraft/jukebox-mod/#copyrights), this means that you have to give me credits and you can't use my work for commercial purposes (in a few words you can't make money from my work, for example you can't sell my mod).<br>
 
 *• Can I make a YouTube review for this mod?*<br>
-Of course you can. Remember that you should give me credits for this mod and if you put a link of the [minecraft-forum.net][thread] thread or the link of [the page on my website]({{ site.url }}/minecraft/jukebox-mod) it would be a lot better.<br>
+Of course you can. Only one thing: if you want to add a link for the download, please, don't put a download link on MediaFire or whatever, but just put a link of [my web page]({{ site.url }}/minecraft/jukebox-mod) or a link of the [minecraftforum.net thread][thread].<br>
 
 *• If I find a bug, where I should report it?*<br>
-The best way to report a bug is write it on the [minecraft-forum.net][thread] thread. But, before posting your bug-report, read the ["Known bugs and issues"](http://desno365.github.io/minecraft/jukebox-mod/#known-bugs-and-issues) section.
+The best way to report a bug is write it on the [minecraft-forum.net][thread] thread. But, before posting your bug-report, read the ["Known bugs and issues"]({{ site.url }}/minecraft/jukebox-mod/#known-bugs-and-issues) section.
 
 *• How can I support you?*<br>
-You can [follow me on Twitter](https://twitter.com/desno365), [make a donation](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GBEMKJBA3Z7PG), or just a "Thanks" written on the [minecraft-forum.net][thread] thread makes me happy. ;)<br>
-But only the fact that someone is downloading my mod makes me glad that I made it. :)
+You can [follow me on Twitter](https://twitter.com/desno365), subscribe on [my Youtube channel](http://www.youtube.com/channel/UCJQL47nQnsijcaN_7pMsjCQ/videos) or [make a donation](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GBEMKJBA3Z7PG). :)
 
 ---
 
