@@ -10,7 +10,7 @@ comments: true
 * Table of Contents
 {:toc}
 
-## Informations
+## Information
 
 Guns. Weapons. Explosions. This is the DesnoGuns Mod! :D
 

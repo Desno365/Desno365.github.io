@@ -10,7 +10,7 @@ comments: true
 * Table of Contents
 {:toc}
 
-## Informations
+## Information
 
 This mod tries to bring the features of the famous PC game "Portal" in Minecraft Pocket Edition. If you don't know what Portal is look at [this link](http://lmgtfy.com/?q=portal) for more informations about the game.
 
