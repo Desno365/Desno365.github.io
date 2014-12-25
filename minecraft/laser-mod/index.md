@@ -15,7 +15,7 @@ comments: true
 • The laser of the Laser Gun destroys the block that you are looking.<br>
 • The Laser Bazooka shoot a laser bullet that will explode when it touches the ground.<br>
 • The Laser Sniper Rifle shoot a laser bullet that kill almost every mob it hit.<br>
-• Tap the settings icon to open the UI with Informations and Settings for the mod.<br>
+• Tap the settings icon to open the UI with Information and Settings for the mod.<br>
 • There are a lot of settings for the weapons, so you can personalize them.<br>
 • You can find the Laser Weapons also in the creative inventory.
 
