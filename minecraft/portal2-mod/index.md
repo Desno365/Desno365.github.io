@@ -150,8 +150,8 @@ See the full changelog here:
 *• Can I add this mod in my modpack?*<br>
 Yes you can, but you have to follow the [license of this mod]({{ site.url }}/minecraft/portal2-mod/#copyrights), this means that you have to give me credits and you can't use my work for commercial purposes (in a few words you can't make money from my work, for example you can't sell my mod).<br>
 
-*• Does this mod works on local multiplayer?*<br>
-Currently no, because with the current APIs will be pretty difficult to make it working.<br>
+*• Does this mod work in local multiplayer?*<br>
+Currently no, because with the current APIs it's quite difficult to make it working.<br>
 
 *• Can I make a YouTube review for this mod?*<br>
 Of course you can. Only one thing: if you want to add a link for the download, please, don't put a download link on MediaFire or whatever, but just put a link of [my web page]({{ site.url }}/minecraft/portal2-mod) or a link of the [minecraftforum.net thread][thread].<br>

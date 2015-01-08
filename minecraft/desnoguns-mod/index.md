@@ -195,6 +195,9 @@ Yes you can, but you have to follow the [license of this mod]({{ site.url }}/min
 *• Can I make a YouTube review for this mod?*<br>
 Of course you can. Only one thing: if you want to add a link for the download, please, don't put a download link on MediaFire or whatever, but just put a link of [my web page]({{ site.url }}/minecraft/desnoguns-mod) or a link of the [minecraftforum.net thread][thread].<br>
 
+*• Does this mod work in local multiplayer?*<br>
+Currently no, because with the current APIs it's quite difficult to make it working.<br>
+
 *• If I find a bug, where I should report it?*<br>
 The best way to report a bug is write it on the [minecraft-forum.net][thread] thread. But, before posting your bug-report, read the ["Known bugs and issues"]({{ site.url }}/minecraft/desnoguns-mod/#known-bugs-and-issues) section.
 
