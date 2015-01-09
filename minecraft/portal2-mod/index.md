@@ -73,17 +73,17 @@ In this mod you can find also other items copied from the game "Portal": Long Fa
 
 ## Screenshots
 
-![Portal screenshot]({{ site.url }}/minecraft/portal2-mod/images/portals.png)
+![Portal screenshot]({{ site.url }}/minecraft/portal2-mod/images/portals.jpg)
 
-![PortalGun Wood and Stone screenshot]({{ site.url }}/minecraft/portal2-mod/images/portal-gun-wood-and-stone.png)
+![PortalGun Wood and Stone screenshot]({{ site.url }}/minecraft/portal2-mod/images/portal-gun-wood-and-stone.jpg)
 
 <figure>
-  <img src="{{ site.url }}/minecraft/portal2-mod/images/portal-mod-ui.png" alt="portal mod ui">
+  <img src="{{ site.url }}/minecraft/portal2-mod/images/portal-mod-ui.jpg" alt="portal mod ui">
   <figcaption>The "Portal Informations" UI</figcaption>
 </figure>
 
 <figure>
-  <img src="{{ site.url }}/minecraft/portal2-mod/images/portal-jukebox.png" alt="portal jukebox ui">
+  <img src="{{ site.url }}/minecraft/portal2-mod/images/portal-jukebox.jpg" alt="portal jukebox ui">
   <figcaption>The "Portal jukebox" UI</figcaption>
 </figure>
 
