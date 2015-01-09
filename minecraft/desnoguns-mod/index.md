@@ -65,7 +65,7 @@ Guns. Weapons. Explosions. This is the DesnoGuns Mod! :D
 
 ## Screenshots
 
-![ui]({{ site.url }}/minecraft/desnoguns-mod/images/ui.png)
+![ui]({{ site.url }}/minecraft/desnoguns-mod/images/ui.jpg)
 <br>
 
 <figure>
@@ -74,12 +74,12 @@ Guns. Weapons. Explosions. This is the DesnoGuns Mod! :D
 </figure>
 
 <figure>
-  <img src="{{ site.url }}/minecraft/desnoguns-mod/images/sniper1.png" alt="sniper1">
+  <img src="{{ site.url }}/minecraft/desnoguns-mod/images/sniper1.jpg" alt="sniper1">
   <figcaption>The UI of the Barrett when aiming.</figcaption>
 </figure>
 
 <figure>
-  <img src="{{ site.url }}/minecraft/desnoguns-mod/images/sniper2.png" alt="sniper2">
+  <img src="{{ site.url }}/minecraft/desnoguns-mod/images/sniper2.jpg" alt="sniper2">
   <figcaption>The UI of the M40A3 when aiming.</figcaption>
 </figure>
 
