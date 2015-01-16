@@ -180,8 +180,7 @@ Click an icon under the "**Crafting**" column to display the crafting recipe of 
 ## Known bugs and issues
 
 • With some devices (many Samsung devices) you can't move the aim while shooting. I'm having difficulties to fix this problem, if you are a modder and want to help fix this bug check out the [Bitbucket issue tracker of the mod](https://bitbucket.org/Desno365/desnoguns-mod/issues).<br>
-• If you shoot multiple arrows to a mob, sometimes, they bounce back to you and damage you. I made a workaround for this, you can enable it in the settings of the mod.<br>
-• Grenades are cows (this is due to a BlockLauncher bug).<br><br>
+• If you shoot multiple arrows to a mob, sometimes, they bounce back to you and damage you. I made a workaround for this, you can enable it in the settings of the mod.<br><br>
 • If you find a bug report it in the [minecraft-forum.net thread][thread].
 
 ---
