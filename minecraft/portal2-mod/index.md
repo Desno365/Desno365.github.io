@@ -135,7 +135,6 @@ See the full changelog here:
 
 ## Known bugs and issues
 
-
 • In certain circumstances long fall boots don't work.<br>
 • Turrets are in pre-beta stage so you can find many bugs with them.<br>
 • The images of portals are black (BlockLauncher bug).<br>

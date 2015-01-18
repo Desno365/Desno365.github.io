@@ -16,7 +16,7 @@ excerpt: "All my work made for the Minecraft PE community"
 
 * [Jukebox Mod]({{ site.url }}/minecraft/jukebox-mod)
 
-* [The Companion Mod]({{ site.url }}/minecraft/the-companion-mod)
+* [The Companion Mod]({{ site.url }}/minecraft/companion-mod)
 
 <br>
 **My profile on minecraft-forum.net:** [Desno365](http://www.minecraftforum.net/members/Desno365)
