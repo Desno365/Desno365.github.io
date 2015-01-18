@@ -41,8 +41,8 @@ function transform()
         bellybutton.style.position = "absolute";
         bellybutton.style.left = "48%";
         bellybutton.style.top =  "48%";
-        bellybutton.style.width = "4%";
-        bellybutton.style.height =  "4%";
+        bellybutton.style.width = "80px";
+        bellybutton.style.height =  "25px%";
         document.body.appendChild(bellybutton);
         bellybutton.onclick = stoppuking;
         allSet = true;
