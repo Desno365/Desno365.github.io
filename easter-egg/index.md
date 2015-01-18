@@ -18,14 +18,22 @@ I like to put Easter Eggs in the things I make. But please if you're having an h
 
 
 <script>
+// gravity
+var script = document.createElement("script");
+script.src="http://gravityscript.googlecode.com/svn/trunk/gravityscript-autorun.js";
+document.body.appendChild(script);
+// end - gravity
+
+
 // this code was written by Johnson Zhong (http://johnsonzhong.me/evaluations/skulecourses/) but there are some little changes by me (for example the speed increases gradually, or the restart function)
 var speed = 50; // the greater this value is the lower the speed is
 var increaseSpeedEveryMs = 1;
 var speedTimer = 0;
-var timer = setInterval(transform, speed);
+var timer = setInterval(transform, 4000);
 var degreez = 0;
 var allSet = false;
 var bellybutton;
+
 function transform()
 {
     if (!allSet)
