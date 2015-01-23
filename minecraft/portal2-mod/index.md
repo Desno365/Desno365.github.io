@@ -147,7 +147,7 @@ See the full changelog here:
 
 *• Can I share this mod on whatever-website.com / with my friends / on the xyz social network ?*<br>
 *• Can I add this mod in my modpack?*<br>
-Yes you can, but you have to follow the [license of this mod]({{ site.url }}/minecraft/portal2-mod/#copyrights), this means that you have to give me credits and you can't use my work for commercial purposes (in a few words you can't make money from my work, for example you can't sell my mod).<br>
+Yes you can, and you don't have to ask my permission, but you have to follow the [license of this mod]({{ site.url }}/minecraft/portal2-mod/#copyrights), this means that you have to give me credits and you can't use my work for commercial purposes (in a few words you can't make money from my work, for example you can't sell my mod).<br>
 
 *• Does this mod work in local multiplayer?*<br>
 Currently no, because with the current APIs it's quite difficult to make it working.<br>
