@@ -2,7 +2,7 @@
 layout: page
 title: Jukebox Mod
 excerpt: "The jukebox of Minecraft PC in Minecraft PE"
-modified: 2014-09-16T15:48:38.564948-04:00
+comments: true
 ---
 
 <i>Do you miss the Jukebox of Minecraft PC? This mod is a porting of it to Minecraft Pocket Edition!</i>
