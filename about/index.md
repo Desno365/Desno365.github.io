@@ -15,7 +15,7 @@ I made this website because I like computer and related things. Here I will add 
 
 These are the geek stuffs that I use:
 {% highlight text %}
-- Nexus 4 – Android stock 5.0.1 LRX22C
+- OnePlus One
 - iMac (21.5-inch, Late 2009)
 {% endhighlight %}
 
