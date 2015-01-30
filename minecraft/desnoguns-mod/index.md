@@ -31,6 +31,11 @@ Guns. Weapons. Explosions. This is the DesnoGuns Mod! :D
        src="/images/en_generic_rgb_wo_45.png" />
 </a>
 
+<br>
+• Need more help to install the mod? Watch the [YouTube video tutorial](http://youtu.be/uO72AmNn0u8):
+
+<iframe width="560" height="315" src="http://www.youtube.com/embed/uO72AmNn0u8" frameborder="0"> </iframe>
+
 ---
 
 ## Downloads
