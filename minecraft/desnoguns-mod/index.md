@@ -40,20 +40,23 @@ Guns. Weapons. Explosions. This is the DesnoGuns Mod! :D
 
 ## Downloads
 
-<i>Minecraft Pocket Edition 0.10.5 & 0.9.5:</i><br>
-<i> --- DesnoGuns Mod <b>r003</b>:</i>
+<i>Minecraft Pocket Edition 0.10.5:</i><br>
+<i> --- DesnoGuns Mod <b>r004</b>:</i>
 
 | Website | Support | Regular |
 |:--------|:-------:|:-------:|
-| MediaFire:       | [Support download](http://adf.ly/wbeKd) | [Regular download](http://www.mediafire.com/download/lteboluuz98qtqb/DesnoGuns_r003_Desno365.zip) |
-| AndroidFileHost: | [Support download](http://adf.ly/wbe2B) | [Regular download](https://www.androidfilehost.com/?fid=95916177934516426) |
-| MEGA:            | [Support download](http://adf.ly/wbeBn) | [Regular download](https://mega.co.nz/#!HwA3QAwJ!elIYzO1sB4xdzgQmmXKgUbjZrAJBf7f4Mav1mCHeNBA) |
+| MediaFire:       | [Support download](http://adf.ly/12exnh) | [Regular download](http://www.mediafire.com/download/tcd1zd4by1kjzc9/DesnoGuns_r004_Desno365.zip) |
+| AndroidFileHost: | [Support download](http://adf.ly/12eyOl) | [Regular download](https://www.androidfilehost.com/?fid=95916177934530177) |
+| MEGA:            | [Support download](http://adf.ly/12ey73) | [Regular download](https://mega.co.nz/#!m1ZiWBzQ!f-rrW3MlSKYGwKJLnuao-FPMKXLkkUsSkAxmewQsgV0) |
 |----
 {: rules="groups"}
 
 • Remember to read the "Installation instructions" section before downloading.
 <br><br>
+<i>Older Minecraft Pocket Edition versions:</i>
 
+<div markdown="0"><a href="{{ site.url }}/minecraft/desnoguns-mod/older-versions" class="btn">Older versions</a></div>
+<br>
 <font color="#C0C0C0">ADVERTISEMENT:</font><br>
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- inside-pages-ad-large-rectangle -->
@@ -102,6 +105,11 @@ Click an icon under the "**Crafting**" column to display the crafting recipe of 
 | Grenade:                     | 453      | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/Mk2Grenade.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/Mk2Grenade.png" alt="image"></a></figure> |
 | Fragment Grenade:            | 454      | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/MillsBomb.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/MillsBomb.png" alt="image"></a></figure> |
 | Molotov:                     | 455      | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/Molotov.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/Molotov.png" alt="image"></a></figure> |
+| <b>Armor</b>                 | 302≈305  |           |
+| Juggernaut Helmet:           | 302      | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/JuggernautHelmet.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/JuggernautHelmet.png" alt="image"></a></figure> |
+| Juggernaut Body:             | 303      | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/JuggernautBody.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/JuggernautBody.png" alt="image"></a></figure> |
+| Juggernaut Pants:            | 304      | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/JuggernautPants.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/JuggernautPants.png" alt="image"></a></figure> |
+| Juggernaut Boots:            | 305      | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/JuggernautBoots.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/JuggernautBoots.png" alt="image"></a></figure> |
 | <b>Ammunitions</b>           | 440≈448  |           |
 | Assault Rifle Ammo:          | 440      | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/AK47Ammo.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/AK47Ammo.png" alt="image"></a></figure> |
 | Sub Machine Ammo:            | 441      | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/MP5Ammo.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/MP5Ammo.png" alt="image"></a></figure> |
@@ -112,11 +120,12 @@ Click an icon under the "**Crafting**" column to display the crafting recipe of 
 | Handgun Ammo:                | 446      | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/DesertEagleAmmo.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/DesertEagleAmmo.png" alt="image"></a></figure> |
 | Launcher Ammo:               | 447      | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/AT4Ammo.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/AT4Ammo.png" alt="image"></a></figure> |
 | Minigun Ammo:                | 448      | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/MinigunAmmo.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/MinigunAmmo.png" alt="image"></a></figure> |
-| <b>Guns</b>                  | 460≈511  |           |
+| <b>Guns</b>                  | 459≈511  |           |
 | <i>Pro items</i>             |          |           |
 | AA-12:                       | 509      | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/shotgun.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/AA12.png" alt="image"></a></figure> |
 | Incendiary Grenade Launcher: | 510      | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/launcher.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/IncendiaryGL.png" alt="image"></a></figure> |
 | <i>Free items</i>            |          |           |
+| .44 Magnum:                  | 459      | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/handgun.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/44Magnum.png" alt="image"></a></figure> |
 | AK47:                        | 460      | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/assault-rifle.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/AK47.png" alt="image"></a></figure> |
 | AK74:                        | 461      | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/assault-rifle.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/AK74.png" alt="image"></a></figure> |
 | AT4:                         | 462      | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/launcher.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/AT4.png" alt="image"></a></figure> |
@@ -174,6 +183,17 @@ Click an icon under the "**Crafting**" column to display the crafting recipe of 
 
 ## Changelog
 
+**DesnoGuns Mod r004**
+{% highlight text %}
+- UPDATE: items and guns moved in the Tool category in the Creative inventory
+- NEW: new weapon: .44 Magnum
+- NEW: new armor: Juggernaut
+- NEW: option in Settings to switch the position of the "fire" and "aim" buttons
+- UPDATE: improvements in the Settings page
+- FIX: fix bug of sounds installation when there isn't any Internet connection available
+- FIX: guns now render vertically instead of horizontally in the third person view
+{% endhighlight %}
+
 **DesnoGuns Mod r003**
 {% highlight text %}
 - NEW: automatic sounds installation
@@ -208,7 +228,7 @@ See the full changelog here:
 
 ## Known bugs and issues
 
-• With some devices (many Samsung devices) you can't move the aim while shooting. I'm having difficulties to fix this problem, if you are a modder and want to help fix this bug check out the [Bitbucket issue tracker of the mod](https://bitbucket.org/Desno365/desnoguns-mod/issues).<br>
+• With some devices (many Samsung devices) you can't move the aim while shooting. I'm having difficulties to fix this problem, if you are a modder and you want to help fixing this bug check out the [Bitbucket issue tracker of the mod](https://bitbucket.org/Desno365/desnoguns-mod/issues).<br>
 • If you shoot multiple arrows to a mob, sometimes, they bounce back to you and damage you. I made a workaround for this, you can enable it in the settings of the mod.<br><br>
 • If you find a bug report it in the [minecraft-forum.net thread][thread].
 

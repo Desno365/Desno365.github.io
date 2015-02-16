@@ -5,6 +5,17 @@ excerpt: "DesnoGuns Mod full changelog"
 ---
 
 
+**DesnoGuns Mod r004**
+{% highlight text %}
+- UPDATE: items and guns moved in the Tool category in the Creative inventory
+- NEW: new weapon: .44 Magnum
+- NEW: new armor: Juggernaut
+- NEW: option in Settings to switch the position of the "fire" and "aim" buttons
+- UPDATE: improvements in the Settings page
+- FIX: fix bug of sounds installation when there isn't any Internet connection available
+- FIX: guns now render vertically instead of horizontally in the third person view
+{% endhighlight %}
+
 **DesnoGuns Mod r003**
 {% highlight text %}
 - NEW: automatic sounds installation
@@ -15,7 +26,7 @@ excerpt: "DesnoGuns Mod full changelog"
 - NEW: new weapon: AA-12 (pro item)
 - NEW: new weapon: Incendiary Grenade Launcher (pro item)
 - NEW: added texture pack with bullet texture instead of arrow
-- NEW: options in Setting to enable reloading for guns also in Creative
+- NEW: option in Settings to enable reloading for guns also in Creative
 - NEW: option in Settings to enable instant reload in Creative (only when reload in Creative is enabled)
 - NEW: option to display the gun's name near the ammo text
 - NEW: added an Easter Egg :P
