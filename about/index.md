@@ -21,7 +21,7 @@ These are the geek stuffs that I use:
 
 
 
-If you want to contact me all my public accounts are in the footer of the page, you can also follow me on Twitter so you'll get my latest news about me, my mods or whatever. :)
+If you want to contact me all my public accounts are in the footer of the page, you can also follow me on Twitter so you'll get the latest news about me, my mods or whatever. :)
 
 <br>
 
