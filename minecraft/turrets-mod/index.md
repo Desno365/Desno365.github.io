@@ -132,7 +132,11 @@ You can [follow me on Twitter](https://twitter.com/desno365), subscribe on [my Y
 
 ## Copyrights
 
-This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License. To view a copy of this license, visit [http://creativecommo...nses/by-nc/4.0/](http://creativecommons.org/licenses/by-nc/4.0/) or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
+This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License.
+To view a copy of this license, visit [http://creativecommo...nses/by-nc/4.0/](http://creativecommons.org/licenses/by-nc/4.0/) or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
+<br><br>
+All the following trademarks are the properties of their respective owners as listed below.
+Minecraft ®/TM & © 2009-2013 Mojang / Notch
 
 ---
 

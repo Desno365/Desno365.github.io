@@ -1,7 +1,7 @@
 ---
 layout: page
 title: DesnoGuns Mod
-excerpt: "Weapons, guns and again weapons!"
+excerpt: "Weapons, guns and other weapons!"
 comments: true
 ---
 
@@ -256,15 +256,22 @@ You can [follow me on Twitter](https://twitter.com/desno365), subscribe on [my Y
 
 ## Copyrights
 
-My work (the code of the mod, the textures of the Xmas guns, of the AA-12 and of the .44 Magnum) is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License. To view a copy of this license, visit [http://creativecommo...nses/by-nc/4.0/](http://creativecommons.org/licenses/by-nc/4.0/) or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
+My work (the code of the mod, the textures of the Xmas guns, of the AA-12 and of the .44 Magnum) is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License.
+To view a copy of this license, visit [http://creativecommo...nses/by-nc/4.0/](http://creativecommons.org/licenses/by-nc/4.0/) or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
 <br><br>
-The work of Flan (all the textures (excluded the Xmas guns, the AA-12 and the .44 Magnum) and some of the sounds) is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. To view a copy of this license, visit [http://creativecommo...nses/by-nc-sa/3.0/](https://creativecommons.org/licenses/by-nc-sa/3.0/) or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
+All the textures (excluded the textures of the Xmas guns, the AA-12, the .44 Magnum and the Flamethrower) and some of the sounds are copyright of Flan and are extracted from his [Modern Weapons Pack](http://flansmod.com/content-pack/4/Modern_Weapons_Pack).
+His work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.
+To view a copy of this license, visit [http://creativecommo...nses/by-nc-sa/3.0/](https://creativecommons.org/licenses/by-nc-sa/3.0/) or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.<br>
+Here the original license notice of his work: [http://flansmod.com/license](http://flansmod.com/license)
+<br><br>
+All the following trademarks are the properties of their respective owners as listed below.
+Minecraft ®/TM & © 2009-2013 Mojang / Notch
 
 ---
 
 ## Credits
 
-• Thanks to Flan ([@jamioflan](https://twitter.com/jamioflan)) for the textures and the sounds. He made a great work with the Flan's Mod for Minecraft PC, and also he released it with a Creative Commons license (that's why I can use them). If you want to support him you can make a donation on his [Patreon page](http://www.patreon.com/jamioflan).<br>
+• Thanks to Flan ([@jamioflan](https://twitter.com/jamioflan)) for the textures and the sounds. He made a great work with the Flan's Mod for Minecraft PC, and also he released it with a Creative Commons license (that's why I can use them). If you want to support him for the things he have made you can make a donation on his [Patreon page](http://www.patreon.com/jamioflan).<br>
 • Thanks to <i>MyNameIsAnti ([@AntiModPE](https://twitter.com/AntiModPE))</i> for the render of the grenade and for some lines of code!<br>
 • Thanks to <i>TBPM ([@TBPM_MODDER](https://twitter.com/TBPM_MODDER))</i> for his idea of decoding images with base64.<br>
 • Thanks to <i>[Prayingmantis13](http://www.minecraftforum.net/members/Prayingmantis13)</i> for the bullet texture.<br>
