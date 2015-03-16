@@ -8,7 +8,7 @@ image:
 
 Hello!
 
-My name is Dennis Motta, I’m 17 years old and I'm a student, a swimmer and a person who likes to learn anything (I like especially Science and technology, but I should also learn English better :D ).
+My name is Dennis Motta, I’m 17 years old and I'm a student, a swimmer and a person who likes science and technology. I should also learn English better :D
 I live near Milan in Italy.
 
 I made this website because I like computer and related things. Here I will add all of my public work (for example the mods that I'm making for Minecraft Pocket Edition).
