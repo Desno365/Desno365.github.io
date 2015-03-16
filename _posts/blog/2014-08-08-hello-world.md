@@ -9,6 +9,7 @@ image:
   feature:
 date: 2014-09-14T22:35:55-04:00
 share: true
+comments: true
 ---
 
 So, this is my first website, nice ;)
