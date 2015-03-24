@@ -10,7 +10,7 @@ comments: true
 * Table of Contents
 {:toc}
 
-## Informations
+## Information
 
 This map and the mod attached bring the Non-Euclidean geometry on your mobile device!<br>
 Experience the craziness of an unreal world, in a normal/Euclidean game like Minecraft.<br>
