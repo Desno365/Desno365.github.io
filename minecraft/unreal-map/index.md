@@ -40,13 +40,13 @@ A video explains it better: [The Unreal Geometry Map YouTube video](http://youtu
 ## Downloads
 
 <i>Minecraft Pocket Edition 0.10.5:</i><br>
-<i> --- Unreal Geometry Map <b>r001</b>:</i>
+<i> --- Unreal Geometry Map <b>r002</b>:</i>
 
 | Website | Support | Regular |
 |:--------|:-------:|:-------:|
-| MediaFire:       | [Support download](http://adf.ly/1BZGtc) | [Regular download](http://www.mediafire.com/download/oowkm9cyeea9q9w/Unreal_Geometry_r001_Desno365.zip) |
-| AndroidFileHost: | [Support download](http://adf.ly/1BZH32) | [Regular download](https://www.androidfilehost.com/?fid=95916177934545671) |
-| MEGA:            | [Support download](http://adf.ly/1BZGfz) | [Regular download](https://mega.co.nz/#!34BHhY5C!WoXIRMXerFzAPPILVQGN0sKh4H7OEoS7BwM-tPcgj3w) |
+| MediaFire:       | [Support download](http://adf.ly/1CIQMi) | [Regular download](http://www.mediafire.com/download/m9zvo42mq9u6bkw/Unreal_Geometry_r002_Desno365.zip) |
+| AndroidFileHost: | [Support download](http://adf.ly/1CIQOg) | [Regular download](https://www.androidfilehost.com/?fid=95916177934548024) |
+| MEGA:            | [Support download](http://adf.ly/1CIQPs) | [Regular download](https://mega.co.nz/#!igw3HTiL!eRdzgk5gar4s5tmrjr3oxHXIM_dreZt0fO-VkHtGi2k) |
 |----
 {: rules="groups"}
 
@@ -84,6 +84,12 @@ For people who prefer screenshoots:
 
 ## Changelog
 
+**Unreal Geometry Map r002**
+{% highlight text %}
+- FIX: fixed a bug of the mod that can cause a crash when the player enters in a world
+- FIX: other bug-fixes inside the mod
+{% endhighlight %}
+
 **Unreal Geometry Map r001**
 {% highlight text %}
 - Initial release
@@ -93,7 +99,7 @@ For people who prefer screenshoots:
 
 ## Known bugs and issues
 
-• If you find a bug related report it in the [minecraft-forum.net thread][thread].<br>
+• If you find a bug report it in the [minecraft-forum.net thread][thread].<br>
 
 ---
 
@@ -123,5 +129,5 @@ Minecraft ®/TM & © 2009-2013 Mojang / Notch
 
 ---
 
-[thread]: http://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-mods-tools/2201372-mod-beta-unreal-map-kill-mobs-automatically-r001
+[thread]: http://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-maps/2389061-map-mod-unreal-geometry-map-non-euclidean-map
 
