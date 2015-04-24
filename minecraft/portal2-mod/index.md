@@ -46,9 +46,9 @@ In this mod you can find also other items copied from the game "Portal": Long Fa
 
 | Website | Support | Regular |
 |:--------|:-------:|:-------:|
-| MediaFire:       | [Support download](http://adf.ly/vEMDH) | [Regular download](http://www.mediafire.com/download/sswtq381n35gikw/Portal_Mod_r009_Desno365.zip) |
-| AndroidFileHost: | [Support download](http://adf.ly/vEMLV) | [Regular download](https://www.androidfilehost.com/?fid=95855108297851051) |
-| MEGA:            | [Support download](http://adf.ly/vEN7p) | [Regular download](https://mega.co.nz/#!vtQCiS5J!hSCmx7CttjfPYv3PGtBp72QoKMvkA9ors8VkCp32R3A) |
+| MediaFire:         | [Support download](http://adf.ly/vEMDH) | [Regular download](http://www.mediafire.com/download/sswtq381n35gikw/Portal_Mod_r009_Desno365.zip) |
+| Android File Host: | [Support download](http://adf.ly/vEMLV) | [Regular download](https://www.androidfilehost.com/?fid=95855108297851051) |
+| MEGA:              | [Support download](http://adf.ly/vEN7p) | [Regular download](https://mega.co.nz/#!vtQCiS5J!hSCmx7CttjfPYv3PGtBp72QoKMvkA9ors8VkCp32R3A) |
 |----
 {: rules="groups"}
 

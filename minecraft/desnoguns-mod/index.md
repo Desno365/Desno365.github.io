@@ -45,9 +45,9 @@ Guns. Weapons. Explosions. This is the DesnoGuns Mod! :D
 
 | Website | Support | Regular |
 |:--------|:-------:|:-------:|
-| MediaFire:       | [Support download](http://adf.ly/12exnh) | [Regular download](http://www.mediafire.com/download/tcd1zd4by1kjzc9/DesnoGuns_r004_Desno365.zip) |
-| AndroidFileHost: | [Support download](http://adf.ly/12eyOl) | [Regular download](https://www.androidfilehost.com/?fid=95916177934530177) |
-| MEGA:            | [Support download](http://adf.ly/12ey73) | [Regular download](https://mega.co.nz/#!m1ZiWBzQ!f-rrW3MlSKYGwKJLnuao-FPMKXLkkUsSkAxmewQsgV0) |
+| MediaFire:         | [Support download](http://adf.ly/12exnh) | [Regular download](http://www.mediafire.com/download/tcd1zd4by1kjzc9/DesnoGuns_r004_Desno365.zip) |
+| Android File Host: | [Support download](http://adf.ly/12eyOl) | [Regular download](https://www.androidfilehost.com/?fid=95916177934530177) |
+| MEGA:              | [Support download](http://adf.ly/12ey73) | [Regular download](https://mega.co.nz/#!m1ZiWBzQ!f-rrW3MlSKYGwKJLnuao-FPMKXLkkUsSkAxmewQsgV0) |
 |----
 {: rules="groups"}
 
@@ -77,7 +77,7 @@ Guns. Weapons. Explosions. This is the DesnoGuns Mod! :D
 
 <figure>
   <img src="{{ site.url }}/minecraft/desnoguns-mod/images/items.png" alt="items">
-  <figcaption>A lot of guns!</figcaption>
+  <figcaption>Many guns to play with!</figcaption>
 </figure>
 
 <figure>

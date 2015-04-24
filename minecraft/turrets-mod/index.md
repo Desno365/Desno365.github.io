@@ -42,9 +42,9 @@ comments: true
 
 | Website | Support | Regular |
 |:--------|:-------:|:-------:|
-| MediaFire:       | [Support download](http://adf.ly/rfJUz) | [Regular download](http://www.mediafire.com/download/o7xdbe19za3x2to/Turrets_Mod_r001_Desno365.zip) |
-| AndroidFileHost: | [Support download](http://adf.ly/rfJmM) | [Regular download](https://www.androidfilehost.com/?fid=23622183712465438) |
-| MEGA:            | [Support download](http://adf.ly/rfJZn) | [Regular download](https://mega.co.nz/#!u5hgjLLQ!A3fMHmlNpNPUjuo9UXURP2-n0Bn9Fuf-0NrtLg995gA) |
+| MediaFire:         | [Support download](http://adf.ly/rfJUz) | [Regular download](http://www.mediafire.com/download/o7xdbe19za3x2to/Turrets_Mod_r001_Desno365.zip) |
+| Android File Host: | [Support download](http://adf.ly/rfJmM) | [Regular download](https://www.androidfilehost.com/?fid=23622183712465438) |
+| MEGA:              | [Support download](http://adf.ly/rfJZn) | [Regular download](https://mega.co.nz/#!u5hgjLLQ!A3fMHmlNpNPUjuo9UXURP2-n0Bn9Fuf-0NrtLg995gA) |
 |----
 {: rules="groups"}
 

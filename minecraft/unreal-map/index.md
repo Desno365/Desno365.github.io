@@ -44,9 +44,9 @@ A video explains it better: [The Unreal Geometry Map YouTube video](http://youtu
 
 | Website | Support | Regular |
 |:--------|:-------:|:-------:|
-| MediaFire:       | [Support download](http://adf.ly/1CIQMi) | [Regular download](http://www.mediafire.com/download/m9zvo42mq9u6bkw/Unreal_Geometry_r002_Desno365.zip) |
-| AndroidFileHost: | [Support download](http://adf.ly/1CIQOg) | [Regular download](https://www.androidfilehost.com/?fid=95916177934548024) |
-| MEGA:            | [Support download](http://adf.ly/1CIQPs) | [Regular download](https://mega.co.nz/#!igw3HTiL!eRdzgk5gar4s5tmrjr3oxHXIM_dreZt0fO-VkHtGi2k) |
+| MediaFire:         | [Support download](http://adf.ly/1CIQMi) | [Regular download](http://www.mediafire.com/download/m9zvo42mq9u6bkw/Unreal_Geometry_r002_Desno365.zip) |
+| Android File Host: | [Support download](http://adf.ly/1CIQOg) | [Regular download](https://www.androidfilehost.com/?fid=95916177934548024) |
+| MEGA:              | [Support download](http://adf.ly/1CIQPs) | [Regular download](https://mega.co.nz/#!igw3HTiL!eRdzgk5gar4s5tmrjr3oxHXIM_dreZt0fO-VkHtGi2k) |
 |----
 {: rules="groups"}
 
