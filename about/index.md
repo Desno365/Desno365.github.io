@@ -17,6 +17,7 @@ I made this website because I like computer and related things. Here I will add 
 These are the geek stuffs that I use:
 {% highlight text %}
 - OnePlus One
+- Nexus 4
 - iMac (21.5-inch, Late 2009)
 {% endhighlight %}
 
