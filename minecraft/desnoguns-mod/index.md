@@ -228,9 +228,9 @@ See the full changelog here:
 
 ## Known bugs and issues
 
-• With some devices (many Samsung devices) you can't move the aim while shooting. I'm having difficulties to fix this problem, if you are a modder and you want to help fixing this bug check out the [Bitbucket issue tracker of the mod](https://bitbucket.org/Desno365/desnoguns-mod/issues).<br>
+• With some devices (many Samsung devices) you can't move the aim while shooting. I'm having difficulties to fix this problem, if you are a modder and you want to help fixing this bug check out the [Github issue tracker of the mod](https://github.com/Desno365/DesnoGuns-Mod/issues).<br>
 • If you shoot multiple arrows to a mob, sometimes, they bounce back to you and damage you. I made a workaround for this, you can enable it in the settings of the mod.<br><br>
-• If you find a bug report it in the [minecraft-forum.net thread][thread].
+• If you find a bug report it in the [minecraft-forum.net thread][thread] or on the [Github issue tracker](https://github.com/Desno365/DesnoGuns-Mod).
 
 ---
 
