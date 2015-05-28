@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2 millions and a half!"
+title: "2 million and a half!"
 modified:
 categories: blog
 excerpt:
