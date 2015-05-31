@@ -271,7 +271,7 @@ Minecraft ®/TM & © 2009-2013 Mojang / Notch
 
 ## Credits
 
-• Thanks to Flan ([@jamioflan](https://twitter.com/jamioflan)) for the textures and the sounds. He made a great work with the Flan's Mod for Minecraft PC, and also he released it with a Creative Commons license (that's why I can use them). If you want to support him for the things he have made you can make a donation on his [Patreon page](http://www.patreon.com/jamioflan).<br>
+• Thanks to Flan ([@jamioflan](https://twitter.com/jamioflan)) for the textures and the sounds. He made a great work with the Flan's Mod for Minecraft PC, and also he released it with a Creative Commons license (that's why I can use them). If you want to support him for the things he has made you can make a donation on his [Patreon page](http://www.patreon.com/jamioflan).<br>
 • Thanks to <i>MyNameIsAnti ([@AntiModPE](https://twitter.com/AntiModPE))</i> for the render of the grenade and for some lines of code!<br>
 • Thanks to <i>TBPM ([@TBPM_MODDER](https://twitter.com/TBPM_MODDER))</i> for his idea of decoding images with base64.<br>
 • Thanks to <i>[Prayingmantis13](http://www.minecraftforum.net/members/Prayingmantis13)</i> for the bullet texture.<br>
