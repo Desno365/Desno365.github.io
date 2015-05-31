@@ -156,7 +156,7 @@ This work is licensed under the Creative Commons Attribution-NonCommercial-Share
 To view a copy of this license, visit http://creativecommo...s/by-nc-sa/3.0/ or send a
 letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
 <br><br>
-All the following trademarks are the properties of their respective owners as listed below.
+All the following trademarks are the properties of their respective owners as listed below.<br>
 Minecraft ®/TM & © 2009-2013 Mojang / Notch
 
 ---
