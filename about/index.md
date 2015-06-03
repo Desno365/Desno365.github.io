@@ -16,7 +16,7 @@ These are the geek stuffs that I use:
 {% highlight text %}
 - OnePlus One
 - Nexus 4
-- MacBook Pro (15-inch, Mid 2015)
+- MacBook Pro (Retina, 15-inch, Mid 2015)
 {% endhighlight %}
 
 
