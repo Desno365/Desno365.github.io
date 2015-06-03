@@ -7,8 +7,6 @@ image:
 noads: true
 ---
 
-Hello!
-
 My name is Dennis Motta, I’m 17 years old and I'm a student and a swimmer. I like science and technology, but I should also learn English better :D<br>
 I live near Milan in Italy.
 
@@ -18,7 +16,7 @@ These are the geek stuffs that I use:
 {% highlight text %}
 - OnePlus One
 - Nexus 4
-- iMac (21.5-inch, Late 2009)
+- MacBook Pro (15-inch, Mid 2015)
 {% endhighlight %}
 
 
