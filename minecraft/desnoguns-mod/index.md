@@ -40,14 +40,14 @@ Guns. Weapons. Explosions. This is the DesnoGuns Mod! :D
 
 ## Downloads
 
-<i>Minecraft Pocket Edition 0.10.5:</i><br>
-<i> --- DesnoGuns Mod <b>r004</b>:</i>
+<i>Minecraft Pocket Edition 0.11.1:</i><br>
+<i> --- DesnoGuns Mod <b>r005</b>:</i>
 
 | Website | Support | Regular |
 |:--------|:-------:|:-------:|
-| MediaFire:         | [Support download](http://adf.ly/12exnh) | [Regular download](http://www.mediafire.com/download/tcd1zd4by1kjzc9/DesnoGuns_r004_Desno365.zip) |
-| Android File Host: | [Support download](http://adf.ly/12eyOl) | [Regular download](https://www.androidfilehost.com/?fid=95916177934530177) |
-| MEGA:              | [Support download](http://adf.ly/12ey73) | [Regular download](https://mega.co.nz/#!m1ZiWBzQ!f-rrW3MlSKYGwKJLnuao-FPMKXLkkUsSkAxmewQsgV0) |
+| MediaFire:         | [Support download](http://adf.ly/1IX0uP) | [Regular download](http://www.mediafire.com/download/n79e581igmemava/DesnoGuns_r005_Desno365.zip) |
+| Android File Host: | [Support download](http://adf.ly/1IX0wX) | [Regular download](https://www.androidfilehost.com/?fid=24052804347757816) |
+| MEGA:              | [Support download](http://adf.ly/1IX0sQ) | [Regular download](https://mega.nz/#!bpxWyJba!1vRpewtzfI8NACuboG0XI0KAbGA9k8gxvo7ZB4HDbzs) |
 |----
 {: rules="groups"}
 
@@ -98,13 +98,13 @@ Click an icon under the "**Crafting**" column to display the crafting recipe of 
 
 | Item                         | ID       | Crafting |
 |:-----------------------------|:--------:|:--------:|
-| DesnoGuns Info:              | 456      | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/info_icon.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/info_icon.png" alt="image"></a></figure> |
+| DesnoGuns Info:              | 438      | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/info_icon.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/info_icon.png" alt="image"></a></figure> |
 | Knife:                       | 432      | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/Knife.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/Knife.png" alt="image"></a></figure> |
 | Parachute:                   | 433      | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/MWParachute.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/MWParachute.png" alt="image"></a></figure> |
 | Medical Kit:                 | 434      | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/MWMedkit.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/MWMedkit.png" alt="image"></a></figure> |
-| Grenade:                     | 453      | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/Mk2Grenade.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/Mk2Grenade.png" alt="image"></a></figure> |
-| Fragment Grenade:            | 454      | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/MillsBomb.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/MillsBomb.png" alt="image"></a></figure> |
-| Molotov:                     | 455      | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/Molotov.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/Molotov.png" alt="image"></a></figure> |
+| Grenade:                     | 435      | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/Mk2Grenade.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/Mk2Grenade.png" alt="image"></a></figure> |
+| Fragment Grenade:            | 436      | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/MillsBomb.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/MillsBomb.png" alt="image"></a></figure> |
+| Molotov:                     | 437      | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/Molotov.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/Molotov.png" alt="image"></a></figure> |
 | <b>Armor</b>                 | 302≈305  |           |
 | Juggernaut Helmet:           | 302      | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/JuggernautHelmet.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/JuggernautHelmet.png" alt="image"></a></figure> |
 | Juggernaut Body:             | 303      | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/JuggernautBody.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/JuggernautBody.png" alt="image"></a></figure> |
@@ -125,7 +125,7 @@ Click an icon under the "**Crafting**" column to display the crafting recipe of 
 | AA-12:                       | 509      | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/shotgun.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/AA12.png" alt="image"></a></figure> |
 | Incendiary Grenade Launcher: | 510      | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/launcher.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/IncendiaryGL.png" alt="image"></a></figure> |
 | <i>Free items</i>            |          |           |
-| .44 Magnum:                  | 459      | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/handgun.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/44Magnum.png" alt="image"></a></figure> |
+| .44 Magnum:                  | 456      | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/handgun.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/44Magnum.png" alt="image"></a></figure> |
 | AK47:                        | 460      | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/assault-rifle.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/AK47.png" alt="image"></a></figure> |
 | AK74:                        | 461      | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/assault-rifle.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/AK74.png" alt="image"></a></figure> |
 | AT4:                         | 462      | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/launcher.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/AT4.png" alt="image"></a></figure> |
@@ -183,6 +183,17 @@ Click an icon under the "**Crafting**" column to display the crafting recipe of 
 
 ## Changelog
 
+**DesnoGuns Mod r005**
+{% highlight text %}
+- NEW: support for Minecraft PE 0.11.x
+- NEW: compatibility with Android M
+- UPDATE: some IDs has been changed because some of them were overriding beetroot and related items, IDs changed: DesnoGuns Info, .44Magnum, Grenade, Fragment Grenade, Molotov.
+- FIX: fix the "resurrector knife" bug
+- FIX: fix the "shooting while reload" bug
+- FIX: fix the "parachute not working on grass" bug
+- FIX: before, on some devices, while aiming with a sniper rifle there was one line of pixels not black. Now it has been fixed
+{% endhighlight %}
+
 **DesnoGuns Mod r004**
 {% highlight text %}
 - UPDATE: items and guns moved in the Tool category in the Creative inventory
@@ -192,30 +203,6 @@ Click an icon under the "**Crafting**" column to display the crafting recipe of 
 - UPDATE: improvements in the Settings page
 - FIX: fix bug of sounds installation when there isn't any Internet connection available
 - FIX: guns now render vertically instead of horizontally in the third person view
-{% endhighlight %}
-
-**DesnoGuns Mod r003**
-{% highlight text %}
-- NEW: automatic sounds installation
-- NEW: added recoil for all the guns
-- NEW: new weapon: Flamethrower
-- NEW: new weapon: Minigun Explosive
-- NEW: new weapon: Makarov
-- NEW: new weapon: AA-12 (pro item)
-- NEW: new weapon: Incendiary Grenade Launcher (pro item)
-- NEW: added texture pack with bullet texture instead of arrow
-- NEW: options in Setting to enable reloading for guns also in Creative
-- NEW: option in Settings to enable instant reload in Creative (only when reload in Creative is enabled)
-- NEW: option to display the gun's name near the ammo text
-- NEW: added an Easter Egg :P
-- UPDATE: updated the Medical Kit with a new UI
-- UPDATE: improved memory management
-- UPDATE: improved start-up speed
-- UPDATE: added sound when the parachute opens
-- UPDATE: added sound when you try to shoot but the ammo is 0
-- UPDATE: guns are displayed in alphabetical order in the Creative inventory
-- FIX: fix Molotov didn't burn grass
-- FIX: fix shadow for buttons in Android Lollipop
 {% endhighlight %}
 
 <br>

@@ -5,6 +5,17 @@ excerpt: "DesnoGuns Mod full changelog"
 ---
 
 
+**DesnoGuns Mod r005**
+{% highlight text %}
+- NEW: support for Minecraft PE 0.11.x
+- NEW: compatibility with Android M
+- UPDATE: some IDs has been changed because some of them were overriding beetroot and related items, IDs changed: DesnoGuns Info, .44Magnum, Grenade, Fragment Grenade, Molotov.
+- FIX: fix the "resurrector knife" bug
+- FIX: fix the "shooting while reload" bug
+- FIX: fix the "parachute not working on grass" bug
+- FIX: before, on some devices, while aiming with a sniper rifle there was one line of pixels not black. Now it has been fixed
+{% endhighlight %}
+
 **DesnoGuns Mod r004**
 {% highlight text %}
 - UPDATE: items and guns moved in the Tool category in the Creative inventory
