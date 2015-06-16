@@ -5,6 +5,16 @@ excerpt: "Portal 2 Mod full changelog"
 ---
 
 
+**Portal 2 Mod r010**
+{% highlight text %}
+- NEW: support for Minecraft PE 0.11.x
+- NEW: compatibility with Android M
+- UPDATE: all the IDs have been changed! If you have a map that uses this mod you'll have to update it
+- UPDATE: some items are now rendered vertically in third person view
+- FIX: Long Fall Boots item now doesn't override the Chain Boots
+- FIX: fix black background on textures of portals
+{% endhighlight %}
+
 **Portal 2 Mod r009**
 {% highlight text %}
 - NEW: support for Minecraft PE 0.10.4

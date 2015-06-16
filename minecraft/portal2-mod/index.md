@@ -41,14 +41,14 @@ In this mod you can find also other items copied from the game "Portal": Long Fa
 
 ## Downloads
 
-<i>Minecraft Pocket Edition 0.10.4 & 0.9.5:</i><br>
-<i> --- Portal 2 Mod <b>r009</b>:</i>
+<i>Minecraft Pocket Edition 0.11.1:</i><br>
+<i> --- Portal 2 Mod <b>r010</b>:</i>
 
 | Website | Support | Regular |
 |:--------|:-------:|:-------:|
-| MediaFire:         | [Support download](http://adf.ly/vEMDH) | [Regular download](http://www.mediafire.com/download/sswtq381n35gikw/Portal_Mod_r009_Desno365.zip) |
-| Android File Host: | [Support download](http://adf.ly/vEMLV) | [Regular download](https://www.androidfilehost.com/?fid=95855108297851051) |
-| MEGA:              | [Support download](http://adf.ly/vEN7p) | [Regular download](https://mega.co.nz/#!vtQCiS5J!hSCmx7CttjfPYv3PGtBp72QoKMvkA9ors8VkCp32R3A) |
+| MediaFire:         | [Support download](http://adf.ly/1IyyR1) | [Regular download](http://www.mediafire.com/download/yj055g2edqgd253/Portal_Mod_r010_Desno365.zip) |
+| Android File Host: | [Support download](http://adf.ly/1Iyxol) | [Regular download](https://www.androidfilehost.com/?fid=24052804347760623) |
+| MEGA:              | [Support download](http://adf.ly/1Iyy3x) | [Regular download](https://mega.nz/#!qgwilbRA!884KAdrcqhS4_znfXTmF1dQyP8MMK1-gpCtooCkVPdo) |
 |----
 {: rules="groups"}
 
@@ -95,34 +95,39 @@ Click an icon under the "**Crafting**" column to display the crafting recipe of 
 
 | Item                         | ID       | Crafting |
 |:-----------------------------|:--------:|:--------:|
-| Portal Informations:         | 475      | <figure><a href="{{ site.url }}/minecraft/portal2-mod/images/how-to-craft/crafting/portalInformations.jpg"><img src="{{ site.url }}/minecraft/portal2-mod/images/how-to-craft/icons/portalInformations.png" alt="image"></a></figure> |
-| PortalGun:                   | 470      | <figure><a href="{{ site.url }}/minecraft/portal2-mod/images/how-to-craft/crafting/portalgun.jpg"><img src="{{ site.url }}/minecraft/portal2-mod/images/how-to-craft/icons/portalgun.png" alt="image"></a></figure> |
-| PortalGun Gold:              | 472      | <figure><a href="{{ site.url }}/minecraft/portal2-mod/images/how-to-craft/crafting/portalgunGold.jpg"><img src="{{ site.url }}/minecraft/portal2-mod/images/how-to-craft/icons/portalgunGold.png" alt="image"></a></figure> |
-| PortalGun Iron:              | 473      | <figure><a href="{{ site.url }}/minecraft/portal2-mod/images/how-to-craft/crafting/portalgunIron.jpg"><img src="{{ site.url }}/minecraft/portal2-mod/images/how-to-craft/icons/portalgunIron.png" alt="image"></a></figure> |
-| PortalGun Lava:              | 474      | <figure><a href="{{ site.url }}/minecraft/portal2-mod/images/how-to-craft/crafting/portalgunLava.jpg"><img src="{{ site.url }}/minecraft/portal2-mod/images/how-to-craft/icons/portalgunLava.png" alt="image"></a></figure> |
-| PortalGun Wood & Stone:      | 475      | <figure><a href="{{ site.url }}/minecraft/portal2-mod/images/how-to-craft/crafting/portalgunWoodStone.jpg"><img src="{{ site.url }}/minecraft/portal2-mod/images/how-to-craft/icons/portalgunWoodStone.png" alt="image"></a></figure> |
-| GravityGun:                  | 479      | <figure><a href="{{ site.url }}/minecraft/portal2-mod/images/how-to-craft/crafting/gravityGun.jpg"><img src="{{ site.url }}/minecraft/portal2-mod/images/how-to-craft/icons/gravityGun.png" alt="image"></a></figure> |
-| Long Fall Boot:              | 476      | <figure><a href="{{ site.url }}/minecraft/portal2-mod/images/how-to-craft/crafting/longFallBoot.jpg"><img src="{{ site.url }}/minecraft/portal2-mod/images/how-to-craft/icons/longFallBoot.png" alt="image"></a></figure> |
-| Long Fall Boots:             | 305      | <figure><a href="{{ site.url }}/minecraft/portal2-mod/images/how-to-craft/crafting/longFallBoots.jpg"><img src="{{ site.url }}/minecraft/portal2-mod/images/how-to-craft/icons/longFallBoots.png" alt="image"></a></figure> |
-| Portal Jukebox:              | 220      | Crafting not available<a href="#crafting-not-available-explanation">*</a> |
-| Jumper:                      | 221      | Crafting not available<a href="#crafting-not-available-explanation">*</a> |
-| Portal Radio:                | 222≈225  | Crafting not available<a href="#crafting-not-available-explanation">*</a> |
-| Repulsion Gel Block:         | 226      | Crafting not available<a href="#crafting-not-available-explanation">*</a> |
-| Propulsion Gel Block:        | 227      | Crafting not available<a href="#crafting-not-available-explanation">*</a> |
-| Turret:                      | 478      | Crafting not available<a href="#crafting-not-available-explanation">*</a> |
-| Turrets Options:             | 480      | Crafting not available<a href="#crafting-not-available-explanation">*</a> |
+| Portal Informations:         | 3650     | <figure><a href="{{ site.url }}/minecraft/portal2-mod/images/how-to-craft/crafting/portalInformations.jpg"><img src="{{ site.url }}/minecraft/portal2-mod/images/how-to-craft/icons/portalInformations.png" alt="image"></a></figure> |
+| PortalGun:                   | 3651     | <figure><a href="{{ site.url }}/minecraft/portal2-mod/images/how-to-craft/crafting/portalgun.jpg"><img src="{{ site.url }}/minecraft/portal2-mod/images/how-to-craft/icons/portalgun.png" alt="image"></a></figure> |
+| PortalGun Gold:              | 3652     | <figure><a href="{{ site.url }}/minecraft/portal2-mod/images/how-to-craft/crafting/portalgunGold.jpg"><img src="{{ site.url }}/minecraft/portal2-mod/images/how-to-craft/icons/portalgunGold.png" alt="image"></a></figure> |
+| PortalGun Iron:              | 3653     | <figure><a href="{{ site.url }}/minecraft/portal2-mod/images/how-to-craft/crafting/portalgunIron.jpg"><img src="{{ site.url }}/minecraft/portal2-mod/images/how-to-craft/icons/portalgunIron.png" alt="image"></a></figure> |
+| PortalGun Lava:              | 3654     | <figure><a href="{{ site.url }}/minecraft/portal2-mod/images/how-to-craft/crafting/portalgunLava.jpg"><img src="{{ site.url }}/minecraft/portal2-mod/images/how-to-craft/icons/portalgunLava.png" alt="image"></a></figure> |
+| PortalGun Wood & Stone:      | 3655     | <figure><a href="{{ site.url }}/minecraft/portal2-mod/images/how-to-craft/crafting/portalgunWoodStone.jpg"><img src="{{ site.url }}/minecraft/portal2-mod/images/how-to-craft/icons/portalgunWoodStone.png" alt="image"></a></figure> |
+| GravityGun:                  | 3656     | <figure><a href="{{ site.url }}/minecraft/portal2-mod/images/how-to-craft/crafting/gravityGun.jpg"><img src="{{ site.url }}/minecraft/portal2-mod/images/how-to-craft/icons/gravityGun.png" alt="image"></a></figure> |
+| Long Fall Boot:              | 3659     | <figure><a href="{{ site.url }}/minecraft/portal2-mod/images/how-to-craft/crafting/longFallBoot.jpg"><img src="{{ site.url }}/minecraft/portal2-mod/images/how-to-craft/icons/longFallBoot.png" alt="image"></a></figure> |
+| Long Fall Boots:             | 3660     | <figure><a href="{{ site.url }}/minecraft/portal2-mod/images/how-to-craft/crafting/longFallBoots.jpg"><img src="{{ site.url }}/minecraft/portal2-mod/images/how-to-craft/icons/longFallBoots.png" alt="image"></a></figure> |
+| Turrets Options:             | 3657     | Crafting not available<a href="#crafting-not-available-explanation">*</a> |
+| Turret:                      | 3658     | Crafting not available<a href="#crafting-not-available-explanation">*</a> |
+| Portal Jukebox:              | 224      | Crafting not available<a href="#crafting-not-available-explanation">*</a> |
+| Jumper:                      | 225      | Crafting not available<a href="#crafting-not-available-explanation">*</a> |
+| Portal Radio:                | 226≈229  | Crafting not available<a href="#crafting-not-available-explanation">*</a> |
+| Repulsion Gel Block:         | 230      | Crafting not available<a href="#crafting-not-available-explanation">*</a> |
+| Propulsion Gel Block:        | 231      | Crafting not available<a href="#crafting-not-available-explanation">*</a> |
 |----
 {: rules="groups"}
 
-<div id="crafting-not-available-explanation">*This item/block doesn't have a crafting recipe but you can get it in Creative Mode, or by using this method in Survival Mode: "Portal Informations UI" --> "Settings" --> "Options for custom map-makers" --> "Get Aperture Lab equipment".</div>
+<div id="crafting-not-available-explanation">*This item/block doesn't have a crafting recipe but you can get it in Creative Mode, or by using this method in Survival Mode: "Portal Information UI" --> "Settings" --> "Options for custom map-makers" --> "Get Aperture Lab equipment".</div>
 
 ---
 
 ## Changelog
 
-**Portal 2 Mod r009**
+**Portal 2 Mod r010**
 {% highlight text %}
-- NEW: support for Minecraft PE 0.10.4
+- NEW: support for Minecraft PE 0.11.x
+- NEW: compatibility with Android M
+- UPDATE: all the IDs have been changed! If you have a map that uses this mod you'll have to update it
+- UPDATE: some items are now rendered vertically in third person view
+- FIX: Long Fall Boots item now doesn't override the Chain Boots
+- FIX: fix black background on textures of portals
 {% endhighlight %}
 
 <br>
@@ -135,10 +140,7 @@ See the full changelog here:
 
 ## Known bugs and issues
 
-• In certain circumstances long fall boots don't work.<br>
-• Turrets are in pre-beta stage so you can find many bugs with them.<br>
-• The images of portals are black (BlockLauncher bug).<br>
-• There is a x-ray glitch near portals (BlockLauncher bug).<br><br>
+• Turrets are in pre-beta stage so you can find many bugs with them.<br><br>
 • If you find a bug report it in the [minecraft-forum.net thread][thread].
 
 ---
