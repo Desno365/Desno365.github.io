@@ -26,5 +26,8 @@ excerpt: "All my work made for the Minecraft PE community"
 
 * [Desno365's Mods](https://play.google.com/store/apps/details?id=com.desno365.mods)
 
+#### Libraries (for modders):
+* [Minecraft Button Library](https://github.com/Desno365/Minecraft-Button-Library)
+
 <br>
 **My profile on minecraft-forum.net:** [Desno365](http://www.minecraftforum.net/members/Desno365)
