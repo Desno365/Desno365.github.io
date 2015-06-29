@@ -5,6 +5,21 @@ excerpt: "DesnoGuns Mod full changelog"
 ---
 
 
+**DesnoGuns Mod r006**
+{% highlight text %}
+- NEW: Minecraft style for UIs
+- NEW: new option in Settings to enable Minecraft style for the "fire" and "aim" buttons
+- NEW: volume option in Settings
+- NEW: slightly better animation when aiming with a Sniper Rifle
+- NEW: volume of sound based on the distance from the source (for Molotov and Incendiary Grenade Launcher)
+- UPDATE: The Juggernaut armor now doesn't override the Chain armor (IDs changed!)
+- UPDATE: code re-written in many parts and improved: this should increase performance when loading the script at startup
+- FIX: fixed disappearing items from the creative menu
+- FIX: fixed the "double tap fast the aim button" bug that caused glitches with zoom
+- FIX: fixed shadows and collision size of grenades
+- FIX: fixed a graphical glitch that was happening when using other Texture Packs at the same time
+{% endhighlight %}
+
 **DesnoGuns Mod r005**
 {% highlight text %}
 - NEW: support for Minecraft PE 0.11.x

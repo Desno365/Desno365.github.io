@@ -41,13 +41,13 @@ Guns. Weapons. Explosions. This is the DesnoGuns Mod! :D
 ## Downloads
 
 <i>Minecraft Pocket Edition 0.11.1:</i><br>
-<i> --- DesnoGuns Mod <b>r005</b>:</i>
+<i> --- DesnoGuns Mod <b>r006</b>:</i>
 
 | Website | Support | Regular |
 |:--------|:-------:|:-------:|
-| MediaFire:         | [Support download](http://adf.ly/1IX0uP) | [Regular download](http://www.mediafire.com/download/n79e581igmemava/DesnoGuns_r005_Desno365.zip) |
-| Android File Host: | [Support download](http://adf.ly/1IX0wX) | [Regular download](https://www.androidfilehost.com/?fid=24052804347757816) |
-| MEGA:              | [Support download](http://adf.ly/1IX0sQ) | [Regular download](https://mega.nz/#!bpxWyJba!1vRpewtzfI8NACuboG0XI0KAbGA9k8gxvo7ZB4HDbzs) |
+| MediaFire:         | [Support download](http://adf.ly/1K01aL) | [Regular download](http://www.mediafire.com/download/w4b83m0r0c9bbn3/DesnoGuns_r006_Desno365.zip) |
+| Android File Host: | [Support download](http://adf.ly/1K01jR) | [Regular download](https://www.androidfilehost.com/?fid=24052804347766562) |
+| MEGA:              | [Support download](http://adf.ly/1K01fI) | [Regular download](https://mega.nz/#!r5RzRToa!9hKnUI_3JGaeOxqGgXTX5HI8g-F5nsZIGJQAHo41Oh8) |
 |----
 {: rules="groups"}
 
@@ -105,11 +105,11 @@ Click an icon under the "**Crafting**" column to display the crafting recipe of 
 | Grenade:                     | 435      | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/Mk2Grenade.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/Mk2Grenade.png" alt="image"></a></figure> |
 | Fragment Grenade:            | 436      | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/MillsBomb.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/MillsBomb.png" alt="image"></a></figure> |
 | Molotov:                     | 437      | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/Molotov.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/Molotov.png" alt="image"></a></figure> |
-| <b>Armor</b>                 | 302≈305  |           |
-| Juggernaut Helmet:           | 302      | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/JuggernautHelmet.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/JuggernautHelmet.png" alt="image"></a></figure> |
-| Juggernaut Body:             | 303      | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/JuggernautBody.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/JuggernautBody.png" alt="image"></a></figure> |
-| Juggernaut Pants:            | 304      | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/JuggernautPants.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/JuggernautPants.png" alt="image"></a></figure> |
-| Juggernaut Boots:            | 305      | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/JuggernautBoots.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/JuggernautBoots.png" alt="image"></a></figure> |
+| <b>Armor</b>                 | 3285≈3288|           |
+| Juggernaut Helmet:           | 3285     | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/JuggernautHelmet.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/JuggernautHelmet.png" alt="image"></a></figure> |
+| Juggernaut Body:             | 3286     | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/JuggernautBody.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/JuggernautBody.png" alt="image"></a></figure> |
+| Juggernaut Pants:            | 3287     | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/JuggernautPants.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/JuggernautPants.png" alt="image"></a></figure> |
+| Juggernaut Boots:            | 3288     | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/JuggernautBoots.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/JuggernautBoots.png" alt="image"></a></figure> |
 | <b>Ammunitions</b>           | 440≈448  |           |
 | Assault Rifle Ammo:          | 440      | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/AK47Ammo.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/AK47Ammo.png" alt="image"></a></figure> |
 | Sub Machine Ammo:            | 441      | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/MP5Ammo.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/MP5Ammo.png" alt="image"></a></figure> |
@@ -183,6 +183,21 @@ Click an icon under the "**Crafting**" column to display the crafting recipe of 
 
 ## Changelog
 
+**DesnoGuns Mod r006**
+{% highlight text %}
+- NEW: Minecraft style for UIs
+- NEW: new option in Settings to enable Minecraft style for the "fire" and "aim" buttons
+- NEW: volume option in Settings
+- NEW: slightly better animation when aiming with a Sniper Rifle
+- NEW: volume of sound based on the distance from the source (for Molotov and Incendiary Grenade Launcher)
+- UPDATE: The Juggernaut armor now doesn't override the Chain armor (IDs changed!)
+- UPDATE: code re-written in many parts and improved: this should increase performance when loading the script at startup
+- FIX: fixed disappearing items from the creative menu
+- FIX: fixed the "double tap fast the aim button" bug that caused glitches with zoom
+- FIX: fixed shadows and collision size of grenades
+- FIX: fixed a graphical glitch that was happening when using other Texture Packs at the same time
+{% endhighlight %}
+
 **DesnoGuns Mod r005**
 {% highlight text %}
 - NEW: support for Minecraft PE 0.11.x
@@ -192,17 +207,6 @@ Click an icon under the "**Crafting**" column to display the crafting recipe of 
 - FIX: fix the "shooting while reload" bug
 - FIX: fix the "parachute not working on grass" bug
 - FIX: before, on some devices, while aiming with a sniper rifle there was one line of pixels not black. Now it has been fixed
-{% endhighlight %}
-
-**DesnoGuns Mod r004**
-{% highlight text %}
-- UPDATE: items and guns moved in the Tool category in the Creative inventory
-- NEW: new weapon: .44 Magnum
-- NEW: new armor: Juggernaut
-- NEW: option in Settings to switch the position of the "fire" and "aim" buttons
-- UPDATE: improvements in the Settings page
-- FIX: fix bug of sounds installation when there isn't any Internet connection available
-- FIX: guns now render vertically instead of horizontally in the third person view
 {% endhighlight %}
 
 <br>
