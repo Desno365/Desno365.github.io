@@ -5,6 +5,19 @@ excerpt: "DesnoGuns Mod full changelog"
 ---
 
 
+**DesnoGuns Mod r007**
+{% highlight text %}
+- NEW: Crossbow
+- NEW: Crossbow Explosive
+- NEW: Smoke Grenade
+- NEW: Riot Shield
+- NEW: MSR (pro item)
+- UPDATE: many IDs changed! (IDs changed: all the ammunitions and these items: Molotov, Fragment Grenade, Grenade, Medical Kit, Parachute, Knife, DesnoGuns Info, .44Magnum)
+- FIX: fixed Settings section not working on Android 4.0
+- FIX: fixed a crash with grenades when leaving the game
+- FIX: fixed volume options not applied to reload sounds and miniguns
+{% endhighlight %}
+
 **DesnoGuns Mod r006**
 {% highlight text %}
 - NEW: Minecraft style for UIs
