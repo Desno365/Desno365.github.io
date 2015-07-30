@@ -46,8 +46,8 @@ Guns. Weapons. Explosions. This is the DesnoGuns Mod! :D
 | Website | Support | Regular |
 |:--------|:-------:|:-------:|
 | MediaFire:         | [Support download](http://adf.ly/1La7Vn) | [Regular download](http://www.mediafire.com/download/yyss9rdsqsi578c/DesnoGuns_r007_Desno365.zip) |
+| Filecred:          | [Support download](http://adf.ly/1LcINN) | [Regular download](http://filecred.com/A15G55BA) |
 | Android File Host: | [Support download](http://adf.ly/1La7aq) | [Regular download](https://www.androidfilehost.com/?fid=24052804347783707) |
-| MEGA:              | [Support download](http://adf.ly/1La7Mc) | [Regular download](https://mega.nz/#!mxRyHKQI!VRxMSIZ10PksY7OomsT_9JebOUxnUoCb_cdaoYZ13BQ) |
 |----
 {: rules="groups"}
 
