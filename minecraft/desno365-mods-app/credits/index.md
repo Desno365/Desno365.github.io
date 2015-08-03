@@ -8,7 +8,6 @@ The translations of the Desno365's Mods app were made possible with the contribu
 
 #### Translators:
 
-
 - [Adrian Blazquez](https://crowdin.com/profile/adrianblazquez512)<br>
 - [ArticModPE](https://twitter.com/ArticModPE)<br>
 - [davyakov](https://crowdin.com/profile/davyakov)<br>
@@ -30,5 +29,9 @@ The translations of the Desno365's Mods app were made possible with the contribu
 - [Thiago Masson](https://crowdin.com/profile/tthiagomasson)<br>
 - [valentinvincent](https://crowdin.com/profile/valentinvincent)<br>
 - [Yakov Dav](https://crowdin.com/profile/davyakov)<br>
+
+### Help translating
+
+<a target="_blank" href="https://crowdin.com/project/desno365s-mods"><img src="https://d322cqt584bo4o.cloudfront.net/desno365s-mods/localized.png"></a>
 
 
