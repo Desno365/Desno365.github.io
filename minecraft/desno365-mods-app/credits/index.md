@@ -10,7 +10,6 @@ The translations of the Desno365's Mods app were made possible with the contribu
 
 - [Adrian Blazquez](https://crowdin.com/profile/adrianblazquez512)<br>
 - [ArticModPE](https://twitter.com/ArticModPE)<br>
-- [davyakov](https://crowdin.com/profile/davyakov)<br>
 - [gur018801](https://crowdin.com/profile/gur018801)<br>
 - [Hasan Yagmurcu](https://crowdin.com/profile/Hasan_yagmurcu)<br>
 - [hurmanius](https://twitter.com/hurmanius)<br>
