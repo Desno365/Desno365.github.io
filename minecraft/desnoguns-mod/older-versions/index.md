@@ -15,6 +15,7 @@ excerpt: "DesnoGuns Mod older versions"
 |----
 {: rules="groups"}
 
+<br>
 <font color="#C0C0C0">ADVERTISEMENT:</font><br>
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- inside-pages-ad-large-rectangle -->
@@ -25,6 +26,7 @@ excerpt: "DesnoGuns Mod older versions"
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+<br>
 
 <i>Minecraft Pocket Edition 0.9.5 and BlockLauncher 1.7.9:</i><br>
 <i> --- DesnoGuns Mod <b>r003</b>:</i>
