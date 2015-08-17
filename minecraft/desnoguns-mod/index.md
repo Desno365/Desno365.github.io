@@ -56,17 +56,8 @@ Guns. Weapons. Explosions. This is the DesnoGuns Mod! :D
 <i>Older Minecraft Pocket Edition versions:</i>
 
 <div markdown="0"><a href="{{ site.url }}/minecraft/desnoguns-mod/older-versions" class="btn">Older versions</a></div>
-<br>
-<font color="#C0C0C0">ADVERTISEMENT:</font><br>
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- inside-pages-ad-large-rectangle -->
-<ins class="adsbygoogle"
-     style="display:inline-block;width:336px;height:280px"
-     data-ad-client="ca-pub-4328789168608769"
-     data-ad-slot="1857238131"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+
+{% include ad-content.html %}
 
 ---
 
