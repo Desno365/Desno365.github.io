@@ -29,61 +29,61 @@ var bellybutton;
 
 function transform()
 {
-    if (!allSet)
-    {
-        var transOrigin = "50% 50%";
-        document.body.parentElement.style.height = "100%";
-        document.body.style.minHeight = "100%";
-        document.body.style.transformOrigin = transOrigin;
-        document.body.style.webkitTransformOrigin = transOrigin;
-        document.body.style.mozTransformOrigin = transOrigin;
-        bellybutton = document.createElement("button");
-        bellybutton.innerHTML = "Stop";
-        bellybutton.style.position = "absolute";
-        bellybutton.style.left = "48%";
-        bellybutton.style.top =  "48%";
-        bellybutton.style.width = "80px";
-        bellybutton.style.height =  "25px%";
-        document.body.appendChild(bellybutton);
-        bellybutton.onclick = stoppuking;
-        allSet = true;
-    }
-    var transString = "rotate(" + degreez + "deg)";
-    document.body.style.transform = transString;
-    document.body.style.webkitTransform = transString;
-    document.body.style.mozTransform = transString;
-    if(speedTimer >= increaseSpeedEveryMs)
-    {
-        speedTimer = 0;
-        if(speed > 1)
-            speed--;
-        if(increaseSpeedEveryMs <= 100)
-            increaseSpeedEveryMs++;
-        clearInterval(timer);
-        timer = setInterval(transform, speed);
-    }
-    speedTimer++;
-    degreez += 1;
+	if (!allSet)
+	{
+		var transOrigin = "50% 50%";
+		document.body.parentElement.style.height = "100%";
+		document.body.style.minHeight = "100%";
+		document.body.style.transformOrigin = transOrigin;
+		document.body.style.webkitTransformOrigin = transOrigin;
+		document.body.style.mozTransformOrigin = transOrigin;
+		bellybutton = document.createElement("button");
+		bellybutton.innerHTML = "Stop";
+		bellybutton.style.position = "absolute";
+		bellybutton.style.left = "48%";
+		bellybutton.style.top =  "48%";
+		bellybutton.style.width = "80px";
+		bellybutton.style.height =  "25px%";
+		document.body.appendChild(bellybutton);
+		bellybutton.onclick = stoppuking;
+		allSet = true;
+	}
+	var transString = "rotate(" + degreez + "deg)";
+	document.body.style.transform = transString;
+	document.body.style.webkitTransform = transString;
+	document.body.style.mozTransform = transString;
+	if(speedTimer >= increaseSpeedEveryMs)
+	{
+		speedTimer = 0;
+		if(speed > 1)
+			speed--;
+		if(increaseSpeedEveryMs <= 100)
+			increaseSpeedEveryMs++;
+		clearInterval(timer);
+		timer = setInterval(transform, speed);
+	}
+	speedTimer++;
+	degreez += 1;
 }
 function stoppuking()
 {
-    clearInterval(timer);
-    /*var transString = "";
-    document.body.style.transform = transString;
-    document.body.style.webkitTransform = transString;
-    document.body.style.mozTransform = transString;*/
-    //document.body.removeChild(bellybutton);
-    bellybutton.innerHTML = "Start";
-    bellybutton.onclick = restart;
+	clearInterval(timer);
+	/*var transString = "";
+	document.body.style.transform = transString;
+	document.body.style.webkitTransform = transString;
+	document.body.style.mozTransform = transString;*/
+	//document.body.removeChild(bellybutton);
+	bellybutton.innerHTML = "Start";
+	bellybutton.onclick = restart;
 }
 
 function restart()
 {
-    speed = 50;
-    increaseSpeedEveryMs = 1;
-    speedTimer = 0;
-    timer = setInterval(transform, speed);
-    bellybutton.innerHTML = "Stop";
-    bellybutton.onclick = stoppuking;
+	speed = 50;
+	increaseSpeedEveryMs = 1;
+	speedTimer = 0;
+	timer = setInterval(transform, speed);
+	bellybutton.innerHTML = "Stop";
+	bellybutton.onclick = stoppuking;
 }
 </script>

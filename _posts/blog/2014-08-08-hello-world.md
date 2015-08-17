@@ -26,4 +26,3 @@ I found it by case when I was watching the [site of Ruby programming language](h
 
 
 And that was the story of how this website was born.
-The End.
