@@ -54,20 +54,10 @@ In this mod you can find also other items copied from the game "Portal": Long Fa
 
 • Remember to read the "Installation instructions" section before downloading.
 <br><br>
-<i>Older Minecraft Pocket Edition versions:</i>
+<i>Support with older Minecraft Pocket Edition versions:</i><br>
+<a href="{{ site.url }}/minecraft/portal2-mod/older-versions" class="btn" style="margin-top:4px;">Older versions</a>
 
-<div markdown="0"><a href="{{ site.url }}/minecraft/portal2-mod/older-versions" class="btn">Older versions</a></div>
-<br>
-<font color="#C0C0C0">ADVERTISEMENT:</font><br>
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- inside-pages-ad-large-rectangle -->
-<ins class="adsbygoogle"
-     style="display:inline-block;width:336px;height:280px"
-     data-ad-client="ca-pub-4328789168608769"
-     data-ad-slot="1857238131"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+{% include ad-content.html %}
 
 ---
 
