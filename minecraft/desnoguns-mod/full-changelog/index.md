@@ -5,6 +5,11 @@ excerpt: "DesnoGuns Mod full changelog"
 ---
 
 
+**DesnoGuns Mod r008**
+{% highlight text %}
+- NEW: support for Minecraft PE 0.12.x
+{% endhighlight %}
+
 **DesnoGuns Mod r007**
 {% highlight text %}
 - NEW: Crossbow

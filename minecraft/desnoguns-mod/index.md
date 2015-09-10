@@ -40,14 +40,14 @@ Guns. Weapons. Explosions. This is the DesnoGuns Mod! :D
 
 ## Downloads
 
-<i>Minecraft Pocket Edition 0.11.1:</i><br>
-<i> --- DesnoGuns Mod <b>r007</b>:</i>
+<i>Minecraft Pocket Edition 0.12.1 & 0.11.1:</i><br>
+<i> --- DesnoGuns Mod <b>r008</b>:</i>
 
 | Website | Support | Regular |
 |:--------|:-------:|:-------:|
-| MediaFire:         | [Support download](http://adf.ly/1La7Vn) | [Regular download](http://www.mediafire.com/download/yyss9rdsqsi578c/DesnoGuns_r007_Desno365.zip) |
-| Filecred:          | [Support download](http://adf.ly/1LcINN) | [Regular download](http://filecred.com/A15G55BA) |
-| Android File Host: | [Support download](http://adf.ly/1La7aq) | [Regular download](https://www.androidfilehost.com/?fid=24052804347783707) |
+| MediaFire:         | [Support download](http://adf.ly/1O0Q9Y) | [Regular download](http://www.mediafire.com/download/7ldhkxrpp39heed/DesnoGuns_r008_Desno365.zip) |
+| Filecred:          | [Support download](http://adf.ly/1O0QD9) | [Regular download](http://filecred.com/A132G55F) |
+| Android File Host: | [Support download](http://adf.ly/1O0QHV) | [Regular download](https://www.androidfilehost.com/?fid=24052804347812199) |
 |----
 {: rules="groups"}
 
@@ -180,6 +180,11 @@ Click an icon under the "**Crafting**" column to display the crafting recipe of 
 
 ## Changelog
 
+**DesnoGuns Mod r008**
+{% highlight text %}
+- NEW: support for Minecraft PE 0.12.x
+{% endhighlight %}
+
 **DesnoGuns Mod r007**
 {% highlight text %}
 - NEW: Crossbow
@@ -191,21 +196,6 @@ Click an icon under the "**Crafting**" column to display the crafting recipe of 
 - FIX: fixed Settings section not working on Android 4.0
 - FIX: fixed a crash with grenades when leaving the game
 - FIX: fixed volume options not applied to reload sounds and miniguns
-{% endhighlight %}
-
-**DesnoGuns Mod r006**
-{% highlight text %}
-- NEW: Minecraft style for UIs
-- NEW: new option in Settings to enable Minecraft style for the "fire" and "aim" buttons
-- NEW: volume option in Settings
-- NEW: slightly better animation when aiming with a Sniper Rifle
-- NEW: volume of sound based on the distance from the source (for Molotov and Incendiary Grenade Launcher)
-- UPDATE: The Juggernaut armor now doesn't override the Chain armor (IDs changed!)
-- UPDATE: code re-written in many parts and improved: this should increase performance when loading the script at startup
-- FIX: fixed disappearing items from the creative menu
-- FIX: fixed the "double tap fast the aim button" bug that caused glitches with zoom
-- FIX: fixed shadows and collision size of grenades
-- FIX: fixed a graphical glitch that was happening when using other Texture Packs at the same time
 {% endhighlight %}
 
 <br>
