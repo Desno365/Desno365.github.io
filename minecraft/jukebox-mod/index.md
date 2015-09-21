@@ -5,7 +5,7 @@ excerpt: "The jukebox of Minecraft PC in Minecraft PE"
 comments: true
 ---
 
-<i>Do you miss the Jukebox of Minecraft PC? This mod is a porting of it to Minecraft Pocket Edition!</i>
+<i>Do you miss the Jukebox of Minecraft PC? This mod brings it in Minecraft Pocket Edition!</i>
 
 * Table of Contents
 {:toc}
@@ -19,7 +19,7 @@ comments: true
 • There is a random chance of finding a disc every 30 kills of hostile mobs.<br>
 • Tap the Jukebox to eject the disc. When the song ends the disc will be ejected automatically.<br>
 • The Jukebox block and the discs are also in the creative inventory.<br>
-• The crafting recipes of the Jukebox are the same of the PC version.
+• The crafting recipe of the Jukebox is the same of the PC version.
 
 
 ---
@@ -43,17 +43,20 @@ comments: true
 
 ## Downloads
 
-<i>Minecraft Pocket Edition 0.10.4 & 0.9.5:</i><br>
-<i> --- Jukebox Mod <b>r002</b>:</i>
+<i>Minecraft Pocket Edition 0.12.1:</i><br>
+<i> --- Jukebox Mod <b>r003</b>:</i>
 
 | Website | Support | Regular |
 |:--------|:-------:|:-------:|
-| MediaFire:       | [Support download](http://adf.ly/rMLgk) | [Regular download](http://www.mediafire.com/download/qvtuhflw0wncfb7/Jukebox_Mod_r002_Desno365.zip) |
-| MEGA:            | [Support download](http://adf.ly/rMKm6) | [Regular download](https://mega.co.nz/#!P4pWzCgA!HrjiZ2epU-rbRYGlBgH4wG5YBZfe3tTHroA4gdUJCwg) |
+| MediaFire:       | [Support download](http://adf.ly/1Oelfw) | [Regular download](http://www.mediafire.com/download/h850c9f8sfr1obw/Jukebox_Mod_r003_Desno365.zip) |
+| Filecred:        | [Support download](http://adf.ly/1OelWP) | [Regular download](http://filecred.com/A18AG560) |
 |----
 {: rules="groups"}
 
 • Remember to read the "Installation instructions" section before downloading.
+<br><br>
+<i>Support with older Minecraft Pocket Edition versions:</i><br>
+<a href="{{ site.url }}/minecraft/jukebox-mod/older-versions" class="btn" style="margin-top:4px;">Older versions</a>
 
 {% include ad-content.html %}
 
@@ -65,21 +68,16 @@ comments: true
 
 ![Eject Disc screenshot]({{ site.url }}/minecraft/jukebox-mod/images/eject-screen.jpg)
 
-<figure>
-  <img src="{{ site.url }}/minecraft/jukebox-mod/images/help-ui.jpg" alt="jukebox help ui">
-  <figcaption>This help UI will be displayed when you tap the Jukebox with an item that isn't a disc</figcaption>
-</figure>
-
 ---
 
 ## How to craft and items IDs
 
 Click an icon under the "**Crafting**" column to display the crafting recipe of that item.
 
-| Item                         | ID       | Crafting |
-|:-----------------------------|:--------:|:--------:|
-| Jukebox:                     | 84      | <figure><a href="{{ site.url }}/minecraft/jukebox-mod/images/how-to-craft/crafting/jukebox.jpg"><img src="{{ site.url }}/minecraft/jukebox-mod/images/how-to-craft/icons/jukebox.png" alt="image"></a></figure> |
-| Discs:                       | 415≈426 | Crafting not available<a href="#crafting-not-available-explanation">*</a> |
+| Item                         | ID        | Crafting |
+|:-----------------------------|:---------:|:--------:|
+| Jukebox:                     | 84        | <figure><a href="{{ site.url }}/minecraft/jukebox-mod/images/how-to-craft/crafting/jukebox.jpg"><img src="{{ site.url }}/minecraft/jukebox-mod/images/how-to-craft/icons/jukebox.png" alt="image"></a></figure> |
+| Discs:                       | 2256≈2267 | Crafting not available<a href="#crafting-not-available-explanation">*</a> |
 |----
 {: rules="groups"}
 
@@ -89,10 +87,18 @@ Click an icon under the "**Crafting**" column to display the crafting recipe of 
 
 ## Changelog
 
+**Jukebox Mod r003**
+{% highlight text %}
+- UPDATE: IDs of discs updated, now they are the same as in Minecraft PC
+- UPDATE: discs moved in the Tools category in the creative menu
+- UPDATE: the useless Information UI has been removed
+- FIX: the disc is not removed anymore from hand in creative
+{% endhighlight %}
+
 **Jukebox Mod r002**
 {% highlight text %}
-- NEW: now it's possible to craft the jukebox. 
-- UPDATED: increased the distance when the volume of the music is 0 (before the volume became 0 at 30 blocks, now you need a distance of 65 blocks for a volume of 0). This is now the same as the PC. 
+- NEW: now it's possible to craft the jukebox
+- UPDATED: increased the distance when the volume of the music is 0 (before the volume became 0 at 30 blocks, now you need a distance of 65 blocks for a volume of 0). This is now the same as the PC
 {% endhighlight %}
 
 **Jukebox Mod r001**
@@ -104,7 +110,7 @@ Click an icon under the "**Crafting**" column to display the crafting recipe of 
 
 ## Known bugs and issues
 
-• No known bugs (for now).<br><br>
+• No known bugs.<br><br>
 • If you find a bug report it in the [minecraft-forum.net thread][thread].
 
 ---
