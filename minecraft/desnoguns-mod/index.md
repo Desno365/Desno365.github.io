@@ -19,7 +19,7 @@ Guns. Weapons. Explosions. This is the DesnoGuns Mod! :D
 ## Installation instructions
 
 • Download the zip that contains the mod and the textures.<br>
-• Extract it with an [Android file manager](http://lmgtfy.com/?q=file+manager+android) (I use ES File Explorer) or with your computer.<br>
+• Extract it with your [file explorer/manager](http://play.google.com/store/search?q=file%20explorer) (I recommend ES File Explorer).<br>
 • Install textures in BlockLauncher.<br>
 • Import the script from local storage in BlockLauncher and enable it.<br>
 • Enjoy! ;)

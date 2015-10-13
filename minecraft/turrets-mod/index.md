@@ -20,8 +20,8 @@ comments: true
 
 ## Installation instructions
 
-• Download the zip that contains the necessary files.<br>
-• Extract it with an [Android file manager](http://lmgtfy.com/?q=file+manager+android) (I use ES File Explorer) or with your computer.<br>
+• Download the zip that contains all the necessary files.<br>
+• Extract it with your [file explorer/manager](http://play.google.com/store/search?q=file%20explorer) (I recommend ES File Explorer).<br>
 • Install textures.<br>
 • Import the script from local storage in Blocklauncher and enable it.<br>
 • Enjoy! ;)
