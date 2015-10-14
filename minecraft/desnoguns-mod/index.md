@@ -19,7 +19,7 @@ Guns. Weapons. Explosions. This is the DesnoGuns Mod! :D
 ## Installation instructions
 
 • Download the zip that contains the mod and the textures.<br>
-• Extract it with your [file explorer/manager](http://play.google.com/store/search?q=file%20explorer) (I recommend ES File Explorer).<br>
+• Extract it with your [file explorer/manager](http://play.google.com/store/search?q=file%20explorer) (I recommend [ES File Explorer](https://play.google.com/store/apps/details?id=com.estrongs.android.pop)).<br>
 • Install textures in BlockLauncher.<br>
 • Import the script from local storage in BlockLauncher and enable it.<br>
 • Enjoy! ;)
@@ -27,12 +27,12 @@ Guns. Weapons. Explosions. This is the DesnoGuns Mod! :D
 • Optional: download the ["Desno365's Mods" app](https://play.google.com/store/apps/details?id=com.desno365.mods) from Google Play Store.
 
 <a href="https://play.google.com/store/apps/details?id=com.desno365.mods">
-  <img alt="Get it on Google Play"
-       src="/images/en_generic_rgb_wo_45.png" />
+	<img alt="Get it on Google Play"
+		src="/images/en_generic_rgb_wo_45.png" />
 </a>
 
 <br>
-• Need more help to install the mod? Watch the [YouTube video tutorial](http://youtu.be/uO72AmNn0u8):
+• Need help with installing the mod? Watch the [video tutorial on YouTube](http://youtu.be/uO72AmNn0u8):
 
 <iframe width="560" height="315" src="http://www.youtube.com/embed/uO72AmNn0u8" frameborder="0"> </iframe>
 
@@ -40,7 +40,7 @@ Guns. Weapons. Explosions. This is the DesnoGuns Mod! :D
 
 ## Downloads
 
-<i>Minecraft Pocket Edition 0.12.1 & 0.11.1:</i><br>
+<i>Minecraft Pocket Edition 0.12.2 & 0.11.1:</i><br>
 <i> --- DesnoGuns Mod <b>r008</b>:</i>
 
 | Website | Support | Regular |
@@ -208,9 +208,9 @@ See the full changelog here:
 
 ## Known bugs and issues
 
-• With some devices (many Samsung devices) you can't move the aim while shooting. I'm having difficulties to fix this problem, if you are a modder and you want to help fixing this bug check out the [Github issue tracker of the mod](https://github.com/Desno365/DesnoGuns-Mod/issues).<br>
+• With some devices (many Samsung devices) you can't move the aim while shooting. I tried to fix this bug but I haven't succeeded, if you are a modder and you want to help fix this bug check out the [Github issue tracker of the mod](https://github.com/Desno365/DesnoGuns-Mod/issues).<br>
 • If you shoot multiple arrows to a mob, sometimes, they bounce back to you and damage you. I made a workaround for this, you can enable it in the settings of the mod.<br><br>
-• If you find a bug report it in the [minecraft-forum.net thread][thread] or on the [Github issue tracker](https://github.com/Desno365/DesnoGuns-Mod).
+• If you find a bug report it in the [minecraft-forum.net thread][thread] or use the [Github issue tracker](https://github.com/Desno365/DesnoGuns-Mod).
 
 ---
 
@@ -221,13 +221,13 @@ See the full changelog here:
 Yes you can, and you don't have to ask my permission, but you have to follow the [license of this mod]({{ site.url }}/minecraft/desnoguns-mod/#copyrights), this means that you have to give me credits and you can't use my work for commercial purposes (in a few words you can't make money from my work, for example you can't sell my mod).<br>
 
 *• Can I make a YouTube review for this mod?*<br>
-Of course you can. Only one thing: if you want to add a link for the download, please, don't put a download link on MediaFire or whatever, but just put a link of [my web page]({{ site.url }}/minecraft/desnoguns-mod) or a link of the [minecraftforum.net thread][thread].<br>
+Of course you can. Only one thing: if you want to add a link for the download, don't put a direct download link, but just put a link of [this web page]({{ site.url }}/minecraft/desnoguns-mod) or a link to the [minecraftforum.net thread][thread].<br>
 
 *• Does this mod work in local multiplayer?*<br>
-Currently no, because with the current APIs it's quite difficult to make it working.<br>
+Currently no, because with the current APIs it's quite difficult to make it work.<br>
 
 *• If I find a bug, where I should report it?*<br>
-The best way to report a bug is write it on the [minecraft-forum.net][thread] thread. But, before posting your bug-report, read the ["Known bugs and issues"]({{ site.url }}/minecraft/desnoguns-mod/#known-bugs-and-issues) section.
+The best way to report a bug is write it on the [minecraft-forum.net][thread] thread. Before posting your bug-report, read the ["Known bugs and issues"]({{ site.url }}/minecraft/desnoguns-mod/#known-bugs-and-issues) section.
 
 *• How can I support you?*<br>
 You can [follow me on Twitter](https://twitter.com/desno365), subscribe on [my Youtube channel](http://www.youtube.com/channel/UCJQL47nQnsijcaN_7pMsjCQ/videos) or [make a donation](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GBEMKJBA3Z7PG). :)

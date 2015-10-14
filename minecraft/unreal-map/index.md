@@ -22,7 +22,7 @@ A video explains it better: [The Unreal Geometry Map YouTube video](http://youtu
 ## Installation instructions
 
 • Download the zip that contains the mod and the map.<br>
-• Extract it with your [file explorer/manager](http://play.google.com/store/search?q=file%20explorer) (I recommend ES File Explorer).<br>
+• Extract it with your [file explorer/manager](http://play.google.com/store/search?q=file%20explorer) (I recommend [ES File Explorer](https://play.google.com/store/apps/details?id=com.estrongs.android.pop)).<br>
 • Move the "Unreal Geometry Map" to "sdcard/games/com.mojang/minecraftWorlds"<br>
 • Import the script from local storage in Blocklauncher and enable it.<br>
 • Disable other mods.<br>
@@ -96,13 +96,13 @@ For people who prefer screenshoots:
 ## F.A.Q.
 
 *• Can I share this map/mod on whatever-website.com / with my friends / on the xyz social network ?*<br>
-Yes you can, and you don't have to ask my permission, but you have to follow the [license of this work]({{ site.url }}/minecraft/unreal-map/#copyrights), this means that you have to give me credits and you can't use my work for commercial purposes (in a few words you can't make money from my work, for example you can't sell my mod).<br>
+Yes you can, and you don't have to ask my permission, but you have to follow the [license of this mod]({{ site.url }}/minecraft/unreal-map/#copyrights), this means that you have to give me credits and you can't use my work for commercial purposes (in a few words you can't make money from my work, for example you can't sell my mod).<br>
 
 *• Can I make a YouTube review for this map?*<br>
-Of course you can. Only one thing: if you want to add a link for the download, please, don't put a download link on MediaFire or whatever, but just put a link of [my web page]({{ site.url }}/minecraft/unreal-map) or a link of the [minecraftforum.net thread][thread].<br>
+Of course you can. Only one thing: if you want to add a link for the download, don't put a direct download link, but just put a link of [this web page]({{ site.url }}/minecraft/unreal-map) or a link to the [minecraftforum.net thread][thread].<br>
 
 *• If I find a bug, where I should report it?*<br>
-The best way to report a bug is write it on the [minecraft-forum.net][thread] thread. But, before posting your bug-report, read the ["Known bugs and issues"]({{ site.url }}/minecraft/unreal-map/#known-bugs-and-issues) section.
+The best way to report a bug is write it on the [minecraft-forum.net][thread] thread. Before posting your bug-report, read the ["Known bugs and issues"]({{ site.url }}/minecraft/unreal-map/#known-bugs-and-issues) section.
 
 *• How can I support you?*<br>
 You can [follow me on Twitter](https://twitter.com/desno365), subscribe on [my Youtube channel](http://www.youtube.com/channel/UCJQL47nQnsijcaN_7pMsjCQ/videos) or [make a donation](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GBEMKJBA3Z7PG). :)

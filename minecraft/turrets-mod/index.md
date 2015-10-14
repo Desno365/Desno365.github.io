@@ -21,7 +21,7 @@ comments: true
 ## Installation instructions
 
 • Download the zip that contains all the necessary files.<br>
-• Extract it with your [file explorer/manager](http://play.google.com/store/search?q=file%20explorer) (I recommend ES File Explorer).<br>
+• Extract it with your [file explorer/manager](http://play.google.com/store/search?q=file%20explorer) (I recommend [ES File Explorer](https://play.google.com/store/apps/details?id=com.estrongs.android.pop)).<br>
 • Install textures.<br>
 • Import the script from local storage in Blocklauncher and enable it.<br>
 • Enjoy! ;)
@@ -110,10 +110,10 @@ Click an icon under the "**Crafting**" column to display the crafting recipe of 
 Yes you can, and you don't have to ask my permission, but you have to follow the [license of this mod]({{ site.url }}/minecraft/turrets-mod/#copyrights), this means that you have to give me credits and you can't use my work for commercial purposes (in a few words you can't make money from my work, for example you can't sell my mod).<br>
 
 *• Can I make a YouTube review for this mod?*<br>
-Of course you can. Only one thing: if you want to add a link for the download, please, don't put a download link on MediaFire or whatever, but just put a link of [my web page]({{ site.url }}/minecraft/turrets-mod) or a link of the [minecraftforum.net thread][thread].<br>
+Of course you can. Only one thing: if you want to add a link for the download, don't put a direct download link, but just put a link of [this web page]({{ site.url }}/minecraft/turrets-mod) or a link to the [minecraftforum.net thread][thread].<br>
 
 *• If I find a bug, where I should report it?*<br>
-The best way to report a bug is write it on the [minecraft-forum.net][thread] thread. But, before posting your bug-report, read the ["Known bugs and issues"]({{ site.url }}/minecraft/turrets-mod/#known-bugs-and-issues) section.
+The best way to report a bug is write it on the [minecraft-forum.net][thread] thread. Before posting your bug-report, read the ["Known bugs and issues"]({{ site.url }}/minecraft/turrets-mod/#known-bugs-and-issues) section.
 
 *• How can I support you?*<br>
 You can [follow me on Twitter](https://twitter.com/desno365), subscribe on [my Youtube channel](http://www.youtube.com/channel/UCJQL47nQnsijcaN_7pMsjCQ/videos) or [make a donation](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GBEMKJBA3Z7PG). :)
