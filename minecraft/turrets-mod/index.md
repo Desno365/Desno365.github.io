@@ -98,8 +98,8 @@ Click an icon under the "**Crafting**" column to display the crafting recipe of 
 
 ## Known bugs and issues
 
-• If you go far away from a turret it will be removed automatically by Minecraft (but added in your inventory), I'm trying to fix this problem.<br><br>
-• If you find a bug report it in the [minecraft-forum.net thread][thread].
+• If you go far away from a turret it will be removed automatically by Minecraft (but added in your inventory).<br><br>
+If you find a bug report it in the [minecraft-forum.net thread][thread].
 
 ---
 

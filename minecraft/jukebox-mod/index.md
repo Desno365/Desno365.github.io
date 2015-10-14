@@ -110,8 +110,8 @@ Click an icon under the "**Crafting**" column to display the crafting recipe of 
 
 ## Known bugs and issues
 
-• No known bugs.<br><br>
-• If you find a bug report it in the [minecraft-forum.net thread][thread].
+• There aren't known bugs.<br><br>
+If you find a bug report it in the [minecraft-forum.net thread][thread].
 
 ---
 

@@ -123,7 +123,7 @@ See the full changelog here:
 ## Known bugs and issues
 
 • Laser Gun: sometimes the block destroyed it's not the block pointed with the laser.<br><br>
-• If you find a bug report it in the [minecraft-forum.net thread][thread].
+If you find a bug report it in the [minecraft-forum.net thread][thread].
 
 ---
 

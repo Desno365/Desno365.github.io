@@ -89,7 +89,8 @@ For people who prefer screenshoots:
 
 ## Known bugs and issues
 
-• If you find a bug report it in the [minecraft-forum.net thread][thread].<br>
+• There aren't known bugs.<br><br>
+If you find a bug report it in the [minecraft-forum.net thread][thread].<br>
 
 ---
 

@@ -118,7 +118,7 @@ Click an icon under the "**Crafting**" column to display the crafting recipe of 
 • When you leave the game companions become cows.<br>
 • If you have more than 50 companions the script will crash.<br>
 • You have to re-spawn the companion if you leave the game.<br><br>
-• If you find a bug report it in the [minecraft-forum.net thread][thread].
+If you find a bug report it in the [minecraft-forum.net thread][thread].
 
 ---
 
