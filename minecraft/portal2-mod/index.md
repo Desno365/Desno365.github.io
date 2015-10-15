@@ -37,6 +37,11 @@ Five different Portal Guns, the Aerial Faith Plate, Propulsion and Repulsion gel
 	   src="/images/en_generic_rgb_wo_45.png" />
 </a>
 
+<br>
+• Need help with installing the mod? Watch the [video tutorial on YouTube](http://youtu.be/7d3kTQsTnyM):
+
+<iframe width="560" height="315" src="http://www.youtube.com/embed/7d3kTQsTnyM" frameborder="0"> </iframe>
+
 ---
 
 ## Downloads
