@@ -5,6 +5,21 @@ excerpt: "Portal 2 Mod full changelog"
 ---
 
 
+**Portal 2 Mod r011**
+{% highlight text %}
+- The mod has been completely rewritten. Basically it's like a new mod, so writing an accurate changelog is not possible
+- NEW: support for Minecraft PE 0.12.x
+- NEW: Turrets Defective
+- NEW: Cube and Companion Cube
+- NEW: new UIs when holding a Portal Gun or the Gravity Gun
+- NEW: Portal Guns and Gravity Gun can pick up blocks
+- UPDATE: automatic sounds installation (only music files need to be manually installed)
+- UPDATE: volume of sounds based on the distance from the source
+- UPDATE: better Jukebox
+- UPDATE: better Jumper (Aerial Faith Plate)
+- UPDATE: better repulsion gel (now it also makes your jump more powerful)
+{% endhighlight %}
+
 **Portal 2 Mod r010**
 {% highlight text %}
 - NEW: support for Minecraft PE 0.11.x
