@@ -5,7 +5,7 @@ locale: en_US
 description: Just a little website where I publish what I have made.
 logo: site-logo.png
 search: false
-url: http://0.0.0.0:4000 #http://desno365.net
+url: http://desno365.net
 
 
 # Jekyll configuration
