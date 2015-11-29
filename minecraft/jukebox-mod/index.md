@@ -43,13 +43,13 @@ comments: true
 
 ## Downloads
 
-<i>Minecraft Pocket Edition 0.12.1:</i><br>
-<i> --- Jukebox Mod <b>r003</b>:</i>
+<i>Minecraft Pocket Edition 0.13.0:</i><br>
+<i> --- Jukebox Mod <b>r004</b>:</i>
 
 | Website | Support | Regular |
 |:--------|:-------:|:-------:|
-| MediaFire:       | [Support download](http://adf.ly/1Oelfw) | [Regular download](http://www.mediafire.com/download/h850c9f8sfr1obw/Jukebox_Mod_r003_Desno365.zip) |
-| Filecred:        | [Support download](http://adf.ly/1OelWP) | [Regular download](http://filecred.com/A18AG560) |
+| Filecred:        | [Support download](http://adf.ly/1SW8u1) | [Regular download](http://filecred.com/A383G565) |
+| MediaFire:       | [Support download](http://adf.ly/1SW9Fw) | [Regular download](http://www.mediafire.com/download/rrwp2cxowrgq1i3/Jukebox_Mod_r004_Desno365.zip) |
 |----
 {: rules="groups"}
 
@@ -86,6 +86,11 @@ Click an icon under the "**Crafting**" column to display the crafting recipe of 
 ---
 
 ## Changelog
+
+**Jukebox Mod r004**
+{% highlight text %}
+- NEW: support for Minecraft PE 0.13.x
+{% endhighlight %}
 
 **Jukebox Mod r003**
 {% highlight text %}
