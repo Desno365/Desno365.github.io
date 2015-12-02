@@ -4,6 +4,20 @@ title: DesnoGuns Mod older versions
 excerpt: "DesnoGuns Mod older versions"
 ---
 
+<i>Minecraft Pocket Edition 0.12.2 & 0.11.1:</i><br>
+<i> --- DesnoGuns Mod <b>r008</b>:</i>
+
+| Website | Support | Regular |
+|:--------|:-------:|:-------:|
+| MediaFire:         | [Support download](http://adf.ly/1O0Q9Y) | [Regular download](http://www.mediafire.com/download/7ldhkxrpp39heed/DesnoGuns_r008_Desno365.zip) |
+| Filecred:          | [Support download](http://adf.ly/1O0QD9) | [Regular download](http://filecred.com/A132G55F) |
+| Android File Host: | [Support download](http://adf.ly/1O0QHV) | [Regular download](https://www.androidfilehost.com/?fid=24052804347812199) |
+|----
+{: rules="groups"}
+
+{% include ad-content.html %}
+<br>
+
 <i>Minecraft Pocket Edition 0.10.5 and BlockLauncher 1.8.6:</i><br>
 <i> --- DesnoGuns Mod <b>r004</b>:</i>
 
@@ -15,8 +29,6 @@ excerpt: "DesnoGuns Mod older versions"
 |----
 {: rules="groups"}
 
-{% include ad-content.html %}
-<br>
 
 <i>Minecraft Pocket Edition 0.9.5 and BlockLauncher 1.7.9:</i><br>
 <i> --- DesnoGuns Mod <b>r003</b>:</i>

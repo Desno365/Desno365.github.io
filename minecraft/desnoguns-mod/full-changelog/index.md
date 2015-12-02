@@ -5,6 +5,14 @@ excerpt: "DesnoGuns Mod full changelog"
 ---
 
 
+**DesnoGuns Mod r009**
+{% highlight text %}
+- NEW: support for Minecraft PE 0.13.x
+- UPDATE: add blindness effect for the smoke grenade
+- UPDATE: add immersive mode support
+- FIX: some IDs have been changed to fix a bug of the Creative inventory, IDs changed: AK47, AK74, AT4, AUG, Bizon
+{% endhighlight %}
+
 **DesnoGuns Mod r008**
 {% highlight text %}
 - NEW: support for Minecraft PE 0.12.x

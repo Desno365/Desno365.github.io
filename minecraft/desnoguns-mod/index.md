@@ -40,14 +40,14 @@ Guns. Weapons. Explosions. This is the DesnoGuns Mod! :D
 
 ## Downloads
 
-<i>Minecraft Pocket Edition 0.12.2 & 0.11.1:</i><br>
-<i> --- DesnoGuns Mod <b>r008</b>:</i>
+<i>Minecraft Pocket Edition 0.13.0:</i><br>
+<i> --- DesnoGuns Mod <b>r009</b>:</i>
 
 | Website | Support | Regular |
 |:--------|:-------:|:-------:|
-| MediaFire:         | [Support download](http://adf.ly/1O0Q9Y) | [Regular download](http://www.mediafire.com/download/7ldhkxrpp39heed/DesnoGuns_r008_Desno365.zip) |
-| Filecred:          | [Support download](http://adf.ly/1O0QD9) | [Regular download](http://filecred.com/A132G55F) |
-| Android File Host: | [Support download](http://adf.ly/1O0QHV) | [Regular download](https://www.androidfilehost.com/?fid=24052804347812199) |
+| Filecred:          | [Support download](http://adf.ly/1ShCiZ) | [Regular download](http://filecred.com/A3B2G565) |
+| MediaFire:         | [Support download](http://adf.ly/1ShDIX) | [Regular download](http://www.mediafire.com/download/9bfpbdwcqf27kjb/DesnoGuns_r009_Desno365.zip) |
+| Android File Host: | [Support download](http://adf.ly/1ShDOe) | [Regular download](https://www.androidfilehost.com/?fid=24269982087009407) |
 |----
 {: rules="groups"}
 
@@ -121,13 +121,13 @@ Click an icon under the "**Crafting**" column to display the crafting recipe of 
 | MSR:                         | 3369     | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/sniper-rifle.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/MSR.png" alt="image"></a></figure> |
 | <i>Free items</i>            |          |           |
 | .44 Magnum:                  | 3366     | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/handgun.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/44Magnum.png" alt="image"></a></figure> |
-| AK47:                        | 460      | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/assault-rifle.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/AK47.png" alt="image"></a></figure> |
-| AK74:                        | 461      | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/assault-rifle.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/AK74.png" alt="image"></a></figure> |
-| AT4:                         | 462      | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/launcher.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/AT4.png" alt="image"></a></figure> |
-| AUG:                         | 463      | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/assault-rifle.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/AUG.png" alt="image"></a></figure> |
+| AK47:                        | 3370     | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/assault-rifle.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/AK47.png" alt="image"></a></figure> |
+| AK74:                        | 3371     | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/assault-rifle.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/AK74.png" alt="image"></a></figure> |
+| AT4:                         | 3372     | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/launcher.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/AT4.png" alt="image"></a></figure> |
+| AUG:                         | 3373     | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/assault-rifle.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/AUG.png" alt="image"></a></figure> |
 | Barrett Explosive:           | 464      | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/sniper-rifle.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/Barrett_Explosive.png" alt="image"></a></figure> |
 | Barrett:                     | 465      | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/sniper-rifle.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/Barrett.png" alt="image"></a></figure> |
-| Bizon:                       | 466      | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/sub-machine.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/Bizon.png" alt="image"></a></figure> |
+| Bizon:                       | 3374     | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/sub-machine.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/Bizon.png" alt="image"></a></figure> |
 | Crossbow Explosive:          | 3367     | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/crossbow-explosive.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/CrossbowExplosive.png" alt="image"></a></figure> |
 | Crossbow:                    | 3368     | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/crossbow.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/Crossbow.png" alt="image"></a></figure> |
 | Desert Eagle:                | 467      | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/handgun.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/DesertEagle.png" alt="image"></a></figure> |
@@ -180,22 +180,12 @@ Click an icon under the "**Crafting**" column to display the crafting recipe of 
 
 ## Changelog
 
-**DesnoGuns Mod r008**
+**DesnoGuns Mod r009**
 {% highlight text %}
-- NEW: support for Minecraft PE 0.12.x
-{% endhighlight %}
-
-**DesnoGuns Mod r007**
-{% highlight text %}
-- NEW: Crossbow
-- NEW: Crossbow Explosive
-- NEW: Smoke Grenade
-- NEW: Riot Shield
-- NEW: MSR (pro item)
-- UPDATE: many IDs changed! (IDs changed: all the ammunitions and these items: Molotov, Fragment Grenade, Grenade, Medical Kit, Parachute, Knife, DesnoGuns Info, .44Magnum)
-- FIX: fixed Settings section not working on Android 4.0
-- FIX: fixed a crash with grenades when leaving the game
-- FIX: fixed volume options not applied to reload sounds and miniguns
+- NEW: support for Minecraft PE 0.13.x (make sure to use the latest beta of BlockLauncher, you can get it from here http://zhuowei.github.com/MCPELauncher/MCPELauncherApp-release-beta.apk )
+- UPDATE: add blindness effect for the smoke grenade
+- UPDATE: add immersive mode support
+- FIX: some IDs have been changed to fix a bug of the Creative inventory, IDs changed: AK47, AK74, AT4, AUG, Bizon
 {% endhighlight %}
 
 <br>
@@ -208,7 +198,7 @@ See the full changelog here:
 
 ## Known bugs and issues
 
-• With some devices (many Samsung devices) you can't move the aim while shooting. I tried to fix this bug but I haven't succeeded, if you are a modder and you want to help fix this bug check out the [Github issue tracker of the mod](https://github.com/Desno365/DesnoGuns-Mod/issues).<br>
+• With some devices (many Samsung devices) you can't move the aim while shooting. I tried to fix this bug but I haven't succeeded, if you are a modder and want to help fix this bug check out the [Github issue tracker of the mod](https://github.com/Desno365/DesnoGuns-Mod/issues).<br>
 • If you shoot multiple arrows to a mob, sometimes, they bounce back to you and damage you. I made a workaround for this, you can enable it in the settings of the mod.<br><br>
 If you find a bug report it in the [minecraft-forum.net thread][thread] or use the [Github issue tracker](https://github.com/Desno365/DesnoGuns-Mod).
 
@@ -230,7 +220,7 @@ Currently no, because with the current APIs it's quite difficult to make it work
 The best way to report a bug is write it on the [minecraft-forum.net][thread] thread. Before posting your bug-report, read the ["Known bugs and issues"]({{ site.url }}/minecraft/desnoguns-mod/#known-bugs-and-issues) section.
 
 *• How can I support you?*<br>
-You can [follow me on Twitter](https://twitter.com/desno365), subscribe to [my Youtube channel](http://www.youtube.com/channel/UCJQL47nQnsijcaN_7pMsjCQ/videos) or [make a donation](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GBEMKJBA3Z7PG). :)
+You can [follow me on Twitter](https://twitter.com/desno365) and subscribe to [my Youtube channel](http://www.youtube.com/channel/UCJQL47nQnsijcaN_7pMsjCQ/videos).
 
 ---
 
