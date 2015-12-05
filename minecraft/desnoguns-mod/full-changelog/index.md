@@ -5,6 +5,15 @@ excerpt: "DesnoGuns Mod full changelog"
 ---
 
 
+**DesnoGuns Mod r010**
+{% highlight text %}
+- NEW: added the Multiple Rocket Launcher
+- UPDATE: added a smoke trail behind bullets of rocket launchers
+- FIX: fixed explosive bullets sometimes exploding in air
+- FIX: enchanted golden apple and other items were recognized as guns
+- FIX: fixed the crash with the Minecraft style buttons
+{% endhighlight %}
+
 **DesnoGuns Mod r009**
 {% highlight text %}
 - NEW: support for Minecraft PE 0.13.x

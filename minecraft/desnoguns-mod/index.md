@@ -41,13 +41,13 @@ Guns. Weapons. Explosions. This is the DesnoGuns Mod! :D
 ## Downloads
 
 <i>Minecraft Pocket Edition 0.13.0:</i><br>
-<i> --- DesnoGuns Mod <b>r009</b>:</i>
+<i> --- DesnoGuns Mod <b>r010</b>:</i>
 
 | Website | Support | Regular |
 |:--------|:-------:|:-------:|
-| Filecred:          | [Support download](http://adf.ly/1ShCiZ) | [Regular download](http://filecred.com/A3B2G565) |
-| MediaFire:         | [Support download](http://adf.ly/1ShDIX) | [Regular download](http://www.mediafire.com/download/9bfpbdwcqf27kjb/DesnoGuns_r009_Desno365.zip) |
-| Android File Host: | [Support download](http://adf.ly/1ShDOe) | [Regular download](https://www.androidfilehost.com/?fid=24269982087009407) |
+| Filecred:          | [Support download](http://adf.ly/1SsZjw) | [Regular download](http://filecred.com/A3C6G566) |
+| MediaFire:         | [Support download](http://adf.ly/1SsZgC) | [Regular download](http://www.mediafire.com/download/1lvq79ig4dddckh/DesnoGuns_r010_Desno365.zip) |
+| Android File Host: | [Support download](http://adf.ly/1SsZc9) | [Regular download](https://www.androidfilehost.com/?fid=24269982087011575) |
 |----
 {: rules="groups"}
 
@@ -159,6 +159,7 @@ Click an icon under the "**Crafting**" column to display the crafting recipe of 
 | Mini-Uzi:                    | 491      | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/machine-pistol.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/MiniUzi.png" alt="image"></a></figure> |
 | MP5:                         | 492      | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/sub-machine.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/MP5.png" alt="image"></a></figure> |
 | MTAR:                        | 493      | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/assault-rifle.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/MTAR.png" alt="image"></a></figure> |
+| Multiple Rocket Launcher:    | 3375     | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/launcher.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/MultipleRocketLauncher.png" alt="image"></a></figure> |
 | P90:                         | 494      | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/sub-machine.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/P90.png" alt="image"></a></figure> |
 | R700:                        | 495      | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/sniper-rifle.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/R700.png" alt="image"></a></figure> |
 | Remington 870:               | 496      | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/shotgun.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/R870.png" alt="image"></a></figure> |
@@ -179,6 +180,15 @@ Click an icon under the "**Crafting**" column to display the crafting recipe of 
 ---
 
 ## Changelog
+
+**DesnoGuns Mod r010**
+{% highlight text %}
+- NEW: added the Multiple Rocket Launcher
+- UPDATE: added a smoke trail behind bullets of rocket launchers
+- FIX: fixed explosive bullets sometimes exploding in air
+- FIX: enchanted golden apple and other items were recognized as guns
+- FIX: fixed the crash with the Minecraft style buttons
+{% endhighlight %}
 
 **DesnoGuns Mod r009**
 {% highlight text %}
