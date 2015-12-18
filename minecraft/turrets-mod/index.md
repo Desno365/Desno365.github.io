@@ -10,6 +10,10 @@ comments: true
 * Table of Contents
 {:toc}
 
+{% include ad-content-horizontal.html %}
+
+---
+
 ## Features
 
 • Craft a turret and place it where you want, then make it aggressive with the "Turret options" item and the turret will start to shoot every selected mob that come in his range.<br>

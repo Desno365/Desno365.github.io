@@ -10,6 +10,10 @@ comments: true
 * Table of Contents
 {:toc}
 
+{% include ad-content-horizontal.html %}
+
+---
+
 ## Features
 
 • There are twelve different discs with twelve different songs (songs are ported from Minecraft PC).<br>

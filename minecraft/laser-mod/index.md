@@ -10,6 +10,10 @@ comments: true
 * Table of Contents
 {:toc}
 
+{% include ad-content-horizontal.html %}
+
+---
+
 ## Features
 
 • The laser of the Laser Gun destroys the block that you are looking.<br>

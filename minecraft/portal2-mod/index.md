@@ -13,6 +13,10 @@ comments: true
 * Table of Contents
 {:toc}
 
+{% include ad-content-horizontal.html %}
+
+---
+
 ## Information
 
 You know Portal right? The famous first-person puzzle-platform video game developed by Valve. If you have never heard anything about it you should [check it out now](http://www.thinkwithportals.com/).<br>

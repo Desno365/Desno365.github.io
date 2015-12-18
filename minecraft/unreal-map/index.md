@@ -10,6 +10,10 @@ comments: true
 * Table of Contents
 {:toc}
 
+{% include ad-content-horizontal.html %}
+
+---
+
 ## Information
 
 This map and the mod attached bring the Non-Euclidean geometry on your mobile device!<br>
