@@ -10,7 +10,11 @@ comments: true
 * Table of Contents
 {:toc}
 
+---
+
 {% include ad-content-responsive.html %}
+
+---
 
 ## Information
 
