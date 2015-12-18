@@ -10,6 +10,8 @@ comments: true
 * Table of Contents
 {:toc}
 
+{% include ad-content-responsive.html %}
+
 ## Information
 
 Use the <b>"Companion Spawner" item in the crafting table</b> to spawn the companion.<br>
