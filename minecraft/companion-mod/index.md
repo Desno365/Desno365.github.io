@@ -12,7 +12,7 @@ comments: true
 
 ---
 
-{% include ad-content-responsive.html %}
+{% include ad-content-horizontal.html %}
 
 ---
 
