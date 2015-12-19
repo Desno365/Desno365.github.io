@@ -5,6 +5,12 @@ excerpt: "DesnoGuns Mod full changelog"
 ---
 
 
+**DesnoGuns Mod r011**
+{% highlight text %}
+- NEW: support for Minecraft PE 0.13.1
+- WARNING: since BlockLauncher is not yet updated for 0.13.1 grenades are buggy
+{% endhighlight %}
+
 **DesnoGuns Mod r010**
 {% highlight text %}
 - NEW: added the Multiple Rocket Launcher

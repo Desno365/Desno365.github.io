@@ -44,14 +44,14 @@ Guns. Weapons. Explosions. This is the DesnoGuns Mod! :D
 
 ## Downloads
 
-<i>Minecraft Pocket Edition 0.13.0:</i><br>
-<i> --- DesnoGuns Mod <b>r010</b>:</i>
+<i>Minecraft Pocket Edition 0.13.1:</i><br>
+<i> --- DesnoGuns Mod <b>r011</b>:</i>
 
 | Website | Support | Regular |
 |:--------|:-------:|:-------:|
-| Filecred:          | [Support download](http://adf.ly/1SsZjw) | [Regular download](http://filecred.com/A3C6G566) |
-| MediaFire:         | [Support download](http://adf.ly/1SsZgC) | [Regular download](http://www.mediafire.com/download/1lvq79ig4dddckh/DesnoGuns_r010_Desno365.zip) |
-| Android File Host: | [Support download](http://adf.ly/1SsZc9) | [Regular download](https://www.androidfilehost.com/?fid=24269982087011575) |
+| Filecred:          | [Support download](http://adf.ly/1TidSk) | [Regular download](http://filecred.com/A423G567) |
+| MediaFire:         | [Support download](http://adf.ly/1TidW3) | [Regular download](http://www.mediafire.com/download/l3wv18fkokefz1f/DesnoGuns_r011_Desno365.zip) |
+| Android File Host: | [Support download](http://adf.ly/1TidOf) | [Regular download](https://www.androidfilehost.com/?fid=24269982087022113) |
 |----
 {: rules="groups"}
 
@@ -185,6 +185,12 @@ Click an icon under the "**Crafting**" column to display the crafting recipe of 
 
 ## Changelog
 
+**DesnoGuns Mod r011**
+{% highlight text %}
+- NEW: support for Minecraft PE 0.13.1
+- WARNING: since BlockLauncher is not yet updated for 0.13.1 grenades are buggy
+{% endhighlight %}
+
 **DesnoGuns Mod r010**
 {% highlight text %}
 - NEW: added the Multiple Rocket Launcher
@@ -192,14 +198,6 @@ Click an icon under the "**Crafting**" column to display the crafting recipe of 
 - FIX: fixed explosive bullets sometimes exploding in air
 - FIX: enchanted golden apple and other items were recognized as guns
 - FIX: fixed the crash with the Minecraft style buttons
-{% endhighlight %}
-
-**DesnoGuns Mod r009**
-{% highlight text %}
-- NEW: support for Minecraft PE 0.13.x (make sure to use the latest beta of BlockLauncher, you can get it from here http://zhuowei.github.com/MCPELauncher/MCPELauncherApp-release-beta.apk )
-- UPDATE: add blindness effect for the smoke grenade
-- UPDATE: add immersive mode support
-- FIX: some IDs have been changed to fix a bug of the Creative inventory, IDs changed: AK47, AK74, AT4, AUG, Bizon
 {% endhighlight %}
 
 <br>
