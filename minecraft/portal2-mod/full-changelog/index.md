@@ -5,6 +5,12 @@ excerpt: "Portal 2 Mod full changelog"
 ---
 
 
+**Portal 2 Mod r012**
+{% highlight text %}
+- NEW: support for Minecraft PE 0.13.1
+- FIX: fixed some minor bugs
+{% endhighlight %}
+
 **Portal 2 Mod r011**
 {% highlight text %}
 - The mod has been completely rewritten. Basically it's like a new mod, so writing an accurate changelog is not possible

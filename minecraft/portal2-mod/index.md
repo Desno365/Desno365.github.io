@@ -50,14 +50,14 @@ Five different Portal Guns, the Aerial Faith Plate, Propulsion and Repulsion gel
 
 ## Downloads
 
-<i>Minecraft Pocket Edition 0.12.2:</i><br>
-<i> --- Portal 2 Mod <b>r011</b>:</i>
+<i>Minecraft Pocket Edition 0.13.1:</i><br>
+<i> --- Portal 2 Mod <b>r012</b>:</i>
 
 | Website | Support | Regular |
 |:--------|:-------:|:-------:|
-| MediaFire:         | [Support download](http://adf.ly/1Q0y2m) | [Regular download](http://www.mediafire.com/download/24r4pj5g9z44rha/Portal_Mod_r011_Desno365.zip) |
-| Filecred:          | [Support download](http://adf.ly/1Q0y4Y) | [Regular download](http://filecred.com/A26FG561) |
-| Android File Host: | [Support download](http://adf.ly/1Q0yJ6) | [Regular download](https://www.androidfilehost.com/?fid=24052804347838081) |
+| Filecred:          | [Support download](http://adf.ly/1U4nux) | [Regular download](http://filecred.com/A450G567) |
+| MediaFire:         | [Support download](http://adf.ly/1U4o7M) | [Regular download](http://www.mediafire.com/download/oa93q4idc1tz52a/Portal_Mod_r012_Desno365.zip) |
+| Android File Host: | [Support download](http://adf.ly/1U4o0d) | [Regular download](https://www.androidfilehost.com/?fid=24344671467602213) |
 |----
 {: rules="groups"}
 
@@ -119,6 +119,12 @@ Click an icon under the "**Crafting**" column to display the crafting recipe of 
 ---
 
 ## Changelog
+
+**Portal 2 Mod r012**
+{% highlight text %}
+- NEW: support for Minecraft PE 0.13.1
+- FIX: fixed some minor bugs
+{% endhighlight %}
 
 **Portal 2 Mod r011**
 {% highlight text %}
