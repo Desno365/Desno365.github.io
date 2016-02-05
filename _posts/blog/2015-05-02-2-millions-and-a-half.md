@@ -3,7 +3,7 @@ layout: post
 title: "2 million and a half!"
 modified:
 categories: blog
-excerpt:
+excerpt: ""
 tags: [website]
 date: 2015-05-02T16:35:55-04:00
 share: true

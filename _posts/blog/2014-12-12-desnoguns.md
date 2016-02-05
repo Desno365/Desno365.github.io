@@ -3,7 +3,7 @@ layout: post
 title: "New mod released: DesnoGuns"
 modified:
 categories: blog
-excerpt:
+excerpt: ""
 tags: [mod, desnoguns]
 image:
   feature:

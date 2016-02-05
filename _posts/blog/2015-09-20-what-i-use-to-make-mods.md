@@ -3,7 +3,7 @@ layout: post
 title: "What I use to make mods"
 modified:
 categories: blog
-excerpt:
+excerpt: ""
 tags: [tutorial]
 image:
   feature:
