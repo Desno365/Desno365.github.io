@@ -1,13 +1,13 @@
 # Site navigation links
 
+- title: About
+  url: /about/
+
 - title: Blog
   url: /blog/
 
-- title: Minecraft
-  url: /minecraft/
+- title: Theme Setup
+  url: /theme-setup/
 
-- title: XDA Developers
-  url: /xda/
-
-- title: About me
-  url: /about/
+- title: Search
+  url: /search/
