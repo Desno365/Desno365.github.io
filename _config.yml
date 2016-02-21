@@ -26,7 +26,7 @@ kramdown:
   toc_levels: 1..2
   enable_coderay: false
 
-mathjax: true
+mathjax: false
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor"]
@@ -48,13 +48,14 @@ titlecase: true
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  email: you@email.com
-  disqus-shortname:
-  twitter: #username
+  name: Dennis Motta
+  nickname: Desno365
+  avatar: site-logo.png
+  email: desno365@gmail.com
+  disqus-shortname: desno365githubio
+  twitter: desno365
   facebook: #username
-  github: #username
+  github: Desno365
   stackexchange: #http://stackoverflow.com/users/123456/username
   linkedin: #username
   instagram: #username
@@ -63,8 +64,7 @@ owner:
   pinterest: #username
   weibo: #userid
   google:
-    plus: #username
-    verify:
-    ad-client:
-    ad-slot:
-  bing-verify:
+    plus: DennisMottaDesno365
+    youtube: UCJQL47nQnsijcaN_7pMsjCQ
+    verify: Kf4WNcQ8vbpqczQdZHuGOcX8O4LH6EsO0-MruCK8oPw
+  bing-verify: F2B0E247C6AB9BC3F524FA8EBD3DC6CE
