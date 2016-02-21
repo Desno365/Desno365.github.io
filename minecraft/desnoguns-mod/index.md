@@ -44,16 +44,16 @@ Guns. Weapons. Explosions. This is the DesnoGuns Mod! :D
 
 ## Downloads
 
-<i>Minecraft Pocket Edition 0.13.1:</i><br>
-<i> --- DesnoGuns Mod <b>r011</b>:</i>
+<i>Minecraft Pocket Edition 0.14.0:</i><br>
+<i> --- DesnoGuns Mod <b>r012</b>:</i>
 
 | Website | Support | Regular |
 |:--------|:-------:|:-------:|
-| Filecred:          | [Support download](http://adf.ly/1TidSk) | [Regular download](http://filecred.com/A423G567) |
-| MediaFire:         | [Support download](http://adf.ly/1TidW3) | [Regular download](http://www.mediafire.com/download/l3wv18fkokefz1f/DesnoGuns_r011_Desno365.zip) |
-| Android File Host: | [Support download](http://adf.ly/1TidOf) | [Regular download](https://www.androidfilehost.com/?fid=24269982087022113) |
+| Filecred:          | [Support download](http://adf.ly/1XGAsD) | [Regular download](http://filecred.com/A533G56C) |
+| MediaFire:         | [Support download](http://adf.ly/1XGAzC) | [Regular download](http://www.mediafire.com/download/2wvqtltsl2fu86a/DesnoGuns_r012_Desno365.zip) |
+| Android File Host: | [Support download](http://adf.ly/1XGB4r) | [Regular download](https://www.androidfilehost.com/?fid=24421527759884108) |
 |----
-{: rules="groups"}
+{: .table}
 
 • Remember to read the "Installation instructions" section before downloading.
 <br><br>
@@ -179,25 +179,26 @@ Click an icon under the "**Crafting**" column to display the crafting recipe of 
 | Winter Minigun:              | 506      | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/minigun.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/Xmas-minigun.png" alt="image"></a></figure> |
 | Winter Sniper:               | 507      | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/sniper-rifle.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/Xmas-sniper.png" alt="image"></a></figure> |
 |----
-{: rules="groups"}
+{: .table}
 
 ---
 
 ## Changelog
 
+**DesnoGuns Mod r012**
+{% highlight text %}
+- NEW: support for Minecraft PE 0.14.0
+- NEW: support for DesnoGuns addons, a new way to add new guns in the game for everyone!
+- NEW: Ray Gun
+- NEW: Binoculars
+- NEW: Zoom Binoculars (Pro item)
+- UPDATE: added the Juggernaut armor to the creative inventory
+- FIX: many bugs fixed
+{% endhighlight %}
+
 **DesnoGuns Mod r011**
 {% highlight text %}
 - NEW: support for Minecraft PE 0.13.1
-- WARNING: since BlockLauncher is not yet updated for 0.13.1 grenades are buggy
-{% endhighlight %}
-
-**DesnoGuns Mod r010**
-{% highlight text %}
-- NEW: added the Multiple Rocket Launcher
-- UPDATE: added a smoke trail behind bullets of rocket launchers
-- FIX: fixed explosive bullets sometimes exploding in air
-- FIX: enchanted golden apple and other items were recognized as guns
-- FIX: fixed the crash with the Minecraft style buttons
 {% endhighlight %}
 
 <br>

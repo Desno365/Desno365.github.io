@@ -4,6 +4,18 @@ title: DesnoGuns Mod older versions
 excerpt: "DesnoGuns Mod older versions"
 ---
 
+<i>Minecraft Pocket Edition 0.13.1:</i><br>
+<i> --- DesnoGuns Mod <b>r011</b>:</i>
+
+| Website | Support | Regular |
+|:--------|:-------:|:-------:|
+| Filecred:          | [Support download](http://adf.ly/1TidSk) | [Regular download](http://filecred.com/A423G567) |
+| MediaFire:         | [Support download](http://adf.ly/1TidW3) | [Regular download](http://www.mediafire.com/download/l3wv18fkokefz1f/DesnoGuns_r011_Desno365.zip) |
+| Android File Host: | [Support download](http://adf.ly/1TidOf) | [Regular download](https://www.androidfilehost.com/?fid=24269982087022113) |
+|----
+{: .table}
+
+
 <i>Minecraft Pocket Edition 0.12.2 & 0.11.1:</i><br>
 <i> --- DesnoGuns Mod <b>r008</b>:</i>
 
@@ -13,7 +25,7 @@ excerpt: "DesnoGuns Mod older versions"
 | Filecred:          | [Support download](http://adf.ly/1O0QD9) | [Regular download](http://filecred.com/A132G55F) |
 | Android File Host: | [Support download](http://adf.ly/1O0QHV) | [Regular download](https://www.androidfilehost.com/?fid=24052804347812199) |
 |----
-{: rules="groups"}
+{: .table}
 
 {% include ad-content.html %}
 <br>
@@ -27,7 +39,7 @@ excerpt: "DesnoGuns Mod older versions"
 | Android File Host: | [Support download](http://adf.ly/12eyOl) | [Regular download](https://www.androidfilehost.com/?fid=95916177934530177) |
 | MEGA:              | [Support download](http://adf.ly/12ey73) | [Regular download](https://mega.co.nz/#!m1ZiWBzQ!f-rrW3MlSKYGwKJLnuao-FPMKXLkkUsSkAxmewQsgV0) |
 |----
-{: rules="groups"}
+{: .table}
 
 
 <i>Minecraft Pocket Edition 0.9.5 and BlockLauncher 1.7.9:</i><br>
@@ -39,7 +51,7 @@ excerpt: "DesnoGuns Mod older versions"
 | AndroidFileHost: | [Support download](http://adf.ly/wbe2B) | [Regular download](https://www.androidfilehost.com/?fid=95916177934516426) |
 | MEGA:            | [Support download](http://adf.ly/wbeBn) | [Regular download](https://mega.co.nz/#!HwA3QAwJ!elIYzO1sB4xdzgQmmXKgUbjZrAJBf7f4Mav1mCHeNBA) |
 |----
-{: rules="groups"}
+{: .table}
 
 
 <br>Return to the DesnoGuns Mod web page:

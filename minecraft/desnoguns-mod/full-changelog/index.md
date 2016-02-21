@@ -5,6 +5,17 @@ excerpt: "DesnoGuns Mod full changelog"
 ---
 
 
+**DesnoGuns Mod r012**
+{% highlight text %}
+- NEW: support for Minecraft PE 0.14.0
+- NEW: support for DesnoGuns addons, a new way to add new guns in the game for everyone!
+- NEW: Ray Gun
+- NEW: Binoculars
+- NEW: Zoom Binoculars (Pro item)
+- UPDATE: added the Juggernaut armor to the creative inventory
+- FIX: many bugs fixed
+{% endhighlight %}
+
 **DesnoGuns Mod r011**
 {% highlight text %}
 - NEW: support for Minecraft PE 0.13.1
