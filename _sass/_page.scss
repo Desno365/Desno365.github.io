@@ -277,8 +277,8 @@ span + .entry-title {
 
 .table {
 	border-collapse: collapse;
-	margin: ((0px + $doc-line-height) / 2) 0;
-	margin: ((0rem + ($doc-line-height / $doc-font-size)) / 2) 0;
+	margin: ((0px + $doc-line-height) / 3) 0;
+	margin: ((0rem + ($doc-line-height / $doc-font-size)) / 3) 0;
 	width: 100%;
 	tbody {
 		tr:hover > td, tr:hover > th {
@@ -291,8 +291,8 @@ span + .entry-title {
 		}
 	}
 	th {
-		padding: (0px + $doc-line-height) / 2;
-		padding: (0rem + ($doc-line-height / $doc-font-size)) / 2;
+		padding: (0px + $doc-line-height) / 3;
+		padding: (0rem + ($doc-line-height / $doc-font-size)) / 3;
 		font-family: $alt-font;
 		font-weight: bold;
 		text-align: left;
@@ -301,8 +301,8 @@ span + .entry-title {
 	}
 	td {
 		border-bottom: 1px solid $border-color;
-		padding: (0px + $doc-line-height) / 2;
-		padding: (0rem + ($doc-line-height / $doc-font-size)) / 2;
+		padding: (0px + $doc-line-height) / 3;
+		padding: (0rem + ($doc-line-height / $doc-font-size)) / 3;
 		@include font-size(18);
 	}
 	tr, td, th {
