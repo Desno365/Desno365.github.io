@@ -7,20 +7,26 @@ comments: false
 
 ## How to install an addon
 • An addon for the DesnoGuns Mod is like a mod with a texture pack, so it should be installed like any other MCPE mod.<br>
-• Here it is a simple guide on how to install a mod that includes a script and a texture pack:
 
-• Download the zip that contains the mod and the texture pack.<br>
+• Download the zip that contains the mod (addon) and the texture pack.<br>
 • Extract it with your [file explorer/manager](http://play.google.com/store/search?q=file%20explorer).<br>
 • Install the texture pack in BlockLauncher.<br>
-• Import the script from local storage in BlockLauncher and enable it.<br>
+• Import the script (addon) from local storage in BlockLauncher and enable it.<br>
+• <b>Restart BlockLauncher</b>, if you don't restart it the addon won't be loaded.
 
 ---
 
 ## Featured addons
 
-• If you have created an addon for the DesnoGuns Mod and want it to be featured here just <a href="mailto:{{ site.owner.email }}" title="Send a mail to {{ site.owner.name}}" target="_blank">send me a mail</a> with the link to your addon posted on a blog or on a forum!
+Coming soon...
+
+• If you have created an addon for the DesnoGuns Mod and want it to be featured here just <a href="mailto:{{ site.owner.email }}" title="Send a mail to {{ site.owner.name}}" target="_blank">send me a mail</a> with the link to your addon posted on a blog or on a forum.
 
 ---
 
 ## Creating a new addon
 
+As soon as I have time I'll write a complete reference for creating a new addon. But for now if you're already interested in adding new guns you can look at an example addon I made for addon-developers.
+Here you can download it and see how it works and maybe you can create a new one: [Example Addon for developers](https://www.androidfilehost.com/?fid=24421527759884341)
+
+Please note that addons are in beta stage, you may find some bugs while making them. If you find a bug report it to me so I'll fix it.
