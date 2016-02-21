@@ -52,7 +52,7 @@ A video explains it better: [The Unreal Geometry Map YouTube video](http://youtu
 | Android File Host: | [Support download](http://adf.ly/1CIQOg) | [Regular download](https://www.androidfilehost.com/?fid=95916177934548024) |
 | MEGA:              | [Support download](http://adf.ly/1CIQPs) | [Regular download](https://mega.co.nz/#!igw3HTiL!eRdzgk5gar4s5tmrjr3oxHXIM_dreZt0fO-VkHtGi2k) |
 |----
-{: rules="groups"}
+{: .table}
 
 • Remember to read the "Installation instructions" section before downloading.
 

@@ -50,7 +50,7 @@ comments: true
 | Android File Host: | [Support download](http://adf.ly/rfJmM) | [Regular download](https://www.androidfilehost.com/?fid=23622183712465438) |
 | MEGA:              | [Support download](http://adf.ly/rfJZn) | [Regular download](https://mega.co.nz/#!u5hgjLLQ!A3fMHmlNpNPUjuo9UXURP2-n0Bn9Fuf-0NrtLg995gA) |
 |----
-{: rules="groups"}
+{: .table}
 
 • Remember to read the "Installation instructions" section before downloading.
 
@@ -87,7 +87,7 @@ Click an icon under the "**Crafting**" column to display the crafting recipe of 
 | Turret:                      | 401      | <figure><a href="{{ site.url }}/minecraft/turrets-mod/images/how-to-craft/crafting/turret.jpg"><img src="{{ site.url }}/minecraft/turrets-mod/images/how-to-craft/icons/turret.png" alt="image"></a></figure> |
 | Remote Control:              | 402      | <figure><a href="{{ site.url }}/minecraft/turrets-mod/images/how-to-craft/crafting/remoteControl.jpg"><img src="{{ site.url }}/minecraft/turrets-mod/images/how-to-craft/icons/remoteControl.png" alt="image"></a></figure> |
 |----
-{: rules="groups"}
+{: .table}
 
 ---
 

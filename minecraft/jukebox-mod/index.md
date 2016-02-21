@@ -55,7 +55,7 @@ comments: true
 | Filecred:        | [Support download](http://adf.ly/1SW8u1) | [Regular download](http://filecred.com/A383G565) |
 | MediaFire:       | [Support download](http://adf.ly/1SW9Fw) | [Regular download](http://www.mediafire.com/download/rrwp2cxowrgq1i3/Jukebox_Mod_r004_Desno365.zip) |
 |----
-{: rules="groups"}
+{: .table}
 
 • Remember to read the "Installation instructions" section before downloading.
 <br><br>
@@ -83,7 +83,7 @@ Click an icon under the "**Crafting**" column to display the crafting recipe of 
 | Jukebox:                     | 84        | <figure><a href="{{ site.url }}/minecraft/jukebox-mod/images/how-to-craft/crafting/jukebox.jpg"><img src="{{ site.url }}/minecraft/jukebox-mod/images/how-to-craft/icons/jukebox.png" alt="image"></a></figure> |
 | Discs:                       | 2256≈2267 | Crafting not available<a href="#crafting-not-available-explanation">*</a> |
 |----
-{: rules="groups"}
+{: .table}
 
 <div id="crafting-not-available-explanation">*This item/block doesn't have a crafting recipe but you can get it in Creative Mode, or there is a random chance of finding a disc every 30 kills of hostile mobs in Survival Mode.</div>
 

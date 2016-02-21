@@ -59,7 +59,7 @@ Five different Portal Guns, the Aerial Faith Plate, Propulsion and Repulsion gel
 | MediaFire:         | [Support download](http://adf.ly/1U4o7M) | [Regular download](http://www.mediafire.com/download/oa93q4idc1tz52a/Portal_Mod_r012_Desno365.zip) |
 | Android File Host: | [Support download](http://adf.ly/1U4o0d) | [Regular download](https://www.androidfilehost.com/?fid=24344671467602213) |
 |----
-{: rules="groups"}
+{: .table}
 
 • Remember to read the "Installation instructions" section before downloading.
 <br><br>
@@ -112,7 +112,7 @@ Click an icon under the "**Crafting**" column to display the crafting recipe of 
 | Cube:                        | 232      | Crafting not available<a href="#crafting-not-available-explanation">*</a> |
 | Companion Cube:              | 233      | Crafting not available<a href="#crafting-not-available-explanation">*</a> |
 |----
-{: rules="groups"}
+{: .table}
 
 <div id="crafting-not-available-explanation">*This item/block doesn't have a crafting recipe but you can get it in Creative Mode, or by using this method in Survival Mode: "Portal Information UI" --> "Settings" --> "Map-makers settings" --> "Get Aperture Lab equipment".</div>
 

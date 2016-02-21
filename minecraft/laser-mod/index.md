@@ -52,7 +52,7 @@ comments: true
 | MediaFire:       | [Support download](http://adf.ly/rbxvX) | [Regular download](http://www.mediafire.com/download/gv3k962ozzcnovz/Laser_Mod_r003_Desno365.zip) |
 | MEGA:            | [Support download](http://adf.ly/rby2l) | [Regular download](https://mega.co.nz/#!3wYAUI4A!SDzI5RV1TBoeTcgh_aTKuyZwD1_SM-zAE06N9z_WeSU) |
 |----
-{: rules="groups"}
+{: .table}
 
 • Remember to read the "Installation instructions" section before downloading.
 
@@ -104,7 +104,7 @@ Click an icon under the "**Crafting**" column to display the crafting recipe of 
 | Laser Bazooka:               | 428      | <figure><a href="{{ site.url }}/minecraft/laser-mod/images/how-to-craft/crafting/laserBazooka.jpg"><img src="{{ site.url }}/minecraft/laser-mod/images/how-to-craft/icons/laserBazooka.png" alt="image"></a></figure> |
 | Laser Sniper Rifle:          | 429      | <figure><a href="{{ site.url }}/minecraft/laser-mod/images/how-to-craft/crafting/laserSniperRifle.jpg"><img src="{{ site.url }}/minecraft/laser-mod/images/how-to-craft/icons/laserSniperRifle.png" alt="image"></a></figure> |
 |----
-{: rules="groups"}
+{: .table}
 
 ---
 

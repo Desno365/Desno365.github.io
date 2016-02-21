@@ -42,7 +42,7 @@ Only the level of your companions is saved when you exit the game, so you have t
 | MediaFire:       | [Support download](http://adf.ly/pQgyk) | [Regular download](http://www.mediafire.com/download/6d8oqhgbmc2b41n/TheCompanionMod_v2.1_Desno365.js) |
 | MEGA:            | [Support download](http://adf.ly/pQgxV) | [Regular download](https://mega.co.nz/#!DxpDjb4S!duIbn4A8HGMgytl6iLSsdCaAdzAJBxvgUWbG-DpSG-A) |
 |----
-{: rules="groups"}
+{: .table}
 
 {% include ad-content.html %}
 
@@ -85,7 +85,7 @@ Click an icon under the "**Crafting**" column to display the crafting recipe of 
 | Companion Information:       | 467      | An image will be added soon |
 | Companion Remover:           | 468      | An image will be added soon |
 |----
-{: rules="groups"}
+{: .table}
 
 ---
 

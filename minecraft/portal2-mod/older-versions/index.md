@@ -13,7 +13,7 @@ excerpt: "Portal 2 Mod older versions"
 | Filecred:          | [Support download](http://adf.ly/1Q0y4Y) | [Regular download](http://filecred.com/A26FG561) |
 | Android File Host: | [Support download](http://adf.ly/1Q0yJ6) | [Regular download](https://www.androidfilehost.com/?fid=24052804347838081) |
 |----
-{: rules="groups"}
+{: .table}
 
 
 <i>Minecraft Pocket Edition 0.11.1 and BlockLauncher 1.9.10:</i><br>
@@ -25,7 +25,7 @@ excerpt: "Portal 2 Mod older versions"
 | Filecred:          | [Support download](http://adf.ly/1LkbRJ) | [Regular download](http://filecred.com/A23G55BB) |
 | Android File Host: | [Support download](http://adf.ly/1Iyxol) | [Regular download](https://www.androidfilehost.com/?fid=24052804347760623) |
 |----
-{: rules="groups"}
+{: .table}
 
 {% include ad-content.html %}
 <br>
@@ -39,7 +39,7 @@ excerpt: "Portal 2 Mod older versions"
 | Android File Host: | [Support download](http://adf.ly/vEMLV) | [Regular download](https://www.androidfilehost.com/?fid=95855108297851051) |
 | MEGA:              | [Support download](http://adf.ly/vEN7p) | [Regular download](https://mega.co.nz/#!vtQCiS5J!hSCmx7CttjfPYv3PGtBp72QoKMvkA9ors8VkCp32R3A) |
 |----
-{: rules="groups"}
+{: .table}
 
 
 <i>Minecraft Pocket Edition 0.9.5 and BlockLauncher 1.7.9:</i><br>
@@ -51,7 +51,7 @@ excerpt: "Portal 2 Mod older versions"
 | AndroidFileHost: | [Support download](http://adf.ly/sWLGx) | [Regular download](https://www.androidfilehost.com/?fid=95747613655040767) |
 | MEGA:            | [Support download](http://adf.ly/sUcaR) | [Regular download](https://mega.co.nz/#!3tQkAKJR!lg-qEw501m6paWnn_k12TIfYpakGhOOs7N-iORDldmU) |
 |----
-{: rules="groups"}
+{: .table}
 
 
 <i>Minecraft Pocket Edition 0.8.1 and BlockLauncher 1.6.10:</i><br>
@@ -62,7 +62,7 @@ excerpt: "Portal 2 Mod older versions"
 | MediaFire:       | [Support download](http://adf.ly/pQYzR) | [Regular download](http://www.mediafire.com/download/ay126uyyvg61pv3/Portal_Mod_r003_Desno365.zip) |
 | MEGA:            | [Support download](http://adf.ly/pQYnw) | [Regular download](https://mega.co.nz/#!XshRwBgZ!E8axp_dhlBPRytvzmHvOcn90ATardIBhO0LVJDWrSpo) |
 |----
-{: rules="groups"}
+{: .table}
 
 
 <br>Return to the Portal 2 Mod web page:
