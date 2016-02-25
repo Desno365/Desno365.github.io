@@ -56,9 +56,7 @@ Guns. Weapons. Explosions. This is the DesnoGuns Mod! :D
 {: .table}
 
 • Remember to read the "Installation instructions" section before downloading.
-<br><br>
-<i>Support with older Minecraft Pocket Edition versions:</i><br>
-<a href="{{ site.url }}/minecraft/desnoguns-mod/older-versions" class="btn" style="margin-top:4px;">Older versions</a>
+<br>
 
 {% include ad-content.html %}
 
@@ -217,6 +215,14 @@ See the full changelog here:
 • With some devices (many Samsung devices) you can't move the aim while shooting. I tried to fix this bug but I haven't succeeded, if you are a modder and want to help fix this bug check out the [Github issue tracker of the mod](https://github.com/Desno365/DesnoGuns-Mod/issues).<br>
 • If you shoot multiple arrows to a mob, sometimes, they bounce back to you and damage you. I made a workaround for this, you can enable it in the settings of the mod.<br><br>
 If you find a bug report it in the [minecraft-forum.net thread][thread] or use the [Github issue tracker](https://github.com/Desno365/DesnoGuns-Mod).
+
+---
+
+## Older versions
+
+<i>Get old versions of the mod compatible with old versions of Minecraft PE:</i>
+
+<div markdown="0"><a href="{{ site.url }}/minecraft/desnoguns-mod/older-versions" class="btn">Older versions</a></div>
 
 ---
 
