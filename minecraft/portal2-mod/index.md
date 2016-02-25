@@ -7,7 +7,7 @@ comments: true
 
 <div style="text-align:center;">
 	<img alt="Portal 2 Mod by Desno365"
-			src="/minecraft/portal2-mod/images/minecraft-portal.jpg" />
+			src="/minecraft/portal2-mod/images/portal-minecraft-pe-banner.jpg" />
 </div>
 
 * Table of Contents
