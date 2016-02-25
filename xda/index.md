@@ -2,6 +2,7 @@
 layout: page
 title: XDA Developers
 excerpt: "All my work made for the XDA community"
+page-level-ads: true
 ---
 
 ##### My profile: [Desno365](http://forum.xda-developers.com/member.php?u=5289638)
