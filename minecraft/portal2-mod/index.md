@@ -50,14 +50,14 @@ Five different Portal Guns, the Aerial Faith Plate, Propulsion and Repulsion gel
 
 ## Downloads
 
-<i>Minecraft Pocket Edition 0.13.1:</i><br>
-<i> --- Portal 2 Mod <b>r012</b>:</i>
+<i>Minecraft Pocket Edition 0.14.0:</i><br>
+<i> --- Portal 2 Mod <b>r013</b>:</i>
 
 | Website | Support | Regular |
 |:--------|:-------:|:-------:|
-| Filecred:          | [Support download](http://adf.ly/1U4nux) | [Regular download](http://filecred.com/A450G567) |
-| MediaFire:         | [Support download](http://adf.ly/1U4o7M) | [Regular download](http://www.mediafire.com/download/oa93q4idc1tz52a/Portal_Mod_r012_Desno365.zip) |
-| Android File Host: | [Support download](http://adf.ly/1U4o0d) | [Regular download](https://www.androidfilehost.com/?fid=24344671467602213) |
+| Filecred:          | [Support download](http://adf.ly/1XTWPa) | [Regular download](http://filecred.com/A55CG56C) |
+| MediaFire:         | [Support download](http://adf.ly/1XTWqt) | [Regular download](http://www.mediafire.com/download/y2wewzcb886jpmt/Portal_Mod_r013_Desno365.zip) |
+| Android File Host: | [Support download](http://adf.ly/1XTWTm) | [Regular download](https://www.androidfilehost.com/?fid=24421527759888141) |
 |----
 {: .table}
 
@@ -120,25 +120,15 @@ Click an icon under the "**Crafting**" column to display the crafting recipe of 
 
 ## Changelog
 
+**Portal 2 Mod r013**
+{% highlight text %}
+- NEW: support for Minecraft PE 0.14.0
+{% endhighlight %}
+
 **Portal 2 Mod r012**
 {% highlight text %}
 - NEW: support for Minecraft PE 0.13.1
 - FIX: fixed some minor bugs
-{% endhighlight %}
-
-**Portal 2 Mod r011**
-{% highlight text %}
-- The mod has been completely rewritten. Basically it's like a new mod, so writing an accurate changelog is not possible
-- NEW: support for Minecraft PE 0.12.x
-- NEW: Turrets Defective
-- NEW: Cube and Companion Cube
-- NEW: new UIs when holding a Portal Gun or the Gravity Gun
-- NEW: Portal Guns and Gravity Gun can pick up blocks
-- UPDATE: automatic sounds installation (only music files need to be manually installed)
-- UPDATE: volume of sounds based on the distance from the source
-- UPDATE: better Jukebox
-- UPDATE: better Jumper (Aerial Faith Plate)
-- UPDATE: better repulsion gel (now it also makes your jump more powerful)
 {% endhighlight %}
 
 <br>

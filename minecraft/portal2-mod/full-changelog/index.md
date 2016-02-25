@@ -5,6 +5,11 @@ excerpt: "Portal 2 Mod full changelog"
 ---
 
 
+**Portal 2 Mod r013**
+{% highlight text %}
+- NEW: support for Minecraft PE 0.14.0
+{% endhighlight %}
+
 **Portal 2 Mod r012**
 {% highlight text %}
 - NEW: support for Minecraft PE 0.13.1
