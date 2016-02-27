@@ -11,10 +11,10 @@ page-level-ads: true
 • [Download the addon](http://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-mods-tools/2625220-addon-black-ops-3-desnoguns-addon-bo3-guns-in)
 
 <figure class="half">
-	<a href="http://i.imgur.com/yg7UjWZ.png"><img src="http://i.imgur.com/yg7UjWZ.png" alt="image"></a>
-	<a href="http://i.imgur.com/3RwDy3o.png"><img src="http://i.imgur.com/3RwDy3o.png" alt="image"></a>
-	<a href="http://i.imgur.com/cTsRoEk.png"><img src="http://i.imgur.com/cTsRoEk.png" alt="image"></a>
-	<a href="http://i.imgur.com/N4yUFw4.png"><img src="http://i.imgur.com/N4yUFw4.png" alt="image"></a>
+	<img src="http://i.imgur.com/yg7UjWZ.png" alt="image">
+	<img src="http://i.imgur.com/3RwDy3o.png" alt="image">
+	<img src="http://i.imgur.com/cTsRoEk.png" alt="image">
+	<img src="http://i.imgur.com/N4yUFw4.png" alt="image">
 </figure>
 
 ---
