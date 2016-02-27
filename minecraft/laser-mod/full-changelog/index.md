@@ -2,6 +2,7 @@
 layout: page
 title: Laser Mod full changelog
 excerpt: "Laser Mod full changelog"
+page-level-ads: true
 ---
 
 **Laser Mod r003**

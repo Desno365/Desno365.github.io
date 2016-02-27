@@ -2,6 +2,7 @@
 layout: page
 title: Portal 2 Mod full changelog
 excerpt: "Portal 2 Mod full changelog"
+page-level-ads: true
 ---
 
 

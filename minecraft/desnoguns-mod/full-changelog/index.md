@@ -2,6 +2,7 @@
 layout: page
 title: DesnoGuns Mod full changelog
 excerpt: "DesnoGuns Mod full changelog"
+page-level-ads: true
 ---
 
 
