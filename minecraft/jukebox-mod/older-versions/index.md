@@ -18,5 +18,5 @@ page-level-ads: true
 
 <br>Return to the Jukebox Mod web page:
 
-<div markdown="0"><a href="{{ site.url }}/minecraft/jukebox-mod/#downloads" class="btn">Jukebox Mod</a></div>
+<div markdown="0"><a href="{{ site.url }}/minecraft/jukebox-mod/#older-versions" class="btn">Jukebox Mod</a></div>
 

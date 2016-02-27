@@ -57,5 +57,5 @@ page-level-ads: true
 
 <br>Return to the DesnoGuns Mod web page:
 
-<div markdown="0"><a href="{{ site.url }}/minecraft/desnoguns-mod/#downloads" class="btn">DesnoGuns Mod</a></div>
+<div markdown="0"><a href="{{ site.url }}/minecraft/desnoguns-mod/#older-versions" class="btn">DesnoGuns Mod</a></div>
 
