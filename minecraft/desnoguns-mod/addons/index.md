@@ -31,3 +31,9 @@ As soon as I have time I'll write a complete reference for creating a new addon.
 Here you can download it and see how it works and maybe you can create a new one: [Example Addon for developers](https://www.androidfilehost.com/?fid=24421527759884341)
 
 Please note that addons are in beta stage, you may find some bugs while making them. If you find a bug report it to me so I can fix it.
+
+---
+
+<br>Return to the DesnoGuns Mod web page:
+
+<div markdown="0"><a href="{{ site.url }}/minecraft/desnoguns-mod/#addons" class="btn">DesnoGuns Mod</a></div>
