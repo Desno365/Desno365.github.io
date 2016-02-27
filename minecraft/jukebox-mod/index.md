@@ -30,10 +30,8 @@ comments: true
 
 ## Installation instructions
 
-• Download the zip that contains all the necessary files.<br>
-• Extract it with your [file explorer/manager](http://play.google.com/store/search?q=file%20explorer) (I recommend [ES File Explorer](https://play.google.com/store/apps/details?id=com.estrongs.android.pop)).<br>
-• <u>IMPORTANT</u>: Move the "minecraft-jukebox" folder in the "/sdcard/games/com.mojang/" folder.<br>
-• Import the script from local storage in Blocklauncher and enable it.<br>
+• Download the .modpkg file.<br>
+• Import the .modpkg file in BlockLauncher like any other ModPE script.<br>
 • Enjoy! ;)
 
 • Optional: download the ["Desno365's Mods" app](https://play.google.com/store/apps/details?id=com.desno365.mods) from Google Play Store.
@@ -47,18 +45,16 @@ comments: true
 
 ## Downloads
 
-<i>Minecraft Pocket Edition 0.13.0:</i><br>
-<i> --- Jukebox Mod <b>r004</b>:</i>
+<i>Minecraft Pocket Edition 0.14.0:</i><br>
+<i> --- Jukebox Mod <b>r005</b>:</i>
 
 | Website | Support | Regular |
 |:--------|:-------:|:-------:|
-| Filecred:        | [Support download](http://adf.ly/1SW8u1) | [Regular download](http://filecred.com/A383G565) |
-| MediaFire:       | [Support download](http://adf.ly/1SW9Fw) | [Regular download](http://www.mediafire.com/download/rrwp2cxowrgq1i3/Jukebox_Mod_r004_Desno365.zip) |
+| Filecred:        | Not available yet | Not available yet |
+| MediaFire:       | [Support download](http://adf.ly/1XZUwC) | [Regular download](http://www.mediafire.com/download/qv6bfl5ysdld561/Jukebox_Mod_r005_Desno365.modpkg) |
 |----
 {: .table}
 
-• Remember to read the "Installation instructions" section before downloading.
-<br>
 
 {% include ad-content.html %}
 
@@ -89,29 +85,16 @@ Click an icon under the "**Crafting**" column to display the crafting recipe of 
 
 ## Changelog
 
-**Jukebox Mod r004**
+**Jukebox Mod r005**
 {% highlight text %}
-- NEW: support for Minecraft PE 0.13.x
+- NEW: easier installation!
 {% endhighlight %}
 
-**Jukebox Mod r003**
-{% highlight text %}
-- UPDATE: IDs of discs updated, now they are the same as in Minecraft PC
-- UPDATE: discs moved in the Tools category in the creative menu
-- UPDATE: the useless Information UI has been removed
-- FIX: the disc is not removed anymore from hand in creative
-{% endhighlight %}
+<br>
 
-**Jukebox Mod r002**
-{% highlight text %}
-- NEW: now it's possible to craft the jukebox
-- UPDATED: increased the distance when the volume of the music is 0 (before the volume became 0 at 30 blocks, now you need a distance of 65 blocks for a volume of 0). This is now the same as the PC
-{% endhighlight %}
+See the full changelog here:
 
-**Jukebox Mod r001**
-{% highlight text %}
-- Initial release
-{% endhighlight %}
+<div markdown="0"><a href="{{ site.url }}/minecraft/jukebox-mod/full-changelog" class="btn">Full changelog</a></div>
 
 ---
 
