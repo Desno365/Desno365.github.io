@@ -218,6 +218,14 @@ If you find a bug report it in the [minecraft-forum.net thread][thread] or use t
 
 ---
 
+## Addons
+
+<i>Install separate addons which add awesome new guns and a lot of new content to the mod:</i>
+
+<div markdown="0"><a href="{{ site.url }}/minecraft/desnoguns-mod/addons" class="btn">DesnoGuns addons</a></div>
+
+---
+
 ## Older versions
 
 <i>Get old versions of the mod compatible with old versions of Minecraft PE:</i>
