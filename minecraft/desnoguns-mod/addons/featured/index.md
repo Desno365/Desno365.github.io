@@ -6,6 +6,11 @@ comments: true
 page-level-ads: true
 ---
 
+* Table of Contents
+{:toc}
+
+{% include ad-content-responsive.html %}
+
 ## Black Ops 3 addon by Black_Death
 
 • [Download the addon](http://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-mods-tools/2625220-addon-black-ops-3-desnoguns-addon-bo3-guns-in)
