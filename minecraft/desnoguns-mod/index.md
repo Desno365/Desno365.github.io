@@ -212,7 +212,7 @@ See the full changelog here:
 
 ## Known bugs and issues
 
-• With some devices (many Samsung devices) you can't move the aim while shooting. I tried to fix this bug but I haven't succeeded, if you are a modder and want to help fix this bug check out the [Github issue tracker of the mod](https://github.com/Desno365/DesnoGuns-Mod/issues).<br>
+• With some devices (many Samsung devices) you can't move the aim while shooting. More information in the [Github issue tracker of the mod](https://github.com/Desno365/DesnoGuns-Mod/issues).<br>
 • If you shoot multiple arrows to a mob, sometimes, they bounce back to you and damage you. I made a workaround for this, you can enable it in the settings of the mod.<br><br>
 If you find a bug report it in the [minecraft-forum.net thread][thread] or use the [Github issue tracker](https://github.com/Desno365/DesnoGuns-Mod).
 
@@ -220,7 +220,7 @@ If you find a bug report it in the [minecraft-forum.net thread][thread] or use t
 
 ## Addons
 
-<i>Install separate addons which add awesome new guns and a lot of new content to the mod:</i>
+Install separate addons which add awesome new guns and a lot of new content to the mod:
 
 <div markdown="0"><a href="{{ site.url }}/minecraft/desnoguns-mod/addons" class="btn">DesnoGuns addons</a></div>
 
@@ -228,7 +228,7 @@ If you find a bug report it in the [minecraft-forum.net thread][thread] or use t
 
 ## Older versions
 
-<i>Get old versions of the mod compatible with old versions of Minecraft PE:</i>
+Get old versions of the mod compatible with old versions of Minecraft PE:
 
 <div markdown="0"><a href="{{ site.url }}/minecraft/desnoguns-mod/older-versions" class="btn">Older versions</a></div>
 

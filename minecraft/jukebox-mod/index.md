@@ -124,7 +124,7 @@ If you find a bug report it in the [minecraft-forum.net thread][thread].
 
 ## Older versions
 
-<i>Get old versions of the mod compatible with old versions of Minecraft PE:</i>
+Get old versions of the mod compatible with old versions of Minecraft PE:
 
 <div markdown="0"><a href="{{ site.url }}/minecraft/jukebox-mod/older-versions" class="btn">Older versions</a></div>
 

@@ -19,7 +19,7 @@ page-level-ads: true
 
 ## Featured addons
 
-<i>The best addons for the DesnoGuns Mod:</i>
+The best addons for the DesnoGuns Mod:
 
 <div markdown="0"><a href="{{ site.url }}/minecraft/desnoguns-mod/addons/featured" class="btn">Featured addons</a></div>
 
