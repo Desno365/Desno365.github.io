@@ -31,7 +31,7 @@ comments: true
 ## Installation instructions
 
 • Download the .modpkg file.<br>
-• Import the .modpkg file in BlockLauncher like any other ModPE script.<br>
+• Import the .modpkg file in BlockLauncher like you do with a ModPE script.<br>
 • Enjoy! ;)
 
 • Optional: download the ["Desno365's Mods" app](https://play.google.com/store/apps/details?id=com.desno365.mods) from Google Play Store.
