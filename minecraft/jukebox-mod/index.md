@@ -50,7 +50,7 @@ comments: true
 
 | Website | Support | Regular |
 |:--------|:-------:|:-------:|
-| Filecred:        | Not available yet | Not available yet |
+| Filecred:        | [Support download](http://adf.ly/1XgbHZ) | [Regular download](http://filecred.com/A571G56D) |
 | MediaFire:       | [Support download](http://adf.ly/1XZUwC) | [Regular download](http://www.mediafire.com/download/qv6bfl5ysdld561/Jukebox_Mod_r005_Desno365.modpkg) |
 |----
 {: .table}
