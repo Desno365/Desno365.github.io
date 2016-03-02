@@ -43,14 +43,14 @@ A video explains it better: [The Unreal Geometry Map YouTube video](http://youtu
 
 ## Downloads
 
-<i>Minecraft Pocket Edition 0.13.0 & 0.12.3:</i><br>
-<i> --- Unreal Geometry Map <b>r002</b>:</i>
+<i>Minecraft Pocket Edition 0.14.0:</i><br>
+<i> --- Unreal Geometry Map <b>r003</b>:</i>
 
 | Website | Support | Regular |
 |:--------|:-------:|:-------:|
-| MediaFire:         | [Support download](http://adf.ly/1CIQMi) | [Regular download](http://www.mediafire.com/download/m9zvo42mq9u6bkw/Unreal_Geometry_r002_Desno365.zip) |
-| Android File Host: | [Support download](http://adf.ly/1CIQOg) | [Regular download](https://www.androidfilehost.com/?fid=95916177934548024) |
-| MEGA:              | [Support download](http://adf.ly/1CIQPs) | [Regular download](https://mega.co.nz/#!igw3HTiL!eRdzgk5gar4s5tmrjr3oxHXIM_dreZt0fO-VkHtGi2k) |
+| Filecred:          | [Support download](http://adf.ly/1XjXkF) | [Regular download](http://filecred.com/A578G56D) |
+| MediaFire:         | [Support download](http://adf.ly/1XjXg9) | [Regular download](http://www.mediafire.com/download/son5aa6u7n12plw/Unreal_Geometry_r003_Desno365.zip) |
+| Android File Host: | [Support download](http://adf.ly/1XjXXg) | [Regular download](https://www.androidfilehost.com/?fid=24438995911968987) |
 |----
 {: .table}
 
@@ -77,6 +77,13 @@ For people who prefer screenshoots:
 ---
 
 ## Changelog
+
+**Unreal Geometry Map r003**
+{% highlight text %}
+- UPDATE: hostile mobs are automatically removed from the map
+- FIX: fixed a bug with devices running Android 6.0 or up
+- FIX: fixed wrong position of trapdoors at the end of the map
+{% endhighlight %}
 
 **Unreal Geometry Map r002**
 {% highlight text %}
