@@ -6,6 +6,15 @@ page-level-ads: true
 ---
 
 
+**DesnoGuns Mod r013**
+{% highlight text %}
+- NEW: easier installation, with just one .modpkg file that can be imported in BlockLauncher in the ModPE section
+- UPDATE: offline sounds installation
+- UPDATE: better information UI for guns specifications when using addons
+- FIX: binoculars not craftable
+- FIX: fixed a bug that showed the user a non-existent error with addons
+{% endhighlight %}
+
 **DesnoGuns Mod r012**
 {% highlight text %}
 - NEW: support for Minecraft PE 0.14.0

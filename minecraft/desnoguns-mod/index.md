@@ -22,11 +22,9 @@ Guns. Weapons. Explosions. This is the DesnoGuns Mod! :D
 
 ## Installation instructions
 
-• Download the zip that contains the mod and the textures.<br>
-• Extract it with your [file explorer/manager](http://play.google.com/store/search?q=file%20explorer) (I recommend [ES File Explorer](https://play.google.com/store/apps/details?id=com.estrongs.android.pop)).<br>
-• Install textures in BlockLauncher.<br>
-• Import the script from local storage in BlockLauncher and enable it.<br>
-• Enjoy! ;)
+• Download the mod (.modpkg file).<br>
+• Open [BlockLauncher](https://play.google.com/store/apps/details?id=net.zhuoweizhang.mcpelauncher) and in <i>Manage ModPE scripts</i> import the mod from local storage.<br>
+• Restart BlockLauncher and enjoy the mod!<br>
 
 • Optional: download the ["Desno365's Mods" app](https://play.google.com/store/apps/details?id=com.desno365.mods) from Google Play Store.
 
@@ -35,28 +33,20 @@ Guns. Weapons. Explosions. This is the DesnoGuns Mod! :D
 		src="/images/en_generic_rgb_wo_45.png" />
 </a>
 
-<br>
-• Need help with installing the mod? Watch the [video tutorial on YouTube](http://youtu.be/uO72AmNn0u8):
-
-<iframe width="560" height="315" src="http://www.youtube.com/embed/uO72AmNn0u8" frameborder="0"> </iframe>
-
 ---
 
 ## Downloads
 
 <i>Minecraft Pocket Edition 0.14.0:</i><br>
-<i> --- DesnoGuns Mod <b>r012</b>:</i>
+<i> --- DesnoGuns Mod <b>r013</b>:</i>
 
 | Website | Support | Regular |
 |:--------|:-------:|:-------:|
-| Filecred:          | [Support download](http://adf.ly/1XGAsD) | [Regular download](http://filecred.com/A533G56C) |
-| MediaFire:         | [Support download](http://adf.ly/1XGAzC) | [Regular download](http://www.mediafire.com/download/2wvqtltsl2fu86a/DesnoGuns_r012_Desno365.zip) |
-| Android File Host: | [Support download](http://adf.ly/1XGB4r) | [Regular download](https://www.androidfilehost.com/?fid=24421527759884108) |
+| Filecred:          | [Support download](http://adf.ly/1Y1a16) | [Regular download](http://filecred.com/A587G56D) |
+| MediaFire:         | [Support download](http://adf.ly/1Y1a4v) | [Regular download](http://www.mediafire.com/download/dtuh65n82p34d7x/DesnoGuns_Mod_r013_Desno365.modpkg) |
+| Android File Host: | [Support download](http://adf.ly/1Y1aHM) | [Regular download](https://mega.nz/#!OhYwnYzQ!tU9hqFohcPaW32bI24b3B7b49MpvVMq7BkdatA8w8Xs) |
 |----
 {: .table}
-
-• Remember to read the "Installation instructions" section before downloading.
-<br>
 
 {% include ad-content.html %}
 
@@ -186,6 +176,15 @@ Click an icon under the "**Crafting**" column to display the crafting recipe of 
 
 ## Changelog
 
+**DesnoGuns Mod r013**
+{% highlight text %}
+- NEW: easier installation, with just one .modpkg file that can be imported in BlockLauncher in the ModPE section
+- UPDATE: offline sounds installation
+- UPDATE: better information UI for guns specifications when using addons
+- FIX: binoculars not craftable
+- FIX: fixed a bug that showed the user a non-existent error with addons
+{% endhighlight %}
+
 **DesnoGuns Mod r012**
 {% highlight text %}
 - NEW: support for Minecraft PE 0.14.0
@@ -195,11 +194,6 @@ Click an icon under the "**Crafting**" column to display the crafting recipe of 
 - NEW: Zoom Binoculars (Pro item)
 - UPDATE: added the Juggernaut armor to the creative inventory
 - FIX: many bugs fixed
-{% endhighlight %}
-
-**DesnoGuns Mod r011**
-{% highlight text %}
-- NEW: support for Minecraft PE 0.13.1
 {% endhighlight %}
 
 <br>
