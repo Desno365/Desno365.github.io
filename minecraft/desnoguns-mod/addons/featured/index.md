@@ -17,11 +17,26 @@ page-level-ads: true
 
 • [Download the addon](http://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-mods-tools/2625220-addon-black-ops-3-desnoguns-addon-bo3-guns-in)
 
+• Creator: [Black_Death](https://twitter.com/Black_DeathPE)
+
 <figure class="half">
 	<img src="http://i.imgur.com/yg7UjWZ.png" alt="image">
 	<img src="http://i.imgur.com/3RwDy3o.png" alt="image">
 	<img src="http://i.imgur.com/cTsRoEk.png" alt="image">
 	<img src="http://i.imgur.com/N4yUFw4.png" alt="image">
+</figure>
+
+---
+
+## More Guns addon by JignacJGT
+
+• [Download the addon](http://mcpeuniverse.com/mods/more-guns-addons-for-the-desnoguns-mod-2/)
+
+• Creator: [JignacJGT](https://twitter.com/JignacJGT)
+
+<figure class="half">
+	<img src="http://i.imgur.com/TGDG9ed.png" alt="image">
+	<img src="http://i.imgur.com/kmeUvxR.png" alt="image">
 </figure>
 
 ---
