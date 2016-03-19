@@ -28,7 +28,8 @@ The best addons for the DesnoGuns Mod:
 ## Creating a new addon
 
 As soon as I have time I'll write a complete reference for creating a new addon. But for now if you're already interested in adding new guns you can look at an example addon I made for addon-developers.<br>
-Here you can download it and see how it works and maybe you can create a new one: [Example Addon for developers](http://filecred.com/A5CFG56E)<br>
+Here you can download it and see how it works and maybe you can create a new one: [Example Addon for developers](http://filecred.com/A5CFG56E)
+
 • A modpkg file is a renamed .zip file with the extension of .modpkg
 
 ---
