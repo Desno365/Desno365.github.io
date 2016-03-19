@@ -27,7 +27,7 @@ The best addons for the DesnoGuns Mod:
 
 ## Creating a new addon
 
-As soon as I have time I'll write a complete reference for creating a new addon. But for now if you're already interested in adding new guns you can look at an example addon I made for addon-developers.
+As soon as I have time I'll write a complete reference for creating a new addon. But for now if you're already interested in adding new guns you can look at an example addon I made for addon-developers.<br>
 Here you can download it and see how it works and maybe you can create a new one: [Example Addon for developers](https://www.androidfilehost.com/?fid=24421527759884341)
 
 Please note that addons are in beta stage, you may find some bugs while making them. If you find a bug report it to me so I can fix it.

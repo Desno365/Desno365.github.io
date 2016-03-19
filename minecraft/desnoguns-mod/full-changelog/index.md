@@ -6,6 +6,14 @@ page-level-ads: true
 ---
 
 
+**DesnoGuns Mod r014**
+{% highlight text %}
+- FIX: finally fixed the arrows bouncing back bug! (only with BlockLauncher 1.12.3 or up)
+- FIX: fixed a critical bug when creating addons
+- UPDATE: reload in creative now is enabled by default (can be disabled in Settings)
+- UPDATE: some sounds improvements and changes
+{% endhighlight %}
+
 **DesnoGuns Mod r013**
 {% highlight text %}
 - NEW: easier installation, with just one .modpkg file that can be imported in BlockLauncher in the ModPE section

@@ -23,7 +23,7 @@ Guns. Weapons. Explosions. This is the DesnoGuns Mod! :D
 ## Installation instructions
 
 • Download the mod (.modpkg file).<br>
-• Open [BlockLauncher](https://play.google.com/store/apps/details?id=net.zhuoweizhang.mcpelauncher) and in <i>Manage ModPE scripts</i> import the mod from local storage.<br>
+• Open [BlockLauncher](https://play.google.com/store/apps/details?id=net.zhuoweizhang.mcpelauncher) and in <i>Manage ModPE scripts</i> import the modpkg file from local storage.<br>
 • Restart BlockLauncher and enjoy the mod!<br>
 
 • Optional: download the ["Desno365's Mods" app](https://play.google.com/store/apps/details?id=com.desno365.mods) from Google Play Store.
@@ -36,20 +36,20 @@ Guns. Weapons. Explosions. This is the DesnoGuns Mod! :D
 <br>
 • Need more help? Watch the [video tutorial on YouTube](http://youtu.be/uO72AmNn0u8):
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/7VwO6FcYBlo" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7VwO6FcYBlo" frameborder="0" allowfullscreen></iframe>
 
 ---
 
 ## Downloads
 
 <i>Minecraft Pocket Edition 0.14.0:</i><br>
-<i> --- DesnoGuns Mod <b>r013</b>:</i>
+<i> --- DesnoGuns Mod <b>r014</b>:</i>
 
 | Website | Support | Regular |
 |:--------|:-------:|:-------:|
-| Filecred:          | [Support download](http://adf.ly/1Y1a16) | [Regular download](http://filecred.com/A587G56D) |
-| MediaFire:         | [Support download](http://adf.ly/1Y1a4v) | [Regular download](http://www.mediafire.com/download/dtuh65n82p34d7x/DesnoGuns_Mod_r013_Desno365.modpkg) |
-| Android File Host: | [Support download](http://adf.ly/1Y1aHM) | [Regular download](https://mega.nz/#!OhYwnYzQ!tU9hqFohcPaW32bI24b3B7b49MpvVMq7BkdatA8w8Xs) |
+| Filecred:          | [Support download](http://adf.ly/1YYO0R) | [Regular download](http://filecred.com/A5CEG56E) |
+| MediaFire:         | [Support download](http://adf.ly/1YYO6P) | [Regular download](http://www.mediafire.com/download/yrah99o5m7nc8uk/DesnoGuns_Mod_r014_Desno365.modpkg) |
+| MEGA:              | [Support download](http://adf.ly/1YYOBc) | [Regular download](https://mega.nz/#!O5xHRQRL!7etdLVaeUM_qc9W85du-CB9BexEp7Ct9Yh15aqb7G4g) |
 |----
 {: .table}
 
@@ -181,6 +181,14 @@ Click an icon under the "**Crafting**" column to display the crafting recipe of 
 
 ## Changelog
 
+**DesnoGuns Mod r014**
+{% highlight text %}
+- FIX: finally fixed the arrows bouncing back bug! (only with BlockLauncher 1.12.3 or up)
+- FIX: fixed a critical bug when creating addons
+- UPDATE: reload in creative now is enabled by default (can be disabled in Settings)
+- UPDATE: some sounds improvements and changes
+{% endhighlight %}
+
 **DesnoGuns Mod r013**
 {% highlight text %}
 - NEW: easier installation, with just one .modpkg file that can be imported in BlockLauncher in the ModPE section
@@ -188,17 +196,6 @@ Click an icon under the "**Crafting**" column to display the crafting recipe of 
 - UPDATE: better information UI for guns specifications when using addons
 - FIX: binoculars not craftable
 - FIX: fixed a bug that showed the user a non-existent error with addons
-{% endhighlight %}
-
-**DesnoGuns Mod r012**
-{% highlight text %}
-- NEW: support for Minecraft PE 0.14.0
-- NEW: support for DesnoGuns addons, a new way to add new guns in the game for everyone!
-- NEW: Ray Gun
-- NEW: Binoculars
-- NEW: Zoom Binoculars (Pro item)
-- UPDATE: added the Juggernaut armor to the creative inventory
-- FIX: many bugs fixed
 {% endhighlight %}
 
 <br>
@@ -211,8 +208,7 @@ See the full changelog here:
 
 ## Known bugs and issues
 
-• With some devices (many Samsung devices) you can't move the aim while shooting. More information in the [Github issue tracker of the mod](https://github.com/Desno365/DesnoGuns-Mod/issues).<br>
-• If you shoot multiple arrows to a mob, sometimes, they bounce back to you and damage you. I made a workaround for this, you can enable it in the settings of the mod.<br><br>
+• With some devices (many Samsung devices) you can't move the aim while shooting. More information in the [Github issue tracker of the mod](https://github.com/Desno365/DesnoGuns-Mod/issues).<br><br>
 If you find a bug report it in the [minecraft-forum.net thread][thread] or use the [Github issue tracker](https://github.com/Desno365/DesnoGuns-Mod).
 
 ---
@@ -255,10 +251,10 @@ You can [follow me on Twitter](https://twitter.com/desno365) and subscribe to [m
 
 ## Copyrights
 
-All the code of the mod, and a few textures (more license details about the textures are inside the texture pack) are copyright of Dennis Motta (Desno365), and are licensed under the Creative Commons Attribution-NonCommercial 4.0 International License.
+All the code of the mod, and a few textures (more license details about the textures are inside the modpkg) are copyright of Dennis Motta (Desno365), and are licensed under the Creative Commons Attribution-NonCommercial 4.0 International License.
 To view a copy of this license, visit [http://creativecommo...nses/by-nc/4.0/](http://creativecommons.org/licenses/by-nc/4.0/) or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
 <br><br>
-Many other textures and some of the sounds (more details in the respective folders) are copyright of Flan and are extracted from his [Modern Weapons Pack](http://flansmod.com/content-pack/4/Modern_Weapons_Pack).
+Many other textures and some of the sounds (more details in the respective folders inside the modpkg) are copyright of Flan and are extracted from his [Modern Weapons Pack](http://flansmod.com/content-pack/4/Modern_Weapons_Pack).
 His work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.
 To view a copy of this license, visit [http://creativecommo...nses/by-nc-sa/3.0/](https://creativecommons.org/licenses/by-nc-sa/3.0/) or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.<br>
 Here the original license notice of his work: [http://flansmod.com/license](http://flansmod.com/license)
