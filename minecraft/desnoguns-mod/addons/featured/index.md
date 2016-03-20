@@ -41,6 +41,21 @@ page-level-ads: true
 
 ---
 
+## COD Ghost addon by Williamdu40
+
+• [Download the addon](http://www.mediafire.com/download/enoc7fmlw8ys15s/Cod-ghost+v2.0.zip)
+
+• Creator: [JignacJGT](https://twitter.com/Williamdu40)
+
+<figure class="half">
+	<img src="http://i.imgur.com/PRo41iL.jpg" alt="image">
+	<img src="http://i.imgur.com/iD3rrwe.jpg" alt="image">
+	<img src="http://i.imgur.com/lMwKDOV.jpg" alt="image">
+	<img src="http://i.imgur.com/FLL3CuN.jpg" alt="image">
+</figure>
+
+---
+
 ## Made a new addon?
 
 So you have created an addon for the DesnoGuns Mod and you want it featured here? That's great!<br>
