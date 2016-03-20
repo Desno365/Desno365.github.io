@@ -62,7 +62,8 @@ So you have created an addon for the DesnoGuns Mod and you want it featured here
 However there are some requirements your addon must fulfill:<br>
 • It must work without any error with the latest version of the DesnoGuns Mod.<br>
 • It must contain 3 or more guns, not less.<br>
-• You must give proper credits to the author(s) of the textures if they are not made by you.
+• You must give proper credits to the author(s) of the textures if they are not made by you.<br><br>
+• In future only .modpkg addon will be featured, now you can create an addon with a script and a texture pack and compress it in a zip but is highly recommend to make instead a .modpkg addon (see [Example Addon](http://filecred.com/A5CFG56E)).
 
 That's all, then you can <a href="mailto:{{ site.owner.email }}" title="Send a mail to {{ site.owner.name}}" target="_blank">send me a mail</a> or [send me a message on Twitter](https://twitter.com/desno365) with the download link of your addon or with the link of the blog/website where you posted your addon.
 
