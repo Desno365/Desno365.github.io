@@ -19,7 +19,7 @@ comments: true
 
 ## Information
 
-• The Laser Guns Addon for the DesnoGuns Mod adds awesome new futuristic guns in Minecraft PE.
+The Laser Guns Addon for the DesnoGuns Mod adds awesome new futuristic guns in Minecraft PE.
 
 ---
 
