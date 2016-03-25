@@ -11,7 +11,7 @@ page-level-ads: true
 
 * [Portal 2 Mod]({{ site.url }}/minecraft/portal2-mod)
 
-* [Laser Mod]({{ site.url }}/minecraft/laser-mod)
+* [Laser Guns Addon]({{ site.url }}/minecraft/laser-mod)
 
 * [Turrets Mod]({{ site.url }}/minecraft/turrets-mod)
 

@@ -1,11 +1,14 @@
 ---
 layout: page
-title: Laser Mod
-excerpt: "Laser Weapons in Minecraft PE"
+title: Laser Guns Addon
+excerpt: "Laser Guns in Minecraft PE"
 comments: true
 ---
 
-![Minecraft Laser by Desno365]({{ site.url }}/minecraft/laser-mod/images/laser-mod-image.jpg)
+<div style="text-align:center;">
+  <img alt="Laser Guns Addon"
+      src="/minecraft/laser-mod/images/laser-guns-addon.png" />
+</div>
 
 * Table of Contents
 {:toc}
@@ -14,47 +17,39 @@ comments: true
 
 ---
 
-## Features
+## Information
 
-• The laser of the Laser Gun destroys the block that you are looking.<br>
-• The Laser Bazooka shoot a laser bullet that will explode when it touches the ground.<br>
-• The Laser Sniper Rifle shoot a laser bullet that kill almost every mob it hit.<br>
-• Tap the settings icon to open the UI with Information and Settings for the mod.<br>
-• There are a lot of settings for the weapons, so you can personalize them.<br>
-• You can find the Laser Weapons also in the creative inventory.
+• The Laser Guns Addon for the DesnoGuns Mod adds awesome new futuristic guns in Minecraft PE.
 
 ---
 
 ## Installation instructions
 
-• Download the zip that contains all the necessary files.<br>
-• Extract it with your [file explorer/manager](http://play.google.com/store/search?q=file%20explorer) (I recommend [ES File Explorer](https://play.google.com/store/apps/details?id=com.estrongs.android.pop)).<br>
-• Install textures.<br>
-• Import the script from local storage in Blocklauncher and enable it.<br>
-• Enjoy! ;)
+• Make sure you have installed the [DesnoGuns Mod]({{ site.url }}/minecraft/desnoguns-mod), without it this addon won't work.<br>
+• Download the addon (.modpkg file).<br>
+• Open [BlockLauncher](https://play.google.com/store/apps/details?id=net.zhuoweizhang.mcpelauncher) and in <i>Manage ModPE scripts</i> import the modpkg file from local storage.<br>
+• Restart BlockLauncher and enjoy the addon!<br>
 
 • Optional: download the ["Desno365's Mods" app](https://play.google.com/store/apps/details?id=com.desno365.mods) from Google Play Store.
 
 <a href="https://play.google.com/store/apps/details?id=com.desno365.mods">
   <img alt="Get it on Google Play"
-       src="/images/en_generic_rgb_wo_45.png" />
+    src="/images/en_generic_rgb_wo_45.png" />
 </a>
 
 ---
 
 ## Downloads
 
-<i>Minecraft Pocket Edition 0.10.4 & 0.9.5:</i><br>
-<i> --- Laser Mod <b>r003</b>:</i>
+<i>Minecraft Pocket Edition 0.14.0:</i><br>
+<i> --- Laser Guns Addon <b>r004</b>:</i>
 
 | Website | Support | Regular |
 |:--------|:-------:|:-------:|
-| MediaFire:       | [Support download](http://adf.ly/rbxvX) | [Regular download](http://www.mediafire.com/download/gv3k962ozzcnovz/Laser_Mod_r003_Desno365.zip) |
-| MEGA:            | [Support download](http://adf.ly/rby2l) | [Regular download](https://mega.co.nz/#!3wYAUI4A!SDzI5RV1TBoeTcgh_aTKuyZwD1_SM-zAE06N9z_WeSU) |
+| Filecred:          | [Support download](http://adf.ly/1YlXtP) | [Regular download](http://filecred.com/A5ECG56F) |
+| MediaFire:         | [Support download](http://adf.ly/1YlXvz) | [Regular download](http://www.mediafire.com/download/2c9gm3n8n371xg5/Laser_Guns_Addon_r004_Desno365.modpkg) |
 |----
 {: .table}
-
-• Remember to read the "Installation instructions" section before downloading.
 
 {% include ad-content.html %}
 
@@ -63,33 +58,28 @@ comments: true
 ## Screenshots
 
 <figure>
-  <img src="{{ site.url }}/minecraft/laser-mod/images/laser-gun.jpg" alt="laser gun">
+  <img src="{{ site.url }}/minecraft/laser-mod/images/laser-guns-creative.jpeg" alt="before laser gun">
+  <figcaption>All the Laser Guns are in the creative inventory</figcaption>
+</figure>
+
+<figure>
+  <img src="{{ site.url }}/minecraft/laser-mod/images/laser-gun.jpeg" alt="laser gun">
   <figcaption>The Laser Gun</figcaption>
 </figure>
 
 <figure>
-  <img src="{{ site.url }}/minecraft/laser-mod/images/laser-bazooka.jpg" alt="laser bazooka">
+  <img src="{{ site.url }}/minecraft/laser-mod/images/laser-bazooka.jpeg" alt="laser bazooka">
   <figcaption>The Laser Bazooka</figcaption>
 </figure>
 
 <figure>
-  <img src="{{ site.url }}/minecraft/laser-mod/images/laser-sniper-rifle.jpg" alt="laser sniper rifle">
-  <figcaption>The Laser Sniper Rifle</figcaption>
+  <img src="{{ site.url }}/minecraft/laser-mod/images/laser-sniper-rifle.jpeg" alt="laser sniper rifle">
+  <figcaption>The Laser Sniper Rifle when aiming</figcaption>
 </figure>
 
 <figure>
-  <img src="{{ site.url }}/minecraft/laser-mod/images/ui-laser-mod.jpg" alt="ui laser mod">
-  <figcaption>The UI for Settings and Informations</figcaption>
-</figure>
-
-<figure>
-  <img src="{{ site.url }}/minecraft/laser-mod/images/before-laser-gun.jpg" alt="before laser gun">
-  <figcaption>A world before the Laser Gun was invented</figcaption>
-</figure>
-
-<figure>
-  <img src="{{ site.url }}/minecraft/laser-mod/images/after-laser-gun.jpg" alt="after laser gun">
-  <figcaption>The same world after the invention of the Laser GunI</figcaption>
+  <img src="{{ site.url }}/minecraft/laser-mod/images/laser-rail-gun.jpeg" alt="ui laser mod">
+  <figcaption>The Laser Rail Gun</figcaption>
 </figure>
 
 ---
@@ -100,9 +90,10 @@ Click an icon under the "**Crafting**" column to display the crafting recipe of 
 
 | Item                         | ID       | Crafting |
 |:-----------------------------|:--------:|:--------:|
-| Laser Gun:                   | 427      | <figure><a href="{{ site.url }}/minecraft/laser-mod/images/how-to-craft/crafting/laserGun.jpg"><img src="{{ site.url }}/minecraft/laser-mod/images/how-to-craft/icons/laserGun.png" alt="image"></a></figure> |
-| Laser Bazooka:               | 428      | <figure><a href="{{ site.url }}/minecraft/laser-mod/images/how-to-craft/crafting/laserBazooka.jpg"><img src="{{ site.url }}/minecraft/laser-mod/images/how-to-craft/icons/laserBazooka.png" alt="image"></a></figure> |
-| Laser Sniper Rifle:          | 429      | <figure><a href="{{ site.url }}/minecraft/laser-mod/images/how-to-craft/crafting/laserSniperRifle.jpg"><img src="{{ site.url }}/minecraft/laser-mod/images/how-to-craft/icons/laserSniperRifle.png" alt="image"></a></figure> |
+| Laser Gun:                   | 2427      | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/assault-rifle.png"><img src="{{ site.url }}/minecraft/laser-mod/images/how-to-craft/icons/laserGun.png" alt="image"></a></figure> |
+| Laser Bazooka:               | 2428      | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/launcher.png"><img src="{{ site.url }}/minecraft/laser-mod/images/how-to-craft/icons/laserBazooka.png" alt="image"></a></figure> |
+| Laser Sniper Rifle:          | 2429      | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/sniper-rifle.png"><img src="{{ site.url }}/minecraft/laser-mod/images/how-to-craft/icons/laserSniperRifle.png" alt="image"></a></figure> |
+| Laser Rail Gun:              | 2430      | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/minigun.png"><img src="{{ site.url }}/minecraft/laser-mod/images/how-to-craft/icons/laserRailGun.png" alt="image"></a></figure> |
 |----
 {: .table}
 
@@ -110,10 +101,10 @@ Click an icon under the "**Crafting**" column to display the crafting recipe of 
 
 ## Changelog
 
-**Laser Mod r003**
+**Laser Guns r004**
 {% highlight text %}
-- NEW: new item: the Laser Sniper Rifle.
-- UPDATE: updated the bazooka shooting system, now you don't have to wait the explosion of the first bullet for shooting a second bullet.
+- NEW: the Laser Mod has just become the Laser Guns Addon
+- NEW: new gun, the Laser Rail Gun
 {% endhighlight %}
 
 <br>
@@ -126,7 +117,7 @@ See the full changelog here:
 
 ## Known bugs and issues
 
-• Laser Gun: sometimes the block destroyed it's not the block pointed with the laser.<br><br>
+• There aren't known bugs.<br><br>
 If you find a bug report it in the [minecraft-forum.net thread][thread].
 
 ---
@@ -158,12 +149,6 @@ To view a copy of this license, visit [http://creativecommo...nses/by-nc/4.0/](h
 <br><br>
 All the following trademarks are the properties of their respective owners as listed below.<br>
 Minecraft ®/TM & © 2009-2013 Mojang / Notch
-
----
-
-## Credits
-
-• Thanks to <i>Zicoz</i> for the textures.
 
 ---
 

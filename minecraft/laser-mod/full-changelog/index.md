@@ -1,9 +1,15 @@
 ---
 layout: page
-title: Laser Mod full changelog
-excerpt: "Laser Mod full changelog"
+title: Laser Guns full changelog
+excerpt: "Laser Guns full changelog"
 page-level-ads: true
 ---
+
+**Laser Guns r004**
+{% highlight text %}
+- NEW: the Laser Mod has just become the Laser Guns Addon
+- NEW: new gun, the Laser Rail Gun
+{% endhighlight %}
 
 **Laser Mod r003**
 {% highlight text %}
