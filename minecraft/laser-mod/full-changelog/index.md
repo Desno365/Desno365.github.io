@@ -29,7 +29,7 @@ page-level-ads: true
 {% endhighlight %}
 
 
-<br>Return to the Laser Mod web page:
+<br>Return to the Laser Guns web page:
 
-<div markdown="0"><a href="{{ site.url }}/minecraft/laser-mod/#changelog" class="btn">Laser Mod</a></div>
+<div markdown="0"><a href="{{ site.url }}/minecraft/laser-mod/#changelog" class="btn">Laser Guns Addon</a></div>
 
