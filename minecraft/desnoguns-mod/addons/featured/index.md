@@ -13,6 +13,19 @@ page-level-ads: true
 
 ---
 
+## Laser Guns Addon by Desno365
+
+• [Download the addon]({{ site.url }}/minecraft/laser-mod)
+
+<figure class="half">
+	<img src="{{ site.url }}/minecraft/laser-mod/images/laser-bazooka.jpeg" alt="image">
+	<img src="{{ site.url }}/minecraft/laser-mod/images/laser-gun.jpeg" alt="image">
+	<img src="{{ site.url }}/minecraft/laser-mod/images/laser-rail-gun.jpeg" alt="image">
+	<img src="{{ site.url }}/minecraft/laser-mod/images/laser-guns-creative.jpeg" alt="image">
+</figure>
+
+---
+
 ## Black Ops 3 addon by Black_Death
 
 • [Download the addon](http://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-mods-tools/2625220-addon-black-ops-3-desnoguns-addon-bo3-guns-in)
