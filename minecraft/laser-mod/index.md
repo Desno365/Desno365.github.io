@@ -28,7 +28,7 @@ The Laser Guns Addon for the DesnoGuns Mod adds awesome new futuristic guns in M
 • Make sure you have installed the [DesnoGuns Mod]({{ site.url }}/minecraft/desnoguns-mod), without it this addon won't work.<br>
 • Download the addon (.modpkg file).<br>
 • Open [BlockLauncher](https://play.google.com/store/apps/details?id=net.zhuoweizhang.mcpelauncher) and in <i>Manage ModPE scripts</i> import the modpkg file from local storage.<br>
-• Restart BlockLauncher and enjoy the addon!<br>
+• Restart BlockLauncher and enjoy the addon!
 
 • Optional: download the ["Desno365's Mods" app](https://play.google.com/store/apps/details?id=com.desno365.mods) from Google Play Store.
 

@@ -24,7 +24,7 @@ Guns. Weapons. Explosions. This is the DesnoGuns Mod! :D
 
 • Download the mod (.modpkg file).<br>
 • Open [BlockLauncher](https://play.google.com/store/apps/details?id=net.zhuoweizhang.mcpelauncher) and in <i>Manage ModPE scripts</i> import the modpkg file from local storage.<br>
-• Restart BlockLauncher and enjoy the mod!<br>
+• Restart BlockLauncher and enjoy the mod!
 
 • Optional: download the ["Desno365's Mods" app](https://play.google.com/store/apps/details?id=com.desno365.mods) from Google Play Store.
 

@@ -7,13 +7,11 @@ page-level-ads: true
 ---
 
 ## How to install an addon
-• An addon for the DesnoGuns Mod is like a mod with a texture pack, so it should be installed like any other MCPE mod.<br>
 
-• Download the zip that contains the mod (addon) and the texture pack.<br>
-• Extract it with your [file explorer/manager](http://play.google.com/store/search?q=file%20explorer).<br>
-• Install the texture pack in BlockLauncher.<br>
-• Import the script (addon) from local storage in BlockLauncher and enable it.<br>
-• <b>Restart BlockLauncher</b>, if you don't restart it the addon won't be loaded.
+• Make sure you have installed the [DesnoGuns Mod]({{ site.url }}/minecraft/desnoguns-mod), without it addons won't work.<br>
+• Download the addon (modpkg file).<br>
+• Open [BlockLauncher](https://play.google.com/store/apps/details?id=net.zhuoweizhang.mcpelauncher) and in <i>Manage ModPE scripts</i> import the modpkg file from local storage.<br>
+• Restart BlockLauncher and enjoy the addon!
 
 ---
 
