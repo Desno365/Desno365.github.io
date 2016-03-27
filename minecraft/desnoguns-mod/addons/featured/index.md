@@ -41,6 +41,21 @@ page-level-ads: true
 
 ---
 
+## European Guns addon by Heades
+
+• [Download the addon](http://mcpeuniverse.com/mods/european-gun-addon-v1-for-desnogun-mod/)
+
+• Creator: Heades
+
+<figure class="half">
+	<img src="http://i.imgur.com/Xuc222b.jpg" alt="image">
+	<img src="http://i.imgur.com/zeYc2Cj.jpg" alt="image">
+	<img src="http://i.imgur.com/hONQZ3X.jpg" alt="image">
+	<img src="http://i.imgur.com/s3S91Yx.jpg" alt="image">
+</figure>
+
+---
+
 ## More Guns addon by JignacJGT
 
 • [Download the addon](http://mcpeuniverse.com/mods/more-guns-addons-for-the-desnoguns-mod-2/)
@@ -76,7 +91,7 @@ However there are some requirements your addon must fulfill:<br>
 • It must work without any error with the latest version of the DesnoGuns Mod.<br>
 • It must contain 3 or more guns, not less.<br>
 • You must give proper credits to the author(s) of the textures if they are not made by you.<br><br>
-• In future only .modpkg addon will be featured, now you can create an addon with a script and a texture pack and compress it in a zip but is highly recommend to make instead a .modpkg addon (see [Example Addon](http://filecred.com/A5CFG56E)).
+• It must be a .modpkg file.
 
 That's all, then you can <a href="mailto:{{ site.owner.email }}" title="Send a mail to {{ site.owner.name}}" target="_blank">send me a mail</a> or [send me a message on Twitter](https://twitter.com/desno365) with the download link of your addon or with the link of the blog/website where you posted your addon.
 
