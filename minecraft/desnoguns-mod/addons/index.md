@@ -9,7 +9,7 @@ page-level-ads: true
 ## How to install an addon
 
 • Make sure you have installed the [DesnoGuns Mod]({{ site.url }}/minecraft/desnoguns-mod), without it addons won't work.<br>
-• Download the addon (modpkg file).<br>
+• Download the addon you want to install (addons are modpkg files).<br>
 • Open [BlockLauncher](https://play.google.com/store/apps/details?id=net.zhuoweizhang.mcpelauncher) and in <i>Manage ModPE scripts</i> import the modpkg file from local storage.<br>
 • Restart BlockLauncher and enjoy the addon!
 

@@ -43,20 +43,35 @@ page-level-ads: true
 
 ## European Guns addon by Heades
 
-• [Download the addon](http://mcpeuniverse.com/mods/european-gun-addon-v1-for-desnogun-mod/)
+• [Download the addon](http://mcpeuniverse.com/mods/european-gun-addon-v2/)
 
 • Creator: Heades
 
 <figure class="half">
-	<img src="http://i.imgur.com/Xuc222b.jpg" alt="image">
-	<img src="http://i.imgur.com/zeYc2Cj.jpg" alt="image">
-	<img src="http://i.imgur.com/hONQZ3X.jpg" alt="image">
-	<img src="http://i.imgur.com/s3S91Yx.jpg" alt="image">
+	<img src="http://i.imgur.com/Plrv3GL.jpg" alt="image">
+	<img src="http://i.imgur.com/alUFTrA.jpg" alt="image">
+	<img src="http://i.imgur.com/xW5aDRh.jpg" alt="image">
+	<img src="http://i.imgur.com/NisfA2C.jpg" alt="image">
+</figure>
+
+---
+
+## German Guns addon by pilzie LP
+
+• [Download the addon](http://mcpeuniverse.com/mods/germanguns-addon-for-desnoguns/)
+
+• Creator: [pilzie LP](https://twitter.com/pilzieLP)
+
+<figure class="half">
+	<img src="http://i.imgur.com/LJivqfF.png" alt="image">
+	<img src="http://i.imgur.com/DRSXxem.jpg" alt="image">
 </figure>
 
 ---
 
 ## More Guns addon by JignacJGT
+
+• Please note: this addon uses an old format. It is not a modpkg, it is a zip so you need to extract the files and import the script and the texture pack separately.
 
 • [Download the addon](http://mcpeuniverse.com/mods/more-guns-addons-for-the-desnoguns-mod-2/)
 
@@ -71,9 +86,11 @@ page-level-ads: true
 
 ## COD Ghost addon by Williamdu40
 
+• Please note: this addon uses an old format. It is not a modpkg, it is a zip so you need to extract the files and import the script and the texture pack separately.
+
 • [Download the addon](http://www.mediafire.com/download/enoc7fmlw8ys15s/Cod-ghost+v2.0.zip)
 
-• Creator: [JignacJGT](https://twitter.com/Williamdu40)
+• Creator: [Williamdu40](https://twitter.com/Williamdu40)
 
 <figure class="half">
 	<img src="http://i.imgur.com/PRo41iL.jpg" alt="image">
