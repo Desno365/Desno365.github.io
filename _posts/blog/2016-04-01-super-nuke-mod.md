@@ -28,10 +28,10 @@ It allows you to destroy all your world with just a single tap*
 
 • Download the mod.<br>
 • If you can't download the mod, because actually is impossible, try to:<br>
-• You put your head in,<br>
-• You take your head out,<br>
-• You put your head in and you shake it all about.<br>
-• You do the hokey pokey and you turn yourself around.<br>
+• Put your head in,<br>
+• Take your head out,<br>
+• Put your head in and you shake it all about.<br>
+• Do the hokey pokey and you turn yourself around.<br>
 • That's what it's all about.<br>
 • Then the mod should work.
 
