@@ -43,13 +43,13 @@ page-level-ads: true
 
 ## European Guns addon by Heades
 
-• [Download the addon](http://mcpeuniverse.com/mods/european-gun-addon-v2/)
+• [Download the addon](http://al.ly/65Pf)
 
 • Creator: Heades
 
 <figure class="half">
-	<img src="http://i.imgur.com/Plrv3GL.jpg" alt="image">
-	<img src="http://i.imgur.com/alUFTrA.jpg" alt="image">
+	<img src="http://i.imgur.com/7eRx95c.jpg" alt="image">
+	<img src="http://i.imgur.com/LOT9SX5.jpg" alt="image">
 	<img src="http://i.imgur.com/xW5aDRh.jpg" alt="image">
 	<img src="http://i.imgur.com/NisfA2C.jpg" alt="image">
 </figure>
