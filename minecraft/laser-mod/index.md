@@ -90,9 +90,9 @@ Click an icon under the "**Crafting**" column to display the crafting recipe of 
 
 | Item                         | ID       | Crafting |
 |:-----------------------------|:--------:|:--------:|
-| Laser Gun:                   | 2427      | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/assault-rifle.png"><img src="{{ site.url }}/minecraft/laser-mod/images/how-to-craft/icons/laserGun.png" alt="image"></a></figure> |
-| Laser Bazooka:               | 2428      | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/launcher.png"><img src="{{ site.url }}/minecraft/laser-mod/images/how-to-craft/icons/laserBazooka.png" alt="image"></a></figure> |
-| Laser Sniper Rifle:          | 2429      | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/sniper-rifle.png"><img src="{{ site.url }}/minecraft/laser-mod/images/how-to-craft/icons/laserSniperRifle.png" alt="image"></a></figure> |
+| Laser Gun:                   | 2427      | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/assault-rifle.png"><img src="{{ site.url }}/minecraft/laser-mod/images/how-to-craft/icons/LaserGun.png" alt="image"></a></figure> |
+| Laser Bazooka:               | 2428      | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/launcher.png"><img src="{{ site.url }}/minecraft/laser-mod/images/how-to-craft/icons/LaserBazooka.png" alt="image"></a></figure> |
+| Laser Sniper Rifle:          | 2429      | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/sniper-rifle.png"><img src="{{ site.url }}/minecraft/laser-mod/images/how-to-craft/icons/LaserSniperRifle.png" alt="image"></a></figure> |
 | Laser Rail Gun:              | 2430      | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/minigun.png"><img src="{{ site.url }}/minecraft/laser-mod/images/how-to-craft/icons/LaserRailGun.png" alt="image"></a></figure> |
 |----
 {: .table}
