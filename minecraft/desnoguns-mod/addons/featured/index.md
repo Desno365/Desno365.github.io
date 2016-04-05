@@ -43,7 +43,7 @@ page-level-ads: true
 
 ## European Guns addon by Heades
 
-• [Download the addon](http://al.ly/65Pf)
+• [Download the addon](http://hmcpemods.blogspot.it/2016/04/european-gun-addon-v3-for-desnogun-mod.html)
 
 • Creator: Heades
 
