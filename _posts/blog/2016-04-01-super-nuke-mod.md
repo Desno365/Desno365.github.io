@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Super Nuke Mod"
+title: "Super Nuke Mod (April Fools)"
 modified:
 categories: blog
 excerpt: ""
