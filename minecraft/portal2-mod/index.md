@@ -27,12 +27,9 @@ Five different Portal Guns, the Aerial Faith Plate, Propulsion and Repulsion gel
 
 ## Installation instructions
 
-• Download the zip that contains all the necessary files.<br>
-• Extract it with your [file explorer/manager](http://play.google.com/store/search?q=file%20explorer) (I recommend [ES File Explorer](https://play.google.com/store/apps/details?id=com.estrongs.android.pop)).<br>
-• <u>IMPORTANT</u>: Move with your file manager the "portal-music" folder in the "/sdcard/games/com.mojang/" folder.<br>
-• Install textures in BlockLauncher.<br>
-• Import the script from local storage in BlockLauncher and enable it.<br>
-• Enjoy! ;)
+• Download the mod (.modpkg file).<br>
+• Open [BlockLauncher](https://play.google.com/store/apps/details?id=net.zhuoweizhang.mcpelauncher) and in <i>Manage ModPE scripts</i> import the modpkg file from local storage.<br>
+• Restart BlockLauncher and enjoy the mod!
 
 • Optional: download the ["Desno365's Mods" app](https://play.google.com/store/apps/details?id=com.desno365.mods) from Google Play Store.
 
@@ -41,28 +38,19 @@ Five different Portal Guns, the Aerial Faith Plate, Propulsion and Repulsion gel
 	   src="/images/en_generic_rgb_wo_45.png" />
 </a>
 
-<br>
-• Need help with installing the mod? Watch the [video tutorial on YouTube](http://youtu.be/7d3kTQsTnyM):
-
-<iframe width="560" height="315" src="http://www.youtube.com/embed/7d3kTQsTnyM" frameborder="0"> </iframe>
-
 ---
 
 ## Downloads
 
 <i>Minecraft Pocket Edition 0.14.0:</i><br>
-<i> --- Portal 2 Mod <b>r013</b>:</i>
+<i> --- Portal 2 Mod <b>r014</b>:</i>
 
 | Website | Support | Regular |
 |:--------|:-------:|:-------:|
-| Filecred:          | [Support download](http://adf.ly/1XTWPa) | [Regular download](http://filecred.com/A55CG56C) |
-| MediaFire:         | [Support download](http://adf.ly/1XTWqt) | [Regular download](http://www.mediafire.com/download/y2wewzcb886jpmt/Portal_Mod_r013_Desno365.zip) |
-| Android File Host: | [Support download](http://adf.ly/1XTWTm) | [Regular download](https://www.androidfilehost.com/?fid=24421527759888141) |
+| Filecred:          | [Support download](http://adf.ly/1Z8GC8) | [Regular download](http://filecred.com/A7BEG570) |
+| MediaFire:         | [Support download](http://adf.ly/1Z8GAe) | [Regular download](http://www.mediafire.com/download/po3wf08f8ldifhz/Portal_2_Mod_r014_Desno365.modpkg) |
 |----
 {: .table}
-
-• Remember to read the "Installation instructions" section before downloading.
-<br>
 
 {% include ad-content.html %}
 
@@ -118,15 +106,17 @@ Click an icon under the "**Crafting**" column to display the crafting recipe of 
 
 ## Changelog
 
+**Portal 2 Mod r014**
+{% highlight text %}
+- NEW: easier installation, with just one .modpkg file. Manual sounds installation is no longer necessary!
+- UPDATE: blocks of the mod moved in the decorative blocks tab in the creative inventory
+- UPDATE: Long Fall Boots added in the creative inventory
+- FIX: fixed black text on dark background in the information UI
+{% endhighlight %}
+
 **Portal 2 Mod r013**
 {% highlight text %}
 - NEW: support for Minecraft PE 0.14.0
-{% endhighlight %}
-
-**Portal 2 Mod r012**
-{% highlight text %}
-- NEW: support for Minecraft PE 0.13.1
-- FIX: fixed some minor bugs
 {% endhighlight %}
 
 <br>

@@ -6,6 +6,14 @@ page-level-ads: true
 ---
 
 
+**Portal 2 Mod r014**
+{% highlight text %}
+- NEW: easier installation, with just one .modpkg file. Manual sounds installation is no longer necessary!
+- UPDATE: blocks of the mod moved in the decorative blocks tab in the creative inventory
+- UPDATE: Long Fall Boots added in the creative inventory
+- FIX: fixed black text on dark background in the information UI
+{% endhighlight %}
+
 **Portal 2 Mod r013**
 {% highlight text %}
 - NEW: support for Minecraft PE 0.14.0
