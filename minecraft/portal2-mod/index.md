@@ -42,7 +42,7 @@ Five different Portal Guns, the Aerial Faith Plate, Propulsion and Repulsion gel
 
 ## Downloads
 
-<i>Minecraft Pocket Edition 0.14.0:</i><br>
+<i>Minecraft Pocket Edition 0.14.1:</i><br>
 <i> --- Portal 2 Mod <b>r014</b>:</i>
 
 | Website | Support | Regular |
