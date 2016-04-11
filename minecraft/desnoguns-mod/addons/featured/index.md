@@ -41,6 +41,21 @@ page-level-ads: true
 
 ---
 
+## Sci-Fi Guns addon by alifrm
+
+• [Download the addon](https://www.dropbox.com/s/tx2nkpqmq1swl24/Sci-Fi_Guns_Addon_by_alifrm%5B2%5D.modpkg?dl=0)
+
+• Creator: alifrm
+
+<figure class="half">
+	<img src="http://i.imgur.com/Mp7fIbf.png" alt="image">
+	<img src="http://i.imgur.com/y9gJ2ZV.png" alt="image">
+	<img src="http://i.imgur.com/vbXVTdE.png" alt="image">
+	<img src="http://i.imgur.com/VNNa2uu.png" alt="image">
+</figure>
+
+---
+
 ## European Guns addon by Heades
 
 • [Download the addon](http://hmcpemods.blogspot.it/2016/04/european-gun-addon-v3-for-desnogun-mod.html)
