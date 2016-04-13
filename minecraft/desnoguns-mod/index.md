@@ -47,9 +47,8 @@ Guns. Weapons. Explosions. This is the DesnoGuns Mod! :D
 
 | Website | Support | Regular |
 |:--------|:-------:|:-------:|
-| Filecred:          | [Support download](http://adf.ly/1YYO0R) | [Regular download](http://filecred.com/A5CEG56E) |
-| MediaFire:         | [Support download](http://adf.ly/1YYO6P) | [Regular download](http://www.mediafire.com/download/yrah99o5m7nc8uk/DesnoGuns_Mod_r014_Desno365.modpkg) |
-| MEGA:              | [Support download](http://adf.ly/1YYOBc) | [Regular download](https://mega.nz/#!O5xHRQRL!7etdLVaeUM_qc9W85du-CB9BexEp7Ct9Yh15aqb7G4g) |
+| Filecred:          | [Support download](http://adf.ly/1ZPJxw) | [Regular download](http://filecred.com/A7D6G570) |
+| MediaFire:         | [Support download](http://adf.ly/1ZPK6S) | [Regular download](http://www.mediafire.com/download/md1ybvfn8v2k53z/DesnoGuns_Mod_r015_Desno365.modpkg) |
 |----
 {: .table}
 
@@ -181,21 +180,19 @@ Click an icon under the "**Crafting**" column to display the crafting recipe of 
 
 ## Changelog
 
+**DesnoGuns Mod r015**
+{% highlight text %}
+- UPDATE: added ammunition items and the medical kit in the food & potions tab in the creative inventory
+- FIX: fixed sounds interruptions
+- FIX: fixed crash when clicking the reload text while shooting
+{% endhighlight %}
+
 **DesnoGuns Mod r014**
 {% highlight text %}
 - FIX: finally fixed the arrows bouncing back bug! (only with BlockLauncher 1.12.3 or up)
 - FIX: fixed a critical bug when creating addons
 - UPDATE: reload in creative now is enabled by default (can be disabled in Settings)
 - UPDATE: some sounds improvements and changes
-{% endhighlight %}
-
-**DesnoGuns Mod r013**
-{% highlight text %}
-- NEW: easier installation, with just one .modpkg file that can be imported in BlockLauncher in the ModPE section
-- UPDATE: offline sounds installation
-- UPDATE: better information UI for guns specifications when using addons
-- FIX: binoculars not craftable
-- FIX: fixed a bug that showed the user a non-existent error with addons
 {% endhighlight %}
 
 <br>
@@ -267,8 +264,7 @@ Minecraft ®/TM & © 2009-2013 Mojang / Notch
 ## Credits
 
 • Thanks to <i>Flan ([@jamioflan](https://twitter.com/jamioflan))</i> for the textures and the sounds. He made a great work with the Flan's Mod for Minecraft PC, and also he released it with a Creative Commons license (that's why I can use them). If you want to support him for the things he has made you can make a donation on his [Patreon page](http://www.patreon.com/jamioflan).<br>
-• Thanks to <i>MyNameIsAnti ([@AntiModPE](https://twitter.com/AntiModPE))</i> for the render of the grenade and for some lines of code!<br>
-• Thanks to <i>TBPM ([@TBPM_MODDER](https://twitter.com/TBPM_MODDER))</i> for his idea of decoding images with base64.<br>
+• Thanks to <i>MyNameIsAnti ([@AntiModPE](https://twitter.com/AntiModPE))</i> for the render of the grenade and for some lines of code.<br>
 • Thanks to <i>[Prayingmantis13](http://www.minecraftforum.net/members/Prayingmantis13)</i> for the bullet texture.<br>
 
 ---

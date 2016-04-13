@@ -6,6 +6,13 @@ page-level-ads: true
 ---
 
 
+**DesnoGuns Mod r015**
+{% highlight text %}
+- UPDATE: added ammunition items and the medical kit in the food & potions tab in the creative inventory
+- FIX: fixed sounds interruptions
+- FIX: fixed crash when clicking the reload text while shooting
+{% endhighlight %}
+
 **DesnoGuns Mod r014**
 {% highlight text %}
 - FIX: finally fixed the arrows bouncing back bug! (only with BlockLauncher 1.12.3 or up)
