@@ -38,6 +38,11 @@ Five different Portal Guns, the Aerial Faith Plate, Propulsion and Repulsion gel
 	   src="/images/en_generic_rgb_wo_45.png" />
 </a>
 
+<br>
+• Need more help? Watch the [video tutorial on YouTube](https://youtu.be/EGfUQiSINTU):
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EGfUQiSINTU" frameborder="0" allowfullscreen></iframe>
+
 ---
 
 ## Downloads
