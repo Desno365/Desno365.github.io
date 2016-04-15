@@ -184,9 +184,9 @@ All the following trademarks are the properties of their respective owners as li
 
 • Thanks to <i>iChun ([@ohaiiChun](https://twitter.com/ohaiiChun)) for a few images extracted from his mod.<br>
 • Thanks to <i>[Sayomi_Inoue](http://www.minecraftforum.net/members/Sayomi_Inoue)</i> for [his textures](http://www.minecraftforum.net/forums/mapping-and-modding/resource-packs/2132158-16x-32x-1-8-x-3d-models-precisely-portal-and).<br>
-• Thanks to <i>TBPM ([@TBPM_MODDER](https://twitter.com/TBPM_MODDER))</i> for his idea of decoding images with base64.<br>
 • Thanks to <i>MyNameIsAnti ([@AntiModPE](https://twitter.com/AntiModPE))</i> that made for me a fantastic render for the turret.<br>
-• Thanks to <i>[MC_miner_bros](http://www.minecraftforum.net/members/MC_miner_bros)</i> for some beautiful textures.
+• Thanks to <i>[MC_miner_bros](http://www.minecraftforum.net/members/MC_miner_bros)</i> for some beautiful textures.<br>
+• Thanks to <i>[julianwi](https://github.com/julianwi)</i> for blocks IDs optimization.
 
 ---
 
