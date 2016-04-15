@@ -84,38 +84,6 @@ page-level-ads: true
 
 ---
 
-## More Guns addon by JignacJGT
-
-• Please note: this addon uses an old format. It is not a modpkg, it is a zip so you need to extract the files and import the script and the texture pack separately.
-
-• [Download the addon](http://mcpeuniverse.com/mods/more-guns-addons-for-the-desnoguns-mod-2/)
-
-• Creator: [JignacJGT](https://twitter.com/JignacJGT)
-
-<figure class="half">
-	<img src="http://i.imgur.com/TGDG9ed.png" alt="image">
-	<img src="http://i.imgur.com/kmeUvxR.png" alt="image">
-</figure>
-
----
-
-## COD Ghost addon by Williamdu40
-
-• Please note: this addon uses an old format. It is not a modpkg, it is a zip so you need to extract the files and import the script and the texture pack separately.
-
-• [Download the addon](http://www.mediafire.com/download/enoc7fmlw8ys15s/Cod-ghost+v2.0.zip)
-
-• Creator: [Williamdu40](https://twitter.com/Williamdu40)
-
-<figure class="half">
-	<img src="http://i.imgur.com/PRo41iL.jpg" alt="image">
-	<img src="http://i.imgur.com/iD3rrwe.jpg" alt="image">
-	<img src="http://i.imgur.com/lMwKDOV.jpg" alt="image">
-	<img src="http://i.imgur.com/FLL3CuN.jpg" alt="image">
-</figure>
-
----
-
 ## Made a new addon?
 
 So you have created an addon for the DesnoGuns Mod and you want it featured here? That's great!<br>
