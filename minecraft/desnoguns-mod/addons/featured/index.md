@@ -17,6 +17,8 @@ page-level-ads: true
 
 • [Download the addon]({{ site.url }}/minecraft/laser-mod)
 
+• Creator: [Desno365]({{ site.url }})
+
 <figure class="half">
 	<img src="{{ site.url }}/minecraft/laser-mod/images/laser-bazooka.jpeg" alt="image">
 	<img src="{{ site.url }}/minecraft/laser-mod/images/laser-gun.jpeg" alt="image">
