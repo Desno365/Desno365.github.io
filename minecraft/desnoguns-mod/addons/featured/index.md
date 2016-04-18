@@ -56,6 +56,21 @@ page-level-ads: true
 
 ---
 
+## Mo' Snipers addon by Williamdu40
+
+• [Download the addon](http://www.mediafire.com/download/tt5f585e709v6at/Mo%27+Snipers+add-on.modpkg)
+
+• Creator: [Williamdu40](https://twitter.com/Williamdu40)
+
+<figure class="half">
+	<img src="http://i.imgur.com/cR94Vmg.jpg" alt="image">
+	<img src="http://i.imgur.com/hPQAcwH.jpg" alt="image">
+	<img src="http://i.imgur.com/DLOWGqn.jpg" alt="image">
+	<img src="http://i.imgur.com/8Wh2idr.jpg" alt="image">
+</figure>
+
+---
+
 ## European Guns addon by Heades
 
 • [Download the addon](http://hmcpemods.blogspot.it/2016/04/european-gun-addon-v3-for-desnogun-mod.html)
