@@ -53,6 +53,7 @@ Five different Portal Guns, the Aerial Faith Plate, Propulsion and Repulsion gel
 | Website | Support | Regular |
 |:--------|:-------:|:-------:|
 | Filecred:          | [Support download](http://adf.ly/1Z8GC8) | [Regular download](http://filecred.com/A7BEG570) |
+| Dropbox:           | [Support download](http://adf.ly/1ZvIPY) | [Regular download](https://www.dropbox.com/s/il0gi787xnoh6jl/Portal_2_Mod_r014_Desno365.modpkg?dl=1) |
 | MediaFire:         | [Support download](http://adf.ly/1Z8GAe) | [Regular download](http://www.mediafire.com/download/po3wf08f8ldifhz/Portal_2_Mod_r014_Desno365.modpkg) |
 |----
 {: .table}

@@ -47,6 +47,7 @@ The Laser Guns Addon for the DesnoGuns Mod adds awesome new futuristic guns in M
 | Website | Support | Regular |
 |:--------|:-------:|:-------:|
 | Filecred:          | [Support download](http://adf.ly/1YlXtP) | [Regular download](http://filecred.com/A5ECG56F) |
+| Dropbox:           | [Support download](http://adf.ly/1ZvIUU) | [Regular download](https://www.dropbox.com/s/eymbqpb8wmp6swv/Laser_Guns_Addon_r004_Desno365.modpkg?dl=1) |
 | MediaFire:         | [Support download](http://adf.ly/1YlXvz) | [Regular download](http://www.mediafire.com/download/2c9gm3n8n371xg5/Laser_Guns_Addon_r004_Desno365.modpkg) |
 |----
 {: .table}
