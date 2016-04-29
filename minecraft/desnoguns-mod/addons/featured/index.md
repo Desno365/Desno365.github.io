@@ -73,11 +73,24 @@ page-level-ads: true
 
 ---
 
-## European Guns addon by Heades
+## Modern Guns addon by мина
+
+• [Download the addon](http://www.mediafire.com/download/qm8z1str843miy4/Modern+guns+v1.0.modpkg)
+
+• Creator: [мина](https://twitter.com/llovelihanshu)
+
+<figure class="half">
+	<img src="http://i.imgur.com/ZUMQEP5.jpg" alt="image">
+	<img src="http://i.imgur.com/x3VWCBF.jpg" alt="image">
+</figure>
+
+---
+
+## European Guns addon by BM Heades
 
 • [Download the addon](http://hmcpemods.blogspot.it/2016/04/european-gun-addon-v3-for-desnogun-mod.html)
 
-• Creator: Heades
+• Creator: [BM Heades](https://twitter.com/bm_heades)
 
 <figure class="half">
 	<img src="http://i.imgur.com/7eRx95c.jpg" alt="image">
