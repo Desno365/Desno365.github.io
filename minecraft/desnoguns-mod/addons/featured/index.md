@@ -86,9 +86,23 @@ page-level-ads: true
 
 ---
 
+## Transformers Guns addon by BM Heades
+
+• [Download the addon](http://hmcpemods.blogspot.it/2016/04/transformee-guns-addon-v1beta-for.html?m=1)
+
+• Creator: [BM Heades](https://twitter.com/bm_heades)
+
+<figure class="half">
+	<img src="http://i.imgur.com/ekA7kH1.jpg" alt="image">
+	<img src="http://i.imgur.com/CaahBym.jpg" alt="image">
+	<img src="http://i.imgur.com/7XdDsur.jpg" alt="image">
+</figure>
+
+---
+
 ## European Guns addon by BM Heades
 
-• [Download the addon](http://hmcpemods.blogspot.it/2016/04/european-gun-addon-v3-for-desnogun-mod.html)
+• [Download the addon](http://hmcpemods.blogspot.it/2016/04/european-gun-addon-v3-for-desnogun-mod.html?m=1)
 
 • Creator: [BM Heades](https://twitter.com/bm_heades)
 
