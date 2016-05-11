@@ -25,7 +25,7 @@ comments: true
 ## Installation instructions
 
 • Download the zip that contains all the necessary files.<br>
-• Extract it with your [file explorer/manager](http://play.google.com/store/search?q=file%20explorer) (I recommend [ES File Explorer](https://play.google.com/store/apps/details?id=com.estrongs.android.pop)).<br>
+• Extract it with your [file explorer/manager](http://play.google.com/store/search?q=file%20explorer) (I recommend [Solid Explorer](https://play.google.com/store/apps/details?id=pl.solidexplorer2)).<br>
 • Install textures.<br>
 • Import the script from local storage in Blocklauncher and enable it.<br>
 • Enjoy! ;)

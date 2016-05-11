@@ -26,7 +26,7 @@ A video explains it better: [The Unreal Geometry Map YouTube video](http://youtu
 ## Installation instructions
 
 • Download the zip that contains the mod and the map.<br>
-• Extract it with your [file explorer/manager](http://play.google.com/store/search?q=file%20explorer) (I recommend [ES File Explorer](https://play.google.com/store/apps/details?id=com.estrongs.android.pop)).<br>
+• Extract it with your [file explorer/manager](http://play.google.com/store/search?q=file%20explorer) (I recommend [Solid Explorer](https://play.google.com/store/apps/details?id=pl.solidexplorer2)).<br>
 • Move the "Unreal Geometry Map" to "sdcard/games/com.mojang/minecraftWorlds"<br>
 • Import the script from local storage in Blocklauncher and enable it.<br>
 • Disable other mods.<br>
