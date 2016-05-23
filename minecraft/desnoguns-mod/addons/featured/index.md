@@ -58,6 +58,21 @@ page-level-ads: true
 
 ---
 
+## Nerf Guns addon by SerhatIsb
+
+• [Download the addon](https://www.dropbox.com/s/hszr9bksta7g151/Nerf%20Guns%20Addon%20for%20Desnoguns%20Ver%200.25.modpkg?dl=1)
+
+• Creator: SerhatIsb
+
+<figure class="half">
+	<img src="http://i.imgur.com/3Vds4cX.png" alt="image">
+	<img src="http://i.imgur.com/a1j1jVy.png" alt="image">
+	<img src="http://i.imgur.com/34Yi3Hu.png" alt="image">
+	<img src="http://i.imgur.com/ztKPoAO.jpg" alt="image">
+</figure>
+
+---
+
 ## Mo' Snipers addon by Williamdu40
 
 • [Download the addon](http://www.mediafire.com/download/tt5f585e709v6at/Mo%27+Snipers+add-on.modpkg)
