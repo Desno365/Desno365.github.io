@@ -6,6 +6,12 @@ page-level-ads: true
 ---
 
 
+**DesnoGuns Mod r016**
+{% highlight text %}
+- FIX: fixed lags when shooting and improved performance
+- FIX: other bug fixes
+{% endhighlight %}
+
 **DesnoGuns Mod r015**
 {% highlight text %}
 - UPDATE: added ammunition items and the medical kit in the food & potions tab in the creative inventory
