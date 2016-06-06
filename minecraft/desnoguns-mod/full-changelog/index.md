@@ -6,6 +6,11 @@ page-level-ads: true
 ---
 
 
+**DesnoGuns Mod r017**
+{% highlight text %}
+- FIX: workaround fix for crash at startup caused by a bug of BlockLauncher with armors. I had to remove the Juggernaut (temporarily) to fix the problem
+{% endhighlight %}
+
 **DesnoGuns Mod r016**
 {% highlight text %}
 - FIX: fixed lags when shooting and improved performance

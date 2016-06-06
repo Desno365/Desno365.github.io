@@ -43,13 +43,13 @@ Guns. Weapons. Explosions. This is the DesnoGuns Mod! :D
 ## Downloads
 
 <i>Minecraft Pocket Edition 0.14.3:</i><br>
-<i> --- DesnoGuns Mod <b>r016</b>:</i>
+<i> --- DesnoGuns Mod <b>r017</b>:</i>
 
 | Website | Support | Regular |
 |:--------|:-------:|:-------:|
-| Filecred:          | [Support download](http://adf.ly/1aYAVa) | [Regular download](http://filecred.com/A893G574) |
-| Dropbox:           | [Support download](http://adf.ly/1aYAQs) | [Regular download](https://www.dropbox.com/s/3bpr401qmw2dtg0/DesnoGuns_Mod_r016_Desno365.modpkg?dl=1) |
-| MediaFire:         | [Support download](http://adf.ly/1aYASY) | [Regular download](http://www.mediafire.com/download/0qkix3985mf15y4/DesnoGuns_Mod_r016_Desno365.modpkg) |
+| Filecred:          | [Support download](http://adf.ly/1aw0ua) | [Regular download](http://filecred.com/A8E1G575) |
+| Dropbox:           | [Support download](http://adf.ly/1aw118) | [Regular download](https://www.dropbox.com/s/vqos5ntkdx0t5md/DesnoGuns_Mod_r017_Desno365.modpkg?dl=1) |
+| MediaFire:         | [Support download](http://adf.ly/1aw0qz) | [Regular download](http://www.mediafire.com/download/acr134f96era496/DesnoGuns_Mod_r017_Desno365.modpkg) |
 |----
 {: .table}
 
@@ -181,17 +181,15 @@ Click an icon under the "**Crafting**" column to display the crafting recipe of 
 
 ## Changelog
 
+**DesnoGuns Mod r017**
+{% highlight text %}
+- FIX: workaround fix for crash at startup caused by a bug of BlockLauncher with armors. I had to remove the Juggernaut (temporarily) to fix the problem
+{% endhighlight %}
+
 **DesnoGuns Mod r016**
 {% highlight text %}
 - FIX: fixed lags when shooting and improved performance
 - FIX: other bug fixes
-{% endhighlight %}
-
-**DesnoGuns Mod r015**
-{% highlight text %}
-- UPDATE: added ammunition items and the medical kit in the food & potions tab in the creative inventory
-- FIX: fixed sounds interruptions
-- FIX: fixed crash when clicking the reload text while shooting
 {% endhighlight %}
 
 <br>
