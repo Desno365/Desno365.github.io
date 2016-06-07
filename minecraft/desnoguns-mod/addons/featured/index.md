@@ -43,6 +43,21 @@ page-level-ads: true
 
 ---
 
+## WW2 Weapons addon by ChevyRedneck
+
+• [Download the addon](http://www.mediafire.com/download/kf89ajozxj1wrfh/WW2+Weapons+Addon+v.1.5+by+ChevyRedneck.modpkg)
+
+• Creator: [ChevyRedneck](https://twitter.com/ChevyRedneck554)
+
+<figure class="half">
+	<img src="http://i.imgur.com/wnIAmSz.png" alt="image">
+	<img src="http://i.imgur.com/hnef5KT.jpg" alt="image">
+	<img src="http://i.imgur.com/GGKivYL.jpg" alt="image">
+	<img src="http://i.imgur.com/803FyRx.jpg" alt="image">
+</figure>
+
+---
+
 ## Sci-Fi Guns addon by alifrm
 
 • [Download the addon](https://www.dropbox.com/s/tx2nkpqmq1swl24/Sci-Fi_Guns_Addon_by_alifrm%5B2%5D.modpkg?dl=0)
