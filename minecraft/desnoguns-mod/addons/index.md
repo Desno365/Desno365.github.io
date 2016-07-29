@@ -25,10 +25,20 @@ The best addons for the DesnoGuns Mod:
 
 ## Creating a new addon
 
-As soon as I have time I'll write a complete reference for creating a new addon. But for now if you're already interested in adding new guns you can look at an example addon I made for addon-developers.<br>
-Here you can download it and see how it works and maybe you can create a new one: [Example Addon for developers](http://filecred.com/A5CFG56E)
+Instead of making a written reference that is long to read and to understand I think it's better to provide a working example of an addon with all the features you would need.<br>
+You will also find comments that explain every API you can use in your addon.
 
-• A modpkg file is a renamed .zip file with the extension of .modpkg
+• Note: a modpkg file is a renamed .zip file with the extension of .modpkg
+
+[Example Addon for developers r003](http://filecred.com/A973G579)
+
+##### Changelog
+
+**Example Addon r003**
+{% highlight text %}
+- new gun: M40A3 Night Vision
+- examples for new APIs: customAimImageLayerPath, hasNightVision, countdownSoundExplosiveOnTime
+{% endhighlight %}
 
 ---
 
