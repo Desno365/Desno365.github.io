@@ -42,14 +42,16 @@ Guns. Weapons. Explosions. This is the DesnoGuns Mod! :D
 
 ## Downloads
 
-<i>Minecraft Pocket Edition 0.14.3:</i><br>
-<i> --- DesnoGuns Mod <b>r017</b>:</i>
+<i>Minecraft Pocket Edition 0.15.4 and 0.14.3:</i><br>
+<i> --- DesnoGuns Mod <b>r018</b>:</i>
+
+• For <b>MCPE 0.15</b> only the latest beta of BlockLauncher is supported, get it from [here](http://zhuoweizhang.net/MCPELauncher/MCPELauncherApp-release-beta.apk)
 
 | Website | Support | Regular |
 |:--------|:-------:|:-------:|
-| Filecred:          | [Support download](http://adf.ly/1aw0ua) | [Regular download](http://filecred.com/A8E1G575) |
-| Dropbox:           | [Support download](http://adf.ly/1aw118) | [Regular download](https://www.dropbox.com/s/vqos5ntkdx0t5md/DesnoGuns_Mod_r017_Desno365.modpkg?dl=1) |
-| MediaFire:         | [Support download](http://adf.ly/1aw0qz) | [Regular download](http://www.mediafire.com/download/acr134f96era496/DesnoGuns_Mod_r017_Desno365.modpkg) |
+| Filecred:          | [Support download](http://adf.ly/1cjR3N) | [Regular download](http://filecred.com/A972G579) |
+| Dropbox:           | [Support download](http://adf.ly/1cjRHm) | [Regular download](https://www.dropbox.com/s/cwrpplyrbos98i7/DesnoGuns_Mod_r018_Desno365.modpkg?dl=1) |
+| MediaFire:         | [Support download](http://adf.ly/1cjR0K) | [Regular download](http://www.mediafire.com/download/9ud3h4tex0wwx9l/DesnoGuns_Mod_r018_Desno365.modpkg)) |
 |----
 {: .table}
 
@@ -89,6 +91,7 @@ Click an icon under the "**Crafting**" column to display the crafting recipe of 
 | Knife:                       | 3320     | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/Knife.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/Knife.png" alt="image"></a></figure> |
 | Parachute:                   | 3321     | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/MWParachute.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/MWParachute.png" alt="image"></a></figure> |
 | Binoculars:                  | 3324     | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/Binoculars.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/Binoculars.png" alt="image"></a></figure> |
+| Night Vision Binoculars:     | 3326     | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/NightBinoculars.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/NightBinoculars.png" alt="image"></a></figure> |
 | Zoom Binoculars (Pro):       | 3325     | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/ZoomBinoculars.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/ZoomBinoculars.png" alt="image"></a></figure> |
 | Medical Kit:                 | 3322     | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/MWMedkit.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/MWMedkit.png" alt="image"></a></figure> |
 | Riot Shield:                 | 3323     | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/RiotShield.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/RiotShield.png" alt="image"></a></figure> |
@@ -97,11 +100,15 @@ Click an icon under the "**Crafting**" column to display the crafting recipe of 
 | Fragment Grenade:            | 3301     | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/MillsBomb.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/MillsBomb.png" alt="image"></a></figure> |
 | Molotov:                     | 3302     | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/Molotov.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/Molotov.png" alt="image"></a></figure> |
 | Smoke Grenade:               | 3303     | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/SmokeGrenade.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/SmokeGrenade.png" alt="image"></a></figure> |
-| <b>Armor</b>                 | 3285≈3288|           |
+| <b>Armor</b>                 | 3285≈3292|           |
 | Juggernaut Helmet:           | 3285     | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/JuggernautHelmet.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/JuggernautHelmet.png" alt="image"></a></figure> |
 | Juggernaut Body:             | 3286     | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/JuggernautBody.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/JuggernautBody.png" alt="image"></a></figure> |
 | Juggernaut Pants:            | 3287     | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/JuggernautPants.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/JuggernautPants.png" alt="image"></a></figure> |
 | Juggernaut Boots:            | 3288     | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/JuggernautBoots.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/JuggernautBoots.png" alt="image"></a></figure> |
+| Jungle Camo Helmet:          | 3289     | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/JungleCamoHelmet.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/JungleCamoHelmet.png" alt="image"></a></figure> |
+| Jungle Camo Body:            | 3290     | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/JungleCamoBody.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/JungleCamoBody.png" alt="image"></a></figure> |
+| Jungle Camo Pants:           | 3291     | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/JungleCamoPants.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/JungleCamoPants.png" alt="image"></a></figure> |
+| Jungle Camo Boots:           | 3292     | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/JungleCamoBoots.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/JungleCamoBoots.png" alt="image"></a></figure> |
 | <b>Ammunitions</b>           | 3340≈3349|           |
 | Assault Rifle Ammo:          | 3340     | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/AK47Ammo.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/AK47Ammo.png" alt="image"></a></figure> |
 | Sub Machine Ammo:            | 3341     | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/MP5Ammo.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/MP5Ammo.png" alt="image"></a></figure> |
@@ -113,7 +120,7 @@ Click an icon under the "**Crafting**" column to display the crafting recipe of 
 | Launcher Ammo:               | 3347     | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/AT4Ammo.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/AT4Ammo.png" alt="image"></a></figure> |
 | Minigun Ammo:                | 3348     | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/MinigunAmmo.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/MinigunAmmo.png" alt="image"></a></figure> |
 | Explosive Arrow:             | 3349     | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/ExplosiveArrow.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/ExplosiveArrow.png" alt="image"></a></figure> |
-| <b>Guns</b>                  | 464≈511 & 3366≈3376 |           |
+| <b>Guns</b>                  | 464≈511 & 3366≈3377 |           |
 | <i>Pro items</i>             |          |           |
 | AA-12:                       | 509      | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/shotgun.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/AA12.png" alt="image"></a></figure> |
 | Incendiary Grenade Launcher: | 510      | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/launcher.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/IncendiaryGL.png" alt="image"></a></figure> |
@@ -147,6 +154,7 @@ Click an icon under the "**Crafting**" column to display the crafting recipe of 
 | M21:                         | 481      | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/sniper-rifle.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/M21.png" alt="image"></a></figure> |
 | M40A3 Ice:                   | 482      | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/sniper-rifle.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/M40A3_Ice.png" alt="image"></a></figure> |
 | M40A3:                       | 483      | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/sniper-rifle.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/M40A3.png" alt="image"></a></figure> |
+| M40A3 Night Vision:          | 3377     | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/sniper-rifle.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/M40A3_Night.png" alt="image"></a></figure> |
 | M60E4:                       | 484      | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/light-machine.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/M60E4.png" alt="image"></a></figure> |
 | M72LAW:                      | 485      | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/launcher.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/M72LAW.png" alt="image"></a></figure> |
 | M249:                        | 486      | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/light-machine.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/M249.png" alt="image"></a></figure> |
@@ -181,15 +189,22 @@ Click an icon under the "**Crafting**" column to display the crafting recipe of 
 
 ## Changelog
 
+**DesnoGuns Mod r018**
+{% highlight text %}
+- NEW: support for Minecraft PE 0.15 (works only with the latest beta of BlockLauncher, get it from here: http://zhuoweizhang.net/MCPELauncher/MCPELauncherApp-release-beta.apk )
+- NEW: a new Sniper Rifle, the M40A3 Night Vision
+- NEW: Night Binoculars
+- NEW: Jungle Camo Armor
+- UPDATE: the Juggernaut is now stronger than the Diamond Armor but it also adds a slowness effect
+- UPDATE: more realistic binoculars images
+- FIX: the UI of the mod and of the guns now is closed when opening the inventory or the chat menu
+- FIX: fixed Sniper Ammo item not added in the creative inventory
+- ADDONS: new APIs for Addons Developers! Support for a custom image when aiming (customAimImageLayerPath String), night vision effect when aiming (hasNightVision boolean), custom sound of the countdown when using bullet type "normal_explosive_on_time" (countdownSoundExplosiveOnTime String)
+{% endhighlight %}
+
 **DesnoGuns Mod r017**
 {% highlight text %}
 - FIX: workaround fix for crash at startup caused by a bug of BlockLauncher with armors. I had to remove the Juggernaut (temporarily) to fix the problem
-{% endhighlight %}
-
-**DesnoGuns Mod r016**
-{% highlight text %}
-- FIX: fixed lags when shooting and improved performance
-- FIX: other bug fixes
 {% endhighlight %}
 
 <br>

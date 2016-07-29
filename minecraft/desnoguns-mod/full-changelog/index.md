@@ -6,6 +6,19 @@ page-level-ads: true
 ---
 
 
+**DesnoGuns Mod r018**
+{% highlight text %}
+- NEW: support for Minecraft PE 0.15
+- NEW: a new Sniper Rifle, the M40A3 Night Vision
+- NEW: Night Binoculars
+- NEW: Jungle Camo Armor
+- UPDATE: the Juggernaut is now stronger than the Diamond Armor but it also adds a slowness effect
+- UPDATE: more realistic binoculars images
+- FIX: the UI of the mod and of the guns now is closed when opening the inventory or the chat menu
+- FIX: fixed Sniper Ammo item not added in the creative inventory
+- ADDONS: new APIs for Addons Developers! Support for a custom image when aiming (customAimImageLayerPath String), night vision effect when aiming (hasNightVision boolean), custom sound of the countdown when using bullet type "normal_explosive_on_time" (countdownSoundExplosiveOnTime String)
+{% endhighlight %}
+
 **DesnoGuns Mod r017**
 {% highlight text %}
 - FIX: workaround fix for crash at startup caused by a bug of BlockLauncher with armors. I had to remove the Juggernaut (temporarily) to fix the problem
