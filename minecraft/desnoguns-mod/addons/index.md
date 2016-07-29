@@ -30,7 +30,7 @@ You will also find comments that explain every API you can use in your addon.
 
 • Note: a modpkg file is a renamed .zip file with the extension of .modpkg
 
-[Example Addon for developers r003](http://filecred.com/A973G579)
+Example Addon for developers r003: [Download](http://filecred.com/A973G579)
 
 **Example Addon r003 Changelog**
 {% highlight text %}
