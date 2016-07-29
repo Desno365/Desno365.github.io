@@ -32,9 +32,7 @@ You will also find comments that explain every API you can use in your addon.
 
 [Example Addon for developers r003](http://filecred.com/A973G579)
 
-##### Changelog
-
-**Example Addon r003**
+**Example Addon r003 Changelog**
 {% highlight text %}
 - new gun: M40A3 Night Vision
 - examples for new APIs: customAimImageLayerPath, hasNightVision, countdownSoundExplosiveOnTime
