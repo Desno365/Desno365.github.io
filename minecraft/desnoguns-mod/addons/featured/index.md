@@ -43,6 +43,21 @@ page-level-ads: true
 
 ---
 
+## Nerf Guns addon by SerhatIsb
+
+• [Download the addon](https://www.dropbox.com/s/licsnmg4sci14ph/Nerf%20Addon%201.0%20Initial%20Release.modpkg?dl=1)
+
+• Creator: SerhatIsb
+
+<figure class="half">
+	<img src="http://i.imgur.com/3Vds4cX.png" alt="image">
+	<img src="http://i.imgur.com/a1j1jVy.png" alt="image">
+	<img src="http://i.imgur.com/XoZKomw.png" alt="image">
+	<img src="http://i.imgur.com/ztKPoAO.jpg" alt="image">
+</figure>
+
+---
+
 ## WW2 Weapons addon by ChevyRedneck
 
 • [Download the addon](http://www.mediafire.com/download/kf89ajozxj1wrfh/WW2+Weapons+Addon+v.1.5+by+ChevyRedneck.modpkg)
@@ -69,21 +84,6 @@ page-level-ads: true
 	<img src="http://i.imgur.com/y9gJ2ZV.png" alt="image">
 	<img src="http://i.imgur.com/vbXVTdE.png" alt="image">
 	<img src="http://i.imgur.com/VNNa2uu.png" alt="image">
-</figure>
-
----
-
-## Nerf Guns addon by SerhatIsb
-
-• [Download the addon](https://www.dropbox.com/s/hszr9bksta7g151/Nerf%20Guns%20Addon%20for%20Desnoguns%20Ver%200.25.modpkg?dl=1)
-
-• Creator: SerhatIsb
-
-<figure class="half">
-	<img src="http://i.imgur.com/3Vds4cX.png" alt="image">
-	<img src="http://i.imgur.com/a1j1jVy.png" alt="image">
-	<img src="http://i.imgur.com/34Yi3Hu.png" alt="image">
-	<img src="http://i.imgur.com/ztKPoAO.jpg" alt="image">
 </figure>
 
 ---
