@@ -42,10 +42,8 @@ Guns. Weapons. Explosions. This is the DesnoGuns Mod! :D
 
 ## Downloads
 
-<i>Minecraft Pocket Edition 0.15.4 and 0.14.3:</i><br>
+<i>Minecraft Pocket Edition 0.15.6 and 0.14.3:</i><br>
 <i> --- DesnoGuns Mod <b>r018</b>:</i>
-
-• For <b>MCPE 0.15</b> only the latest beta of BlockLauncher is supported, get it from [here](http://zhuoweizhang.net/MCPELauncher/MCPELauncherApp-release-beta.apk)
 
 | Website | Support | Regular |
 |:--------|:-------:|:-------:|
