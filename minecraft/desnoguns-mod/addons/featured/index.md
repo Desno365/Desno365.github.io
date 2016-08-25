@@ -45,7 +45,7 @@ page-level-ads: true
 
 ## Nerf Guns addon by SerhatIsb
 
-• [Download the addon](https://www.dropbox.com/s/licsnmg4sci14ph/Nerf%20Addon%201.0%20Initial%20Release.modpkg?dl=1)
+• [Download the addon](https://www.dropbox.com/s/8h55kp8alab0hbe/Nerf%20Addon%201.1%20Initial%20Release.modpkg?dl=1)
 
 • Creator: SerhatIsb
 
