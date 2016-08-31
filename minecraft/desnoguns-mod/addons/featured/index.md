@@ -120,7 +120,7 @@ page-level-ads: true
 
 • [Download the addon](http://bm-inc.weebly.com/mods/transformers_guns_addon)
 
-• Creator: [BM Heades](https://twitter.com/bm_heades)
+• Creator: [BM Heades](https://twitter.com/bmheades)
 
 <figure class="half">
 	<img src="http://i.imgur.com/ekA7kH1.jpg" alt="image">
@@ -134,7 +134,7 @@ page-level-ads: true
 
 • [Download the addon](http://bm-inc.weebly.com/mods/european_guns_addon)
 
-• Creator: [BM Heades](https://twitter.com/bm_heades)
+• Creator: [BM Heades](https://twitter.com/bmheades)
 
 <figure class="half">
 	<img src="http://i.imgur.com/7eRx95c.jpg" alt="image">
