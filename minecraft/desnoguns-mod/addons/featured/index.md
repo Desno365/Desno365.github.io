@@ -103,19 +103,6 @@ page-level-ads: true
 
 ---
 
-## Modern Guns addon by мина
-
-• [Download the addon](http://www.mediafire.com/download/qm8z1str843miy4/Modern+guns+v1.0.modpkg)
-
-• Creator: [мина](https://twitter.com/llovelihanshu)
-
-<figure class="half">
-	<img src="http://i.imgur.com/ZUMQEP5.jpg" alt="image">
-	<img src="http://i.imgur.com/x3VWCBF.jpg" alt="image">
-</figure>
-
----
-
 ## Transformers Guns addon by BM Heades
 
 • [Download the addon](http://bm-inc.weebly.com/mods/transformers_guns_addon)
@@ -141,6 +128,45 @@ page-level-ads: true
 	<img src="http://i.imgur.com/LOT9SX5.jpg" alt="image">
 	<img src="http://i.imgur.com/xW5aDRh.jpg" alt="image">
 	<img src="http://i.imgur.com/NisfA2C.jpg" alt="image">
+</figure>
+
+---
+
+## Alpha Guns addon by SuperFireRex
+
+• [Download the addon](http://www.mediafire.com/?zywxmtnb6zc0hk5)
+
+• Creator: SuperFireRex
+
+<figure class="half">
+	<img src="http://i.imgur.com/aEjC8Wr.png" alt="image">
+	<img src="http://i.imgur.com/4bFktrW.png" alt="image">
+</figure>
+
+---
+
+## Omega Guns addon by SuperFireRex
+
+• [Download the addon](http://www.mediafire.com/?bq9vy826x04vg2l)
+
+• Creator: SuperFireRex
+
+<figure class="half">
+	<img src="http://i.imgur.com/ntZ8erh.png" alt="image">
+	<img src="http://i.imgur.com/z0VpDQs.png" alt="image">
+</figure>
+
+---
+
+## Modern Guns addon by мина
+
+• [Download the addon](http://www.mediafire.com/download/qm8z1str843miy4/Modern+guns+v1.0.modpkg)
+
+• Creator: [мина](https://twitter.com/llovelihanshu)
+
+<figure class="half">
+	<img src="http://i.imgur.com/ZUMQEP5.jpg" alt="image">
+	<img src="http://i.imgur.com/x3VWCBF.jpg" alt="image">
 </figure>
 
 ---
