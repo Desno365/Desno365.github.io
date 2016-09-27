@@ -58,6 +58,21 @@ page-level-ads: true
 
 ---
 
+## DarkStriker Guns addon by xXlolYx
+
+• [Download the addon](http://www.mediafire.com/file/33xt7yo8xt8t5u5/DarkStrikerGuns+Addon+By+xXlolYx.modpkg)
+
+• Creator: xXlolYx
+
+<figure class="half">
+	<img src="http://i.imgur.com/YZTiTva.png" alt="image">
+	<img src="http://i.imgur.com/QjoFeqe.png" alt="image">
+	<img src="http://i.imgur.com/5CYVNvl.png" alt="image">
+	<img src="http://i.imgur.com/cOjKHbZ.png" alt="image">
+</figure>
+
+---
+
 ## WW2 Weapons addon by ChevyRedneck
 
 • [Download the addon](http://www.mediafire.com/download/kf89ajozxj1wrfh/WW2+Weapons+Addon+v.1.5+by+ChevyRedneck.modpkg)
