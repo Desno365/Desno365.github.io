@@ -50,8 +50,8 @@ comments: true
 
 | Website | Support | Regular |
 |:--------|:-------:|:-------:|
-| Filecred:        | [Support download](http://adf.ly/1XgbHZ) | [Regular download](http://filecred.com/A571G56D) |
 | Dropbox:         | [Support download](http://adf.ly/1ZvIZV) | [Regular download](https://www.dropbox.com/s/sbjktg2k5b1xlyb/Jukebox_Mod_r005_Desno365.modpkg?dl=1) |
+| Filecred:        | [Support download](http://adf.ly/1XgbHZ) | [Regular download](http://filecred.com/A571G56D) |
 | MediaFire:       | [Support download](http://adf.ly/1XZUwC) | [Regular download](http://www.mediafire.com/download/qv6bfl5ysdld561/Jukebox_Mod_r005_Desno365.modpkg) |
 |----
 {: .table}
