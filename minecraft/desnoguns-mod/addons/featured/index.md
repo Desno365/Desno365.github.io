@@ -186,6 +186,21 @@ page-level-ads: true
 
 ---
 
+## CSGO addon by Velsory TV
+
+• [Download the addon](https://www.dropbox.com/s/vcptd4f9gy0tobk/CSGO_Addon_0.0.1.modpkg?dl=1)
+
+• Creator: Velsory TV
+
+<figure class="half">
+	<img src="http://i.imgur.com/XIp1A7g.png" alt="image">
+	<img src="http://i.imgur.com/VSfi8Y9.png" alt="image">
+	<img src="http://i.imgur.com/WqqdiFY.png" alt="image">
+	<img src="http://i.imgur.com/treWDcj.png" alt="image">
+</figure>
+
+---
+
 ## German Guns addon by pilzie LP
 
 • [Download the addon](http://mcpeuniverse.com/mods/germanguns-addon-for-desnoguns/)
