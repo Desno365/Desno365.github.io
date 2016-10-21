@@ -75,7 +75,7 @@ page-level-ads: true
 
 ## DarkStriker Guns addon by xXlolYx
 
-• [Download the addon](http://www.mediafire.com/file/33xt7yo8xt8t5u5/DarkStrikerGuns+Addon+By+xXlolYx.modpkg)
+• [Download the addon](http://www.mediafire.com/file/9e7dm69uemc5eu2/DarkStrikersGuns+Addon+By+xXlolYx+Ver+2.modpkg)
 
 • Creator: xXlolYx
 
