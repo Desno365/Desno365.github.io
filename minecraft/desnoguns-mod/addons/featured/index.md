@@ -80,10 +80,10 @@ page-level-ads: true
 • Creator: xXlolYx
 
 <figure class="half">
-	<img src="http://i.imgur.com/YZTiTva.png" alt="image">
-	<img src="http://i.imgur.com/QjoFeqe.png" alt="image">
-	<img src="http://i.imgur.com/5CYVNvl.png" alt="image">
-	<img src="http://i.imgur.com/cOjKHbZ.png" alt="image">
+	<img src="http://i.imgur.com/IMeTkYO.png" alt="image">
+	<img src="http://i.imgur.com/HNnTQoJ.png" alt="image">
+	<img src="http://i.imgur.com/46dsH2B.png" alt="image">
+	<img src="http://i.imgur.com/KklfFyF.png" alt="image">
 </figure>
 
 ---
