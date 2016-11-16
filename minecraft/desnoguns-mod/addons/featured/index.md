@@ -73,6 +73,21 @@ page-level-ads: true
 
 ---
 
+## Project Prometheus addon by RahEll
+
+• [Download the addon](https://www.dropbox.com/s/4ewym5jxmmcosr1/Project%20Prometheus.modpkg?dl=0)
+
+• Creator: RahEll
+
+<figure class="half">
+	<img src="http://i.imgur.com/D6wSHPH.png" alt="image">
+	<img src="http://i.imgur.com/cfv1wsL.png" alt="image">
+	<img src="http://i.imgur.com/vbXVTdE.png" alt="image">
+	<img src="http://i.imgur.com/VNNa2uu.png" alt="image">
+</figure>
+
+---
+
 ## DarkStriker Guns addon by xXlolYx
 
 • [Download the addon](http://www.mediafire.com/file/9e7dm69uemc5eu2/DarkStrikersGuns+Addon+By+xXlolYx+Ver+2.modpkg)
@@ -84,21 +99,6 @@ page-level-ads: true
 	<img src="http://i.imgur.com/HNnTQoJ.png" alt="image">
 	<img src="http://i.imgur.com/46dsH2B.png" alt="image">
 	<img src="http://i.imgur.com/KklfFyF.png" alt="image">
-</figure>
-
----
-
-## Sci-Fi Guns addon by alifrm
-
-• [Download the addon](https://www.dropbox.com/s/tx2nkpqmq1swl24/Sci-Fi_Guns_Addon_by_alifrm%5B2%5D.modpkg?dl=0)
-
-• Creator: alifrm
-
-<figure class="half">
-	<img src="http://i.imgur.com/Mp7fIbf.png" alt="image">
-	<img src="http://i.imgur.com/y9gJ2ZV.png" alt="image">
-	<img src="http://i.imgur.com/vbXVTdE.png" alt="image">
-	<img src="http://i.imgur.com/VNNa2uu.png" alt="image">
 </figure>
 
 ---
