@@ -189,7 +189,6 @@ Click an icon under the "**Crafting**" column to display the crafting recipe of 
 
 **DesnoGuns Mod r018**
 {% highlight text %}
-- NEW: support for Minecraft PE 0.15
 - NEW: a new Sniper Rifle, the M40A3 Night Vision
 - NEW: Night Binoculars
 - NEW: Jungle Camo Armor
