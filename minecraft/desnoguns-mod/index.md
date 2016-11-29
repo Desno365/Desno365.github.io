@@ -49,7 +49,7 @@ Guns. Weapons. Explosions. This is the DesnoGuns Mod! :D
 |:--------|:-------:|:-------:|
 | Dropbox:           | [Support download](http://adf.ly/1gEhIR) | [Regular download](https://www.dropbox.com/s/zimc8i3qxrb0qk1/DesnoGuns_Mod_r019_Desno365.modpkg?dl=1) |
 | Filecred:          | [Support download](http://adf.ly/1gEhcV) | [Regular download](http://filecred.com/AB17G583) |
-| MediaFire:         | [Support download](http://adf.ly/1gEheZ) | [Regular download](http://www.mediafire.com/file/fa174ch7uh8snmh/DesnoGuns_Mod_r019_Desno365.modpkghttp://www.mediafire.com/file/fa174ch7uh8snmh/DesnoGuns_Mod_r019_Desno365.modpkg)) |
+| MediaFire:         | [Support download](http://adf.ly/1gEheZ) | [Regular download](http://www.mediafire.com/file/fa174ch7uh8snmh/DesnoGuns_Mod_r019_Desno365.modpkg)) |
 |----
 {: .table}
 
