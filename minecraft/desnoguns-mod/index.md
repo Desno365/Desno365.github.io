@@ -42,14 +42,14 @@ Guns. Weapons. Explosions. This is the DesnoGuns Mod! :D
 
 ## Downloads
 
-<i>Minecraft Pocket Edition 0.16.2 & 0.15.10 and 0.14.3:</i><br>
-<i> --- DesnoGuns Mod <b>r018</b>:</i>
+<i>Minecraft Pocket Edition 0.16.2:</i><br>
+<i> --- DesnoGuns Mod <b>r019</b>:</i>
 
 | Website | Support | Regular |
 |:--------|:-------:|:-------:|
-| Dropbox:           | [Support download](http://adf.ly/1cjRHm) | [Regular download](https://www.dropbox.com/s/cwrpplyrbos98i7/DesnoGuns_Mod_r018_Desno365.modpkg?dl=1) |
-| Filecred:          | [Support download](http://adf.ly/1cjR3N) | [Regular download](http://filecred.com/A972G579) |
-| MediaFire:         | [Support download](http://adf.ly/1cjR0K) | [Regular download](http://www.mediafire.com/download/9ud3h4tex0wwx9l/DesnoGuns_Mod_r018_Desno365.modpkg)) |
+| Dropbox:           | [Support download](http://adf.ly/1gEhIR) | [Regular download](https://www.dropbox.com/s/zimc8i3qxrb0qk1/DesnoGuns_Mod_r019_Desno365.modpkg?dl=1) |
+| Filecred:          | [Support download](http://adf.ly/1gEhcV) | [Regular download](http://filecred.com/AB17G583) |
+| MediaFire:         | [Support download](http://adf.ly/1gEheZ) | [Regular download](http://www.mediafire.com/file/fa174ch7uh8snmh/DesnoGuns_Mod_r019_Desno365.modpkghttp://www.mediafire.com/file/fa174ch7uh8snmh/DesnoGuns_Mod_r019_Desno365.modpkg)) |
 |----
 {: .table}
 
@@ -187,6 +187,17 @@ Click an icon under the "**Crafting**" column to display the crafting recipe of 
 
 ## Changelog
 
+**DesnoGuns Mod r019**
+{% highlight text %}
+- NEW: support 0.16.x (check on the Play Store if you're using the latest version of BlockLauncher!)
+- NEW: the Iron Sights update!
+- NEW: some guns will show their iron sight when aiming (currently available for AK47, AUG, Desert Eagle, FNSCAR, Mini-Uzi, MP5, P90, Skorpion)
+- NEW: option for disabling iron sight if you don't like them
+- FIX: explosions not destroying blocks
+- ADDONS: fix custom guns with buttonType "on_touch_with_wait" not shooting when using an aim image
+- ADDONS: add isIronSight property that must be set to true when using an iron sight and not a full-screen scope for the gun (see Example Addon)
+{% endhighlight %}
+
 **DesnoGuns Mod r018**
 {% highlight text %}
 - NEW: a new Sniper Rifle, the M40A3 Night Vision
@@ -197,11 +208,6 @@ Click an icon under the "**Crafting**" column to display the crafting recipe of 
 - FIX: the UI of the mod and of the guns now is closed when opening the inventory or the chat menu
 - FIX: fixed Sniper Ammo item not added in the creative inventory
 - ADDONS: new APIs for Addons Developers! Support for a custom image when aiming (customAimImageLayerPath String), night vision effect when aiming (hasNightVision boolean), custom sound of the countdown when using bullet type "normal_explosive_on_time" (countdownSoundExplosiveOnTime String)
-{% endhighlight %}
-
-**DesnoGuns Mod r017**
-{% highlight text %}
-- FIX: workaround fix for crash at startup caused by a bug of BlockLauncher with armors. I had to remove the Juggernaut (temporarily) to fix the problem
 {% endhighlight %}
 
 <br>
@@ -273,6 +279,7 @@ Minecraft ®/TM & © 2009-2013 Mojang / Notch
 ## Credits
 
 • Thanks to <i>Flan ([@jamioflan](https://twitter.com/jamioflan))</i> for the textures and the sounds. He made a great work with the Flan's Mod for Minecraft PC, and also he released it with a Creative Commons license (that's why I can use them). If you want to support him for the things he has made you can make a donation on his [Patreon page](http://www.patreon.com/jamioflan).<br>
+• Thanks to <i>Dat Dope Gamer</i> for creating some textures and many iron sights!<br>
 • Thanks to <i>MyNameIsAnti ([@AntiModPE](https://twitter.com/AntiModPE))</i> for the render of the grenade and for some lines of code.<br>
 • Thanks to <i>[Prayingmantis13](http://www.minecraftforum.net/members/Prayingmantis13)</i> for the bullet texture.<br>
 

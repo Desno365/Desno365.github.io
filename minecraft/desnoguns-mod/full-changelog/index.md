@@ -6,6 +6,17 @@ page-level-ads: true
 ---
 
 
+**DesnoGuns Mod r019**
+{% highlight text %}
+- NEW: support 0.16.x (check on the Play Store if you're using the latest version of BlockLauncher!)
+- NEW: the Iron Sights update!
+- NEW: some guns will show their iron sight when aiming (currently available for AK47, AUG, Desert Eagle, FNSCAR, Mini-Uzi, MP5, P90, Skorpion)
+- NEW: option for disabling iron sight if you don't like them
+- FIX: explosions not destroying blocks
+- ADDONS: fix custom guns with buttonType "on_touch_with_wait" not shooting when using an aim image
+- ADDONS: add isIronSight property that must be set to true when using an iron sight and not a full-screen scope for the gun (see Example Addon)
+{% endhighlight %}
+
 **DesnoGuns Mod r018**
 {% highlight text %}
 - NEW: a new Sniper Rifle, the M40A3 Night Vision
