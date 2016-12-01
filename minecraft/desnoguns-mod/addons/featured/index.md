@@ -88,6 +88,21 @@ page-level-ads: true
 
 ---
 
+## European Guns addon by BM Heades
+
+• [Download the addon](http://bm-inc.weebly.com/mods/european_guns_addon)
+
+• Creator: [BM Heades](https://twitter.com/bmheades)
+
+<figure class="half">
+	<img src="http://i.imgur.com/G9uGAeO.png" alt="image">
+	<img src="http://i.imgur.com/QZmUMRx.png" alt="image">
+	<img src="http://i.imgur.com/a1CaNaT.png" alt="image">
+	<img src="http://i.imgur.com/fVUzIap.png" alt="image">
+</figure>
+
+---
+
 ## DarkStriker Guns addon by xXlolYx
 
 • [Download the addon](http://www.mediafire.com/file/9e7dm69uemc5eu2/DarkStrikersGuns+Addon+By+xXlolYx+Ver+2.modpkg)
@@ -128,21 +143,6 @@ page-level-ads: true
 	<img src="http://i.imgur.com/ekA7kH1.jpg" alt="image">
 	<img src="http://i.imgur.com/CaahBym.jpg" alt="image">
 	<img src="http://i.imgur.com/7XdDsur.jpg" alt="image">
-</figure>
-
----
-
-## European Guns addon by BM Heades
-
-• [Download the addon](http://bm-inc.weebly.com/mods/european_guns_addon)
-
-• Creator: [BM Heades](https://twitter.com/bmheades)
-
-<figure class="half">
-	<img src="http://i.imgur.com/7eRx95c.jpg" alt="image">
-	<img src="http://i.imgur.com/LOT9SX5.jpg" alt="image">
-	<img src="http://i.imgur.com/xW5aDRh.jpg" alt="image">
-	<img src="http://i.imgur.com/NisfA2C.jpg" alt="image">
 </figure>
 
 ---
