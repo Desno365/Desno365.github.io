@@ -6,6 +6,15 @@ page-level-ads: true
 ---
 
 
+**DesnoGuns Mod r020**
+{% highlight text %}
+- UPDATE: full support for 1.0.0 beta (use the latest version of BlockLauncher)
+- FIX: huge lags when shooting explosive arrows in the air
+- FIX: lags caused by arrows on the ground
+- FIX: wrong health damage when hitting the mob multiple times
+- FIX: bouncing back arrows workaround not working
+{% endhighlight %}
+
 **DesnoGuns Mod r019**
 {% highlight text %}
 - NEW: support 0.16.x (check on the Play Store if you're using the latest version of BlockLauncher!)

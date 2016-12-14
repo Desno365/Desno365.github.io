@@ -5,6 +5,18 @@ excerpt: "DesnoGuns Mod older versions"
 page-level-ads: true
 ---
 
+<i>Minecraft Pocket Edition 0.16.2:</i><br>
+<i> --- DesnoGuns Mod <b>r019</b>:</i>
+
+| Website | Support | Regular |
+|:--------|:-------:|:-------:|
+| Dropbox:           | [Support download](http://adf.ly/1gEhIR) | [Regular download](https://www.dropbox.com/s/zimc8i3qxrb0qk1/DesnoGuns_Mod_r019_Desno365.modpkg?dl=1) |
+| Filecred:          | [Support download](http://adf.ly/1gEhcV) | [Regular download](http://filecred.com/AB17G583) |
+| MediaFire:         | [Support download](http://adf.ly/1gEheZ) | [Regular download](http://www.mediafire.com/file/fa174ch7uh8snmh/DesnoGuns_Mod_r019_Desno365.modpkg)) |
+|----
+{: .table}
+
+
 <i>Minecraft Pocket Edition 0.13.1:</i><br>
 <i> --- DesnoGuns Mod <b>r011</b>:</i>
 
@@ -16,6 +28,8 @@ page-level-ads: true
 |----
 {: .table}
 
+{% include ad-content.html %}
+<br>
 
 <i>Minecraft Pocket Edition 0.12.2 & 0.11.1:</i><br>
 <i> --- DesnoGuns Mod <b>r008</b>:</i>
@@ -28,8 +42,6 @@ page-level-ads: true
 |----
 {: .table}
 
-{% include ad-content.html %}
-<br>
 
 <i>Minecraft Pocket Edition 0.10.5 and BlockLauncher 1.8.6:</i><br>
 <i> --- DesnoGuns Mod <b>r004</b>:</i>

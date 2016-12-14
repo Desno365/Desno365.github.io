@@ -42,14 +42,14 @@ Guns. Weapons. Explosions. This is the DesnoGuns Mod! :D
 
 ## Downloads
 
-<i>Minecraft Pocket Edition 0.16.2:</i><br>
-<i> --- DesnoGuns Mod <b>r019</b>:</i>
+<i>Minecraft Pocket Edition 0.16.2 & 1.0.0:</i><br>
+<i> --- DesnoGuns Mod <b>r020</b>:</i>
 
 | Website | Support | Regular |
 |:--------|:-------:|:-------:|
-| Dropbox:           | [Support download](http://adf.ly/1gEhIR) | [Regular download](https://www.dropbox.com/s/zimc8i3qxrb0qk1/DesnoGuns_Mod_r019_Desno365.modpkg?dl=1) |
-| Filecred:          | [Support download](http://adf.ly/1gEhcV) | [Regular download](http://filecred.com/AB17G583) |
-| MediaFire:         | [Support download](http://adf.ly/1gEheZ) | [Regular download](http://www.mediafire.com/file/fa174ch7uh8snmh/DesnoGuns_Mod_r019_Desno365.modpkg)) |
+| Dropbox:           | [Support download](http://adf.ly/1gieG8) | [Regular download](https://www.dropbox.com/s/jslu6njafk7p4yy/DesnoGuns_Mod_r020_Desno365.modpkg?dl=1) |
+| Filecred:          | [Support download](http://adf.ly/1giePi) | [Regular download](http://filecred.com/AB1CG585) |
+| MediaFire:         | [Support download](http://adf.ly/1gieSQ) | [Regular download](http://www.mediafire.com/file/pqawi9740jnlkur/DesnoGuns_Mod_r020_Desno365.modpkg)) |
 |----
 {: .table}
 
@@ -187,6 +187,15 @@ Click an icon under the "**Crafting**" column to display the crafting recipe of 
 
 ## Changelog
 
+**DesnoGuns Mod r020**
+{% highlight text %}
+- UPDATE: full support for 1.0.0 beta (use the latest version of BlockLauncher)
+- FIX: huge lags when shooting explosive arrows in the air
+- FIX: lags caused by arrows on the ground
+- FIX: wrong health damage when hitting the mob multiple times
+- FIX: bouncing back arrows workaround not working
+{% endhighlight %}
+
 **DesnoGuns Mod r019**
 {% highlight text %}
 - NEW: support 0.16.x (check on the Play Store if you're using the latest version of BlockLauncher!)
@@ -196,18 +205,6 @@ Click an icon under the "**Crafting**" column to display the crafting recipe of 
 - FIX: explosions not destroying blocks
 - ADDONS: fix custom guns with buttonType "on_touch_with_wait" not shooting when using an aim image
 - ADDONS: add isIronSight property that must be set to true when using an iron sight and not a full-screen scope for the gun (see Example Addon)
-{% endhighlight %}
-
-**DesnoGuns Mod r018**
-{% highlight text %}
-- NEW: a new Sniper Rifle, the M40A3 Night Vision
-- NEW: Night Binoculars
-- NEW: Jungle Camo Armor
-- UPDATE: the Juggernaut is now stronger than the Diamond Armor but it also adds a slowness effect
-- UPDATE: more realistic binoculars images
-- FIX: the UI of the mod and of the guns now is closed when opening the inventory or the chat menu
-- FIX: fixed Sniper Ammo item not added in the creative inventory
-- ADDONS: new APIs for Addons Developers! Support for a custom image when aiming (customAimImageLayerPath String), night vision effect when aiming (hasNightVision boolean), custom sound of the countdown when using bullet type "normal_explosive_on_time" (countdownSoundExplosiveOnTime String)
 {% endhighlight %}
 
 <br>
