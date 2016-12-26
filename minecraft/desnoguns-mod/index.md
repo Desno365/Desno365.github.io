@@ -189,7 +189,7 @@ Click an icon under the "**Crafting**" column to display the crafting recipe of 
 
 **DesnoGuns Mod r020**
 {% highlight text %}
-- UPDATE: full support for 1.0.0 beta (use the latest version of BlockLauncher)
+- UPDATE: full support for 1.0.0 (use the latest version of BlockLauncher)
 - FIX: huge lags when shooting explosive arrows in the air
 - FIX: lags caused by arrows on the ground
 - FIX: wrong health damage when hitting the mob multiple times
