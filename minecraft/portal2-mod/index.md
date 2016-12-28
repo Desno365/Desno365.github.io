@@ -47,14 +47,14 @@ Five different Portal Guns, the Aerial Faith Plate, Propulsion and Repulsion gel
 
 ## Downloads
 
-<i>Minecraft Pocket Edition 0.16.2 & 0.15.10 & 0.14.3:</i><br>
-<i> --- Portal 2 Mod <b>r014</b>:</i>
+<i>Minecraft Pocket Edition 1.0.0:</i><br>
+<i> --- Portal 2 Mod <b>r015</b>:</i>
 
 | Website | Support | Regular |
 |:--------|:-------:|:-------:|
-| Dropbox:           | [Support download](http://adf.ly/1ZvIPY) | [Regular download](https://www.dropbox.com/s/il0gi787xnoh6jl/Portal_2_Mod_r014_Desno365.modpkg?dl=1) |
-| Filecred:          | [Support download](http://adf.ly/1Z8GC8) | [Regular download](http://filecred.com/A7BEG570) |
-| MediaFire:         | [Support download](http://adf.ly/1Z8GAe) | [Regular download](http://www.mediafire.com/download/po3wf08f8ldifhz/Portal_2_Mod_r014_Desno365.modpkg) |
+| Dropbox:           | [Support download](http://adf.ly/1h9klm) | [Regular download](https://www.dropbox.com/s/7puy4y1pqz6mqc1/Portal_2_Mod_r015_Desno365.modpkg?dl=1) |
+| Filecred:          | [Support download](http://adf.ly/1h9kdA) | [Regular download](http://filecred.com/AB2AG586) |
+| MediaFire:         | [Support download](http://adf.ly/1h9kj5) | [Regular download](http://www.mediafire.com/file/1oa7s9ycb9udrr9/Portal_2_Mod_r015_Desno365.modpkg) |
 |----
 {: .table}
 
@@ -112,17 +112,22 @@ Click an icon under the "**Crafting**" column to display the crafting recipe of 
 
 ## Changelog
 
+**Portal 2 Mod r015**
+{% highlight text %}
+- NEW: support for Minecraft PE 1.0.0 (still has few bugs, portals aren't transparent for example)
+- UPDATE: improved Portal creation system
+- UPDATE: use less IDs for Portals blocks and Radio block, this means less conflicts with other mods (thanks to julianwi)
+- FIX: turrets now can't be killed by the player with the Portal Gun
+- FIX: baby turrets
+- FIX: many other fixes (for more information see commit history on https://github.com/Desno365/Portal-Mod)
+{% endhighlight %}
+
 **Portal 2 Mod r014**
 {% highlight text %}
 - NEW: easier installation, with just one .modpkg file. Manual sounds installation is no longer necessary!
 - UPDATE: blocks of the mod moved in the decorative blocks tab in the creative inventory
 - UPDATE: Long Fall Boots added in the creative inventory
 - FIX: fixed black text on dark background in the information UI
-{% endhighlight %}
-
-**Portal 2 Mod r013**
-{% highlight text %}
-- NEW: support for Minecraft PE 0.14.0
 {% endhighlight %}
 
 <br>
@@ -186,8 +191,7 @@ All the following trademarks are the properties of their respective owners as li
 • Thanks to <i>iChun ([@ohaiiChun](https://twitter.com/ohaiiChun)) for a few images extracted from his mod.<br>
 • Thanks to <i>[Sayomi_Inoue](http://www.minecraftforum.net/members/Sayomi_Inoue)</i> for [his textures](http://www.minecraftforum.net/forums/mapping-and-modding/resource-packs/2132158-16x-32x-1-8-x-3d-models-precisely-portal-and).<br>
 • Thanks to <i>MyNameIsAnti ([@AntiModPE](https://twitter.com/AntiModPE))</i> that made for me a fantastic render for the turret.<br>
-• Thanks to <i>[MC_miner_bros](http://www.minecraftforum.net/members/MC_miner_bros)</i> for some beautiful textures.<br>
-• Thanks to <i>[julianwi](https://github.com/julianwi)</i> for blocks IDs optimization.
+• Thanks to <i>[MC_miner_bros](http://www.minecraftforum.net/members/MC_miner_bros)</i> for some beautiful textures.
 
 ---
 

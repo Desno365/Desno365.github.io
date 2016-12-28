@@ -6,6 +6,16 @@ page-level-ads: true
 ---
 
 
+**Portal 2 Mod r015**
+{% highlight text %}
+- NEW: support for Minecraft PE 1.0.0 (still has few bugs, portals aren't transparent for example)
+- UPDATE: improved Portal creation system
+- UPDATE: use less IDs for Portals blocks and Radio block, this means less conflicts with other mods (thanks to julianwi)
+- FIX: turrets now can't be killed by the player with the Portal Gun
+- FIX: baby turrets
+- FIX: many other fixes (for more information see commit history on https://github.com/Desno365/Portal-Mod)
+{% endhighlight %}
+
 **Portal 2 Mod r014**
 {% highlight text %}
 - NEW: easier installation, with just one .modpkg file. Manual sounds installation is no longer necessary!
