@@ -15,9 +15,11 @@ page-level-ads: true
 
 * [Jukebox Mod]({{ site.url }}/minecraft/jukebox-mod)
 
-* [Turrets Mod]({{ site.url }}/minecraft/turrets-mod) (Discontinued)
+#### Discontinued mods:
 
-* [The Companion Mod]({{ site.url }}/minecraft/companion-mod) (Discontinued)
+* [Turrets Mod]({{ site.url }}/minecraft/turrets-mod)
+
+* [The Companion Mod]({{ site.url }}/minecraft/companion-mod)
 
 #### My maps:
 
@@ -28,6 +30,7 @@ page-level-ads: true
 * [Desno365's Mods](https://play.google.com/store/apps/details?id=com.desno365.mods)
 
 #### Libraries (for modders):
+
 * [Minecraft Button Library](https://github.com/Desno365/Minecraft-Button-Library)
 
 <br>
