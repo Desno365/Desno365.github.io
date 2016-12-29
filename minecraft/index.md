@@ -13,11 +13,11 @@ page-level-ads: true
 
 * [Laser Guns Addon]({{ site.url }}/minecraft/laser-mod)
 
-* [Turrets Mod]({{ site.url }}/minecraft/turrets-mod)
-
 * [Jukebox Mod]({{ site.url }}/minecraft/jukebox-mod)
 
-* [The Companion Mod]({{ site.url }}/minecraft/companion-mod)
+* [Turrets Mod]({{ site.url }}/minecraft/turrets-mod) (Discontinued)
+
+* [The Companion Mod]({{ site.url }}/minecraft/companion-mod) (Discontinued)
 
 #### My maps:
 
