@@ -42,14 +42,14 @@ Guns. Weapons. Explosions. This is the DesnoGuns Mod! :D
 
 ## Downloads
 
-<i>Minecraft Pocket Edition 1.0.0 & 0.16.2:</i><br>
-<i> --- DesnoGuns Mod <b>r020</b>:</i>
+<i>Minecraft Pocket Edition 1.0.0:</i><br>
+<i> --- DesnoGuns Mod <b>r021</b>:</i>
 
 | Website | Support | Regular |
 |:--------|:-------:|:-------:|
-| Dropbox:           | [Support download](http://adf.ly/1gieG8) | [Regular download](https://www.dropbox.com/s/jslu6njafk7p4yy/DesnoGuns_Mod_r020_Desno365.modpkg?dl=1) |
-| Filecred:          | [Support download](http://adf.ly/1giePi) | [Regular download](http://filecred.com/AB1CG585) |
-| MediaFire:         | [Support download](http://adf.ly/1gieSQ) | [Regular download](http://www.mediafire.com/file/pqawi9740jnlkur/DesnoGuns_Mod_r020_Desno365.modpkg)) |
+| Dropbox:           | [Support download](http://adf.ly/1hAwPH) | [Regular download](https://www.dropbox.com/s/jgd5cln70e7mdo1/DesnoGuns_Mod_r021_Desno365.modpkg?dl=1) |
+| Filecred:          | [Support download](http://adf.ly/1hAwH3) | [Regular download](http://filecred.com/AB2CG586) |
+| MediaFire:         | [Support download](http://adf.ly/1hAwKq) | [Regular download](http://www.mediafire.com/file/b9if64ykjf4262l/DesnoGuns_Mod_r021_Desno365.modpkg) |
 |----
 {: .table}
 
@@ -187,6 +187,13 @@ Click an icon under the "**Crafting**" column to display the crafting recipe of 
 
 ## Changelog
 
+**DesnoGuns Mod r021**
+{% highlight text %}
+- FIX: volume option not applied to miniguns
+- FIX: explosion too powerful due to changes in the latest versions of MCPE
+- UPDATE: smoother aiming animation
+{% endhighlight %}
+
 **DesnoGuns Mod r020**
 {% highlight text %}
 - UPDATE: full support for 1.0.0 (use the latest version of BlockLauncher)
@@ -194,17 +201,6 @@ Click an icon under the "**Crafting**" column to display the crafting recipe of 
 - FIX: lags caused by arrows on the ground
 - FIX: wrong health damage when hitting the mob multiple times
 - FIX: bouncing back arrows workaround not working
-{% endhighlight %}
-
-**DesnoGuns Mod r019**
-{% highlight text %}
-- NEW: support 0.16.x (check on the Play Store if you're using the latest version of BlockLauncher!)
-- NEW: the Iron Sights update!
-- NEW: some guns will show their iron sight when aiming (currently available for AK47, AUG, Desert Eagle, FNSCAR, Mini-Uzi, MP5, P90, Skorpion)
-- NEW: option for disabling iron sight if you don't like them
-- FIX: explosions not destroying blocks
-- ADDONS: fix custom guns with buttonType "on_touch_with_wait" not shooting when using an aim image
-- ADDONS: add isIronSight property that must be set to true when using an iron sight and not a full-screen scope for the gun (see Example Addon)
 {% endhighlight %}
 
 <br>
@@ -217,7 +213,8 @@ See the full changelog here:
 
 ## Known bugs and issues
 
-• With some devices (many Samsung devices) you can't move the aim while shooting. More information in the [Github issue tracker of the mod](https://github.com/Desno365/DesnoGuns-Mod/issues).<br><br>
+• With some devices (many Samsung devices) you can't move the aim while shooting. More information in the [Github issue tracker of the mod](https://github.com/Desno365/DesnoGuns-Mod/issues).<br>
+• The FOV option of Minecraft is overridden by the mod.<br><br>
 If you find a bug report it in the [minecraft-forum.net thread][thread] or use the [Github issue tracker](https://github.com/Desno365/DesnoGuns-Mod).
 
 ---
