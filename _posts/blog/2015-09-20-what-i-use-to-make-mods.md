@@ -10,7 +10,6 @@ image:
 date: 2015-09-20T11:00:53-04:00
 share: true
 comments: true
-page-level-ads: true
 ---
 
 Since many people asked me how I make mods and what I use to make them, here is a post where I have written the software programs I currently use.<br>

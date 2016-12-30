@@ -2,7 +2,6 @@
 layout: page
 title: Portal 2 Mod older versions
 excerpt: "Portal 2 Mod older versions"
-page-level-ads: true
 ---
 
 <i>Minecraft Pocket Edition 0.16.2 & 0.15.10 & 0.14.3:</i><br>

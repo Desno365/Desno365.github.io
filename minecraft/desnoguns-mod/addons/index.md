@@ -2,8 +2,6 @@
 layout: page
 title: DesnoGuns addons
 excerpt: "Add new guns in the DesnoGuns Mod"
-comments: false
-page-level-ads: true
 ---
 
 ## How to install an addon

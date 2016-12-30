@@ -10,7 +10,6 @@ image:
 date: 2014-12-12T16:08:55-04:00
 share: true
 comments: true
-page-level-ads: true
 ---
 
 I have just released a new mod! It brings a lot of weapons in MCPE. Its name is "DesnoGuns Mod" (before the name was DWGM, but I decided to change the name)

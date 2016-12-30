@@ -3,7 +3,6 @@ layout: page
 title: Featured addons
 excerpt: "DesnoGuns Mod featured addons"
 comments: true
-page-level-ads: true
 ---
 
 * Table of Contents

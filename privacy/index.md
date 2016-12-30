@@ -2,6 +2,8 @@
 layout: page
 title: Privacy
 excerpt: "Privacy policy this website uses"
+no_ads: true
+no_page_level_ads: true
 ---
 
 We use Google technologies to improve our content and keep it free.<br>

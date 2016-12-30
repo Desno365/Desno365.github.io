@@ -2,7 +2,6 @@
 layout: page
 title: DesnoGuns Mod older versions
 excerpt: "DesnoGuns Mod older versions"
-page-level-ads: true
 ---
 
 <i>Minecraft Pocket Edition 0.16.2:</i><br>

@@ -68,6 +68,6 @@
 {% include cookieconsent.html %}
 
 <!-- Page-level ads by Google -->
-{% if page.page-level-ads == true %}
-{% include ad-page-level-ads.html %}
+{% if page.no_page_level_ads != true %}
+	{% include ad-page-level-ads.html %}
 {% endif %}

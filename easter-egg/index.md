@@ -2,7 +2,9 @@
 layout: page
 title: Easter Egg
 excerpt: "Easter Egg"
+search_omit: true
 sitemap: false
+no_page_level_ads: true
 ---
 
 <br>

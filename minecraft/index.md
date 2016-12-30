@@ -2,7 +2,6 @@
 layout: page
 title: Minecraft PE mods
 excerpt: "All my work made for the Minecraft PE community"
-page-level-ads: true
 ---
 
 #### My mods:

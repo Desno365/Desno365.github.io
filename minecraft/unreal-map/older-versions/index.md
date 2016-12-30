@@ -2,7 +2,6 @@
 layout: page
 title: Unreal Geometry Map older versions
 excerpt: "Unreal Geometry Map older versions"
-page-level-ads: true
 ---
 
 <i>Minecraft Pocket Edition 0.13.0 & 0.12.3:</i><br>

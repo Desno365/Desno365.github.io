@@ -5,10 +5,11 @@ modified:
 categories: blog
 excerpt: ""
 tags: [website]
+image:
+  feature:
 date: 2015-05-02T16:35:55-04:00
 share: true
 comments: true
-page-level-ads: true
 ---
 
 Recently this website has reached 2'500'000 page views and on this day 7 months ago I released it publicly.<br>

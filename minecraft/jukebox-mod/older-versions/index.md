@@ -2,7 +2,6 @@
 layout: page
 title: Jukebox Mod older versions
 excerpt: "Jukebox Mod older versions"
-page-level-ads: true
 ---
 
 <i>Minecraft Pocket Edition 0.13.1:</i><br>

@@ -2,7 +2,6 @@
 layout: page
 title: Jukebox Mod full changelog
 excerpt: "Jukebox Mod full changelog"
-page-level-ads: true
 ---
 
 

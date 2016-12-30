@@ -2,7 +2,6 @@
 layout: page
 title: Laser Guns full changelog
 excerpt: "Laser Guns full changelog"
-page-level-ads: true
 ---
 
 **Laser Guns r004**
