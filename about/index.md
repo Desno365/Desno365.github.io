@@ -8,19 +8,18 @@ no_ads: true
 no_page_level_ads: true
 ---
 
-My name is Dennis Motta, I’m 19 years old and I'm a student and a swimmer. Currently I live near Milan in Italy.
+My name is Dennis Motta, I’m a 19-year-old student and swimmer. Currently I live near Milan in Italy.
 
-On this website I will add things that I make for fun, like mods for games or more generally things that are the result of many hours of coding.
+On this website you can find projects that I have made for fun, like mods for games or more generally things that are the result of many hours of coding.
 
-These are the geek stuffs that I use:
-{% highlight text %}
-- OnePlus One
-- Nexus 4
-- MacBook Pro (Retina, 15-inch, Mid 2015)
-{% endhighlight %}
+---
 
-If you want to contact me all my public accounts are in the footer of the page, you can also follow me on Twitter so you'll get the latest news about me, my mods or whatever I do. :)
+### Social networks
 
-<br>
+If you like to stay tuned on what I do these are the social networks I use:<br>
+• <i>Twitter</i> for geek things, like Minecraft. My profile: <a href="https://twitter.com/{{ site.owner.twitter }}" title="{{ site.owner.name}} on Twitter" target="_blank">@desno365</a><br>
+• <i>YouTube</i> for videos, usually showcasing my creations. My profile: <a href="http://www.youtube.com/channel/{{ site.owner.google.youtube }}/videos" title="{{ site.owner.name}} on Youtube" target="_blank">Desno365</a><br>
+• <i>GitHub</i> where everyone can see the source code of my projects. My profile: <a href="https://github.com/{{ site.owner.github }}" title="{{ site.owner.name}} on GitHub" target="_blank">Desno365</a><br>
+• <i>Instagram</i> for insight into my private life. My profile: <a href="https://instagram.com/{{ site.owner.instagram }}" title="{{ site.owner.name}} on Instagram" target="_blank">dennismotta</a><br>
 
-> Thanks for reading!
+For business, requests, or just to get in contact directly send me an email: <a href="mailto:{{ site.owner.email }}" title="Send a mail to {{ site.owner.name}}" target="_blank">desno365@gmail.com</a>
