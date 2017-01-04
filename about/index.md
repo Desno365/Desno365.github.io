@@ -3,7 +3,7 @@ layout: page
 title: About me
 excerpt: "If you want to know more about who is Desno365 this is the page you are looking for"
 image:
-  feature: background-about.png
+  feature:
 no_ads: true
 no_page_level_ads: true
 ---
