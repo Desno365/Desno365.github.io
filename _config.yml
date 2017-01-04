@@ -2,7 +2,7 @@
 
 title: Desno365's blog
 locale: en_US
-description: Just a little website where I publish what I have made.
+description: Just a little website where I publish my works.
 logo: site-logo.png
 search: false
 url: http://desno365.net
@@ -64,7 +64,7 @@ owner:
   pinterest: #username
   weibo: #userid
   google:
-    plus: DennisMottaDesno365
+    plus:
     youtube: UCJQL47nQnsijcaN_7pMsjCQ
     verify: Kf4WNcQ8vbpqczQdZHuGOcX8O4LH6EsO0-MruCK8oPw
   bing-verify: F2B0E247C6AB9BC3F524FA8EBD3DC6CE
