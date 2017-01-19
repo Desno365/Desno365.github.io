@@ -31,16 +31,16 @@ You will also find comments that explain every API you can use in your addon.
 Example Addon for developers r004: [Download](https://www.dropbox.com/s/m88ziz3cflgg6gx/Example_addon_for_developers_r004.modpkg?dl=1)
 
 **Example Addon r004 Changelog**
-{% highlight text %}
+```
 - added two iron sight for the P90 and AK47
 - isIronSight property examples (must be used for iron sight for DesnoGuns r019 and up)
-{% endhighlight %}
+```
 
 **Example Addon r003 Changelog**
-{% highlight text %}
+```
 - new gun: M40A3 Night Vision
 - examples for new APIs: customAimImageLayerPath, hasNightVision, countdownSoundExplosiveOnTime
-{% endhighlight %}
+```
 
 ---
 

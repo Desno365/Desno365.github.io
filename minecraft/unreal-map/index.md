@@ -79,22 +79,22 @@ For people who prefer screenshoots:
 ## Changelog
 
 **Unreal Geometry Map r003**
-{% highlight text %}
+```
 - UPDATE: hostile mobs are automatically removed from the map
 - FIX: fixed a bug with devices running Android 6.0 or up
 - FIX: fixed wrong position of trapdoors at the end of the map
-{% endhighlight %}
+```
 
 **Unreal Geometry Map r002**
-{% highlight text %}
+```
 - FIX: fixed a bug of the mod that can cause a crash when the player enters in a world
 - FIX: other bug-fixes inside the mod
-{% endhighlight %}
+```
 
 **Unreal Geometry Map r001**
-{% highlight text %}
+```
 - Initial release
-{% endhighlight %}
+```
 
 ---
 

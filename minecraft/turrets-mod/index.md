@@ -94,9 +94,9 @@ Click an icon under the "**Crafting**" column to display the crafting recipe of 
 ## Changelog
 
 **Turrets Mod r001**
-{% highlight text %}
+```
 - Initial release
-{% endhighlight %}
+```
 
 ---
 

@@ -103,10 +103,10 @@ Click an icon under the "**Crafting**" column to display the crafting recipe of 
 ## Changelog
 
 **Laser Guns r004**
-{% highlight text %}
+```
 - NEW: the Laser Mod has just become the Laser Guns Addon
 - NEW: new gun, the Laser Rail Gun
-{% endhighlight %}
+```
 
 <br>
 
