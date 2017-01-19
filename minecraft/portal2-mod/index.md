@@ -113,22 +113,22 @@ Click an icon under the "**Crafting**" column to display the crafting recipe of 
 ## Changelog
 
 **Portal 2 Mod r015**
-```
+{% highlight text %}
 - NEW: support for Minecraft PE 1.0.0 (still has few bugs, portals aren't transparent for example)
 - UPDATE: improved Portal creation system
 - UPDATE: use less IDs for Portals blocks and Radio block, this means less conflicts with other mods (thanks to julianwi)
 - FIX: turrets now can't be killed by the player with the Portal Gun
 - FIX: baby turrets
 - FIX: many other fixes (for more information see commit history on https://github.com/Desno365/Portal-Mod)
-```
+{% endhighlight %}
 
 **Portal 2 Mod r014**
-```
+{% highlight text %}
 - NEW: easier installation, with just one .modpkg file. Manual sounds installation is no longer necessary!
 - UPDATE: blocks of the mod moved in the decorative blocks tab in the creative inventory
 - UPDATE: Long Fall Boots added in the creative inventory
 - FIX: fixed black text on dark background in the information UI
-```
+{% endhighlight %}
 
 <br>
 

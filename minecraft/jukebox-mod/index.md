@@ -87,9 +87,9 @@ Click an icon under the "**Crafting**" column to display the crafting recipe of 
 ## Changelog
 
 **Jukebox Mod r005**
-```
+{% highlight text %}
 - NEW: easier installation!
-```
+{% endhighlight %}
 
 <br>
 

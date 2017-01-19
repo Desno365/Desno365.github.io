@@ -92,27 +92,27 @@ Click an icon under the "**Crafting**" column to display the crafting recipe of 
 ## Changelog
 
 **The Companion Mod v2.1**
-```
+{% highlight text %}
 - Added a GUI for the Companion Information item
 - Added the Companion Settings GUI (change name and skin)
 - Added feeding system for companions (if you give food to a companion his health will increase)
 - If you attack the companion 3 times he will attack you
 - Companions talk to you
-```
+{% endhighlight %}
 
 **The Companion Mod v2.0**
-```
+{% highlight text %}
 - Now you can spawn more companions
 - Added the "Companion Spawner" item in the crafting table
 - Added the "Companion Information" item in the crafting table
 - Added the "Companion Settings" item in the crafting table (it will be used in the next version)
 - Other improvements
-```
+{% endhighlight %}
 
 **The Companion Mod v1.0**
-```
+{% highlight text %}
 - Initial release
-```
+{% endhighlight %}
 
 ---
 

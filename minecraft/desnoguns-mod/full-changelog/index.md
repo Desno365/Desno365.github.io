@@ -6,23 +6,23 @@ excerpt: "DesnoGuns Mod full changelog"
 
 
 **DesnoGuns Mod r021**
-```
+{% highlight text %}
 - FIX: volume option not applied to miniguns
 - FIX: explosion too powerful due to changes in the latest versions of MCPE
 - UPDATE: smoother aiming animation
-```
+{% endhighlight %}
 
 **DesnoGuns Mod r020**
-```
+{% highlight text %}
 - UPDATE: full support for 1.0.0 (use the latest version of BlockLauncher)
 - FIX: huge lags when shooting explosive arrows in the air
 - FIX: lags caused by arrows on the ground
 - FIX: wrong health damage when hitting the mob multiple times
 - FIX: bouncing back arrows workaround not working
-```
+{% endhighlight %}
 
 **DesnoGuns Mod r019**
-```
+{% highlight text %}
 - NEW: support 0.16.x (check on the Play Store if you're using the latest version of BlockLauncher!)
 - NEW: the Iron Sights update!
 - NEW: some guns will show their iron sight when aiming (currently available for AK47, AUG, Desert Eagle, FNSCAR, Mini-Uzi, MP5, P90, Skorpion)
