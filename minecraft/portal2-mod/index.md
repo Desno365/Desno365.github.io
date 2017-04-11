@@ -35,7 +35,7 @@ Five different Portal Guns, the Aerial Faith Plate, Propulsion and Repulsion gel
 
 <a href="https://play.google.com/store/apps/details?id=com.desno365.mods">
   <img alt="Get it on Google Play"
-	   src="/images/en_generic_rgb_wo_45.png" />
+	   src="/images/google_play_badge.png" />
 </a>
 
 <br>

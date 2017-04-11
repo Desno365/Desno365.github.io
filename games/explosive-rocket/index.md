@@ -30,7 +30,7 @@ Are you able to reach a score of 10'000 and beat all your friends?
 
 <a href="https://play.google.com/store/apps/details?id=com.desno365.explosiverockets">
 	<img alt="Get it on Google Play"
-		src="/images/en_generic_rgb_wo_45.png" />
+		src="/images/google_play_badge.png" />
 </a>
 <a href="http://itunes.apple.com/app/id1221970675?mt=8">
 	<img alt="Download on the App Store"
