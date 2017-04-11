@@ -45,6 +45,8 @@ Five different Portal Guns, the Aerial Faith Plate, Propulsion and Repulsion gel
 
 ---
 
+{% include ad-explosive-rocket.html %}
+
 ## Downloads
 
 <i>Minecraft Pocket Edition 1.0.2:</i><br>

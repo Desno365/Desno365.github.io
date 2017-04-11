@@ -39,6 +39,8 @@ comments: true
 
 ---
 
+{% include ad-explosive-rocket.html %}
+
 ## Downloads
 
 <i>Minecraft Pocket Edition 0.10.4:</i><br>

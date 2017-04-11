@@ -41,6 +41,8 @@ A video explains it better: [The Unreal Geometry Map YouTube video](http://youtu
 
 ---
 
+{% include ad-explosive-rocket.html %}
+
 ## Downloads
 
 <i>Minecraft Pocket Edition 1.0.2 & 0.16.2 & 0.15.10 & 0.14.3:</i><br>

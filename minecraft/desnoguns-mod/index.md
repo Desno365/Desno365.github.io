@@ -40,6 +40,8 @@ Guns. Weapons. Explosions. This is the DesnoGuns Mod! :D
 
 ---
 
+{% include ad-explosive-rocket.html %}
+
 ## Downloads
 
 <i>Minecraft Pocket Edition 1.0.2:</i><br>

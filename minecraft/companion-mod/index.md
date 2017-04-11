@@ -32,6 +32,8 @@ Only the level of your companions is saved when you exit the game, so you have t
 
 ---
 
+{% include ad-explosive-rocket.html %}
+
 ## Downloads
 
 <i>Any Minecraft Pocket Edition version:</i><br>
