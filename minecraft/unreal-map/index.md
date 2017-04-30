@@ -45,14 +45,13 @@ A video explains it better: [The Unreal Geometry Map YouTube video](http://youtu
 
 ## Downloads
 
-<i>Minecraft Pocket Edition 1.0.2 & 0.16.2 & 0.15.10 & 0.14.3:</i><br>
+<i>Minecraft Pocket Edition 1.0.7 & 0.16.2 & 0.15.10 & 0.14.3:</i><br>
 <i> --- Unreal Geometry Map <b>r003</b>:</i>
 
 | Website | Support | Regular |
 |:--------|:-------:|:-------:|
-| Dropbox:           | [Support download](http://adf.ly/1ZvI05) | [Regular download](https://www.dropbox.com/s/abcdwn8s3pyoxqx/Unreal_Geometry_r003_Desno365.zip?dl=1) |
+| Direct:            | [Support download](http://adf.ly/1mQMEU) | [Regular download]({{ site.url }}/minecraft/unreal-map/download/) |
 | Filecred:          | [Support download](http://adf.ly/1XjXkF) | [Regular download](http://filecred.com/A578G56D) |
-| MediaFire:         | [Support download](http://adf.ly/1XjXg9) | [Regular download](http://www.mediafire.com/download/son5aa6u7n12plw/Unreal_Geometry_r003_Desno365.zip) |
 |----
 {: .table}
 

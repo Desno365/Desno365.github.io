@@ -47,14 +47,13 @@ comments: true
 
 ## Downloads
 
-<i>Minecraft Pocket Edition 1.0.2 & 0.16.2 & 0.15.10 & 0.14.3:</i><br>
+<i>Minecraft Pocket Edition 1.0.7 & 0.16.2 & 0.15.10 & 0.14.3:</i><br>
 <i> --- Jukebox Mod <b>r005</b>:</i>
 
 | Website | Support | Regular |
 |:--------|:-------:|:-------:|
-| Dropbox:         | [Support download](http://adf.ly/1ZvIZV) | [Regular download](https://www.dropbox.com/s/sbjktg2k5b1xlyb/Jukebox_Mod_r005_Desno365.modpkg?dl=1) |
+| Direct:          | [Support download](http://adf.ly/1mQM3y) | [Regular download]({{ site.url }}/minecraft/jukebox-mod/download/) |
 | Filecred:        | [Support download](http://adf.ly/1XgbHZ) | [Regular download](http://filecred.com/A571G56D) |
-| MediaFire:       | [Support download](http://adf.ly/1XZUwC) | [Regular download](http://www.mediafire.com/download/qv6bfl5ysdld561/Jukebox_Mod_r005_Desno365.modpkg) |
 |----
 {: .table}
 

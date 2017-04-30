@@ -49,14 +49,13 @@ Five different Portal Guns, the Aerial Faith Plate, Propulsion and Repulsion gel
 
 ## Downloads
 
-<i>Minecraft Pocket Edition 1.0.2:</i><br>
+<i>Minecraft Pocket Edition 1.0.7:</i><br>
 <i> --- Portal 2 Mod <b>r015</b>:</i>
 
 | Website | Support | Regular |
 |:--------|:-------:|:-------:|
-| Dropbox:           | [Support download](http://adf.ly/1h9klm) | [Regular download](https://www.dropbox.com/s/7puy4y1pqz6mqc1/Portal_2_Mod_r015_Desno365.modpkg?dl=1) |
+| Direct:            | [Support download](http://adf.ly/1mQLw4) | [Regular download]({{ site.url }}/minecraft/portal2-mod/download/) |
 | Filecred:          | [Support download](http://adf.ly/1h9kdA) | [Regular download](http://filecred.com/AB2AG586) |
-| MediaFire:         | [Support download](http://adf.ly/1h9kj5) | [Regular download](http://www.mediafire.com/file/1oa7s9ycb9udrr9/Portal_2_Mod_r015_Desno365.modpkg) |
 |----
 {: .table}
 
