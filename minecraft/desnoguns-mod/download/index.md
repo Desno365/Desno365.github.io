@@ -15,6 +15,8 @@ sitemap: false
 		src="/images/download-now.png" />
 </a>
 
+---
+
 {% include ad-content.html %}
 
 ---
