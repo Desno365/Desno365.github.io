@@ -44,14 +44,13 @@ Guns. Weapons. Explosions. This is the DesnoGuns Mod! :D
 
 ## Downloads
 
-<i>Minecraft Pocket Edition 1.0.2:</i><br>
+<i>Minecraft Pocket Edition 1.0.7:</i><br>
 <i> --- DesnoGuns Mod <b>r021</b>:</i>
 
 | Website | Support | Regular |
 |:--------|:-------:|:-------:|
-| Dropbox:           | [Support download](http://adf.ly/1hAwPH) | [Regular download](https://www.dropbox.com/s/jgd5cln70e7mdo1/DesnoGuns_Mod_r021_Desno365.modpkg?dl=1) |
+| Direct:            | [Support download](http://adf.ly/1mQKuA) | [Regular download]({{ site.url }}/minecraft/desnoguns-mod/download/) |
 | Filecred:          | [Support download](http://adf.ly/1hAwH3) | [Regular download](http://filecred.com/AB2CG586) |
-| MediaFire:         | [Support download](http://adf.ly/1hAwKq) | [Regular download](http://www.mediafire.com/file/b9if64ykjf4262l/DesnoGuns_Mod_r021_Desno365.modpkg) |
 |----
 {: .table}
 
