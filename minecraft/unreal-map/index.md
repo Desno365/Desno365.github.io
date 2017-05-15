@@ -45,7 +45,7 @@ A video explains it better: [The Unreal Geometry Map YouTube video](http://youtu
 
 ## Downloads
 
-<i>Minecraft Pocket Edition 1.0.7 & 0.16.2 & 0.15.10 & 0.14.3:</i><br>
+<i>Minecraft Pocket Edition 1.0.8 & 0.16.2 & 0.15.10 & 0.14.3:</i><br>
 <i> --- Unreal Geometry Map <b>r003</b>:</i>
 
 | Website | Support | Regular |
