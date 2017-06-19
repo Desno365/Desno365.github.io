@@ -130,7 +130,7 @@ If you find a bug report it in the [minecraft-forum.net thread][thread].
 
 ## F.A.Q.
 
-*• Can I share this mod on whatever-website.com / with my friends / on the xyz social network ?*<br>
+*• Can I share this mod on a website / to my friends / on a social network ?*<br>
 *• Can I add this mod in my modpack?*<br>
 Yes you can, and you don't have to ask my permission, but you have to follow the [license of this mod]({{ site.url }}/minecraft/companion-mod/#copyrights), this means that you have to give me credits and you can't use my work for commercial purposes (in a few words you can't make money from my work, for example you can't sell my mod).<br>
 
