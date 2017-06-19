@@ -8,7 +8,7 @@ sitemap: false
 
 {% include ad-explosive-rocket.html %}
 
-### Laser Guns Addon r004
+### Download Laser Guns Addon r004
 
 <a href="https://github.com/Desno365/DesnoGuns-Mod/releases/download/r021/Laser_Guns_Addon_r004_Desno365.modpkg">
 	<img alt="Download now"

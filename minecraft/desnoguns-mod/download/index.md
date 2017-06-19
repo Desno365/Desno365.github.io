@@ -8,7 +8,7 @@ sitemap: false
 
 {% include ad-explosive-rocket.html %}
 
-### DesnoGuns Mod r022
+### Download DesnoGuns Mod r022
 
 <a href="https://github.com/Desno365/DesnoGuns-Mod/releases/download/r022/DesnoGuns_Mod_r022_Desno365.modpkg">
 	<img alt="Download now"

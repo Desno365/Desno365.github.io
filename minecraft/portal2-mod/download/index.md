@@ -8,7 +8,7 @@ sitemap: false
 
 {% include ad-explosive-rocket.html %}
 
-### Portal 2 Mod r015
+### Download Portal 2 Mod r015
 
 <a href="https://github.com/Desno365/Portal-Mod/releases/download/r015/Portal_2_Mod_r015_Desno365.modpkg">
 	<img alt="Download now"

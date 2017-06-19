@@ -8,7 +8,7 @@ sitemap: false
 
 {% include ad-explosive-rocket.html %}
 
-### Jukebox Mod r005
+### Download Jukebox Mod r005
 
 <a href="https://github.com/Desno365/Jukebox-Mod/releases/download/r005/Jukebox_Mod_r005_Desno365.modpkg">
 	<img alt="Download now"
