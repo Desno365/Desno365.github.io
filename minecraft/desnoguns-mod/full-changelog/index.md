@@ -5,6 +5,13 @@ excerpt: "DesnoGuns Mod full changelog"
 ---
 
 
+**DesnoGuns Mod r022**
+{% highlight text %}
+- NEW: experimental support for Minecraft PE 1.1.0
+- NEW: THE MELEE WEAPONS UPDATE!
+- NEW: 7 new melee weapons have been added to the mod so you can now smash zombies and hostile mobs!
+{% endhighlight %}
+
 **DesnoGuns Mod r021**
 {% highlight text %}
 - FIX: volume option not applied to miniguns
