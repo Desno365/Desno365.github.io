@@ -6,7 +6,7 @@ search_omit: true
 sitemap: false
 ---
 
-{% include ad-explosive-rocket.html %}
+{% include ad-content-responsive.html %}
 
 ### Download Laser Guns Addon r004
 
