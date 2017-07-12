@@ -44,13 +44,13 @@ Guns. Weapons. Explosions. This is the DesnoGuns Mod! :D
 
 ## Downloads
 
-<i>Minecraft Pocket Edition 1.1.0:</i><br>
-<i> --- DesnoGuns Mod <b>r022</b>:</i>
+<i>Minecraft Pocket Edition 1.1.3:</i><br>
+<i> --- DesnoGuns Mod <b>r023</b>:</i>
 
 | Website | Support | Regular |
 |:--------|:-------:|:-------:|
 | Direct:            | [Support download](http://adf.ly/1mQKuA) | [Regular download]({{ site.url }}/minecraft/desnoguns-mod/download/) |
-| Filecred:          | [Support download](http://adf.ly/1n2Ldt) | [Regular download](http://filecred.com/AB49G594) |
+| Filecred:          | [Support download](http://adf.ly/1nO2II) | [Regular download](http://filecred.com/AB4DG596) |
 |----
 {: .table}
 
@@ -196,18 +196,18 @@ Click an icon under the "**Crafting**" column to display the crafting recipe of 
 
 ## Changelog
 
+**DesnoGuns Mod r023**
+{% highlight text %}
+- FIX: fixed not working recoil
+- FIX: fixed UI not hidden when opening the inventory or the pause menu
+- FIX: fixed chainsaw and machete ability to cut wood and grass
+{% endhighlight %}
+
 **DesnoGuns Mod r022**
 {% highlight text %}
 - NEW: experimental support for Minecraft PE 1.1.0
 - NEW: THE MELEE WEAPONS UPDATE!
 - NEW: 7 new melee weapons have been added to the mod so you can now smash zombies and hostile mobs!
-{% endhighlight %}
-
-**DesnoGuns Mod r021**
-{% highlight text %}
-- FIX: volume option not applied to miniguns
-- FIX: explosion too powerful due to changes in the latest versions of MCPE
-- UPDATE: smoother aiming animation
 {% endhighlight %}
 
 <br>

@@ -5,6 +5,13 @@ excerpt: "DesnoGuns Mod full changelog"
 ---
 
 
+**DesnoGuns Mod r023**
+{% highlight text %}
+- FIX: fixed not working recoil
+- FIX: fixed UI not hidden when opening the inventory or the pause menu
+- FIX: fixed chainsaw and machete ability to cut wood and grass
+{% endhighlight %}
+
 **DesnoGuns Mod r022**
 {% highlight text %}
 - NEW: experimental support for Minecraft PE 1.1.0

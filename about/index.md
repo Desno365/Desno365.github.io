@@ -8,7 +8,7 @@ no_ads: true
 no_page_level_ads: true
 ---
 
-My name is Dennis Motta, I’m a 19-year-old student of computer engineering and a swimmer. Currently I live near Milan in Italy.
+My name is Dennis Motta, I’m a 20-year-old computer engineering student. Currently I live near Milan in Italy.
 
 On this website you can find projects that I have made for fun, like mods for games or more generally things that are the result of many hours of coding.
 
