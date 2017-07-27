@@ -26,7 +26,9 @@ Guns. Weapons. Explosions. This is the DesnoGuns Mod! :D
 • Open [BlockLauncher](https://play.google.com/store/apps/details?id=net.zhuoweizhang.mcpelauncher) and in <i>Manage ModPE scripts</i> import the modpkg file from local storage.<br>
 • Restart BlockLauncher and enjoy the mod!
 
-• Optional: download the ["Desno365's Mods" app](https://play.google.com/store/apps/details?id=com.desno365.mods) from Google Play Store.
+•• Optional: download the [InventoryPlus addon](http://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-mods-tools/2842644) to get separated tabs for guns.
+
+•• Optional: download the ["Desno365's Mods" app](https://play.google.com/store/apps/details?id=com.desno365.mods) from Google Play Store to get news and notifications of new mod versions.
 
 <a href="https://play.google.com/store/apps/details?id=com.desno365.mods">
 	<img alt="Get it on Google Play"
@@ -44,13 +46,13 @@ Guns. Weapons. Explosions. This is the DesnoGuns Mod! :D
 
 ## Downloads
 
-<i>Minecraft Pocket Edition 1.1.3:</i><br>
-<i> --- DesnoGuns Mod <b>r023</b>:</i>
+<i>Minecraft Pocket Edition 1.1.4:</i><br>
+<i> --- DesnoGuns Mod <b>r024</b>:</i>
 
 | Website | Support | Regular |
 |:--------|:-------:|:-------:|
 | Direct:            | [Support download](http://adf.ly/1mQKuA) | [Regular download]({{ site.url }}/minecraft/desnoguns-mod/download/) |
-| Filecred:          | [Support download](http://adf.ly/1nO2II) | [Regular download](http://filecred.com/AB4DG596) |
+| Filecred:          | [Support download](http://adf.ly/1nb4T9) | [Regular download](http://filecred.com/AB52G597) |
 |----
 {: .table}
 
@@ -116,6 +118,8 @@ Click an icon under the "**Crafting**" column to display the crafting recipe of 
 | Jungle Camo Body            | 3290     | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/JungleCamoBody.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/JungleCamoBody.png" alt="image"></a></figure> |
 | Jungle Camo Pants           | 3291     | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/JungleCamoPants.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/JungleCamoPants.png" alt="image"></a></figure> |
 | Jungle Camo Boots           | 3292     | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/JungleCamoBoots.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/JungleCamoBoots.png" alt="image"></a></figure> |
+| Exoskeleton Upper           | 3293     | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/ExoskeletonUpper.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/ExoskeletonUpper.png" alt="image"></a></figure> |
+| Exoskeleton Lower           | 3294     | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/ExoskeletonLower.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/ExoskeletonLower.png" alt="image"></a></figure> |
 | <b>Ammunitions</b>          | 3340≈3349|           |
 | Assault Rifle Ammo          | 3340     | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/AK47Ammo.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/AK47Ammo.png" alt="image"></a></figure> |
 | Sub Machine Ammo            | 3341     | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/MP5Ammo.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/MP5Ammo.png" alt="image"></a></figure> |
@@ -196,18 +200,17 @@ Click an icon under the "**Crafting**" column to display the crafting recipe of 
 
 ## Changelog
 
+**DesnoGuns Mod r024**
+{% highlight text %}
+- NEW: the Exoskeleton armor!
+- NEW: separated tabs for guns using InventoryPlus
+{% endhighlight %}
+
 **DesnoGuns Mod r023**
 {% highlight text %}
 - FIX: fixed not working recoil
 - FIX: fixed UI not hidden when opening the inventory or the pause menu
 - FIX: fixed chainsaw and machete ability to cut wood and grass
-{% endhighlight %}
-
-**DesnoGuns Mod r022**
-{% highlight text %}
-- NEW: experimental support for Minecraft PE 1.1.0
-- NEW: THE MELEE WEAPONS UPDATE!
-- NEW: 7 new melee weapons have been added to the mod so you can now smash zombies and hostile mobs!
 {% endhighlight %}
 
 <br>

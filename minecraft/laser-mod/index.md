@@ -43,7 +43,7 @@ The Laser Guns Addon for the DesnoGuns Mod adds awesome new futuristic guns in M
 
 ## Downloads
 
-<i>Minecraft Pocket Edition 1.1.3:</i><br>
+<i>Minecraft Pocket Edition 1.1.4:</i><br>
 <i> --- Laser Guns Addon <b>r004</b>:</i>
 
 | Website | Support | Regular |

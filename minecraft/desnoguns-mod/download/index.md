@@ -8,9 +8,9 @@ sitemap: false
 
 {% include ad-content-responsive.html %}
 
-### Download DesnoGuns Mod r023
+### Download DesnoGuns Mod r024
 
-<a href="https://github.com/Desno365/DesnoGuns-Mod/releases/download/r023/DesnoGuns_Mod_r023_Desno365.modpkg">
+<a href="https://github.com/Desno365/DesnoGuns-Mod/releases/download/r024/DesnoGuns_Mod_r024_Desno365.modpkg">
 	<img alt="Download now"
 		src="/images/download-now.png" />
 </a>

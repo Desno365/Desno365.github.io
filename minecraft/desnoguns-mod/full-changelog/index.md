@@ -5,6 +5,12 @@ excerpt: "DesnoGuns Mod full changelog"
 ---
 
 
+**DesnoGuns Mod r024**
+{% highlight text %}
+- NEW: the Exoskeleton armor!
+- NEW: separated tabs for guns using InventoryPlus
+{% endhighlight %}
+
 **DesnoGuns Mod r023**
 {% highlight text %}
 - FIX: fixed not working recoil
