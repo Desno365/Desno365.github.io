@@ -47,7 +47,7 @@ comments: true
 
 ## Downloads
 
-<i>Minecraft Pocket Edition 1.1.4 & 1.0.8 & 0.16.2 & 0.15.10 & 0.14.3:</i><br>
+<i>Minecraft Pocket Edition 1.1.5 & 1.0.8 & 0.16.2 & 0.15.10 & 0.14.3:</i><br>
 <i> --- Jukebox Mod <b>r005</b>:</i>
 
 | Website | Support | Regular |
