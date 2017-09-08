@@ -46,13 +46,12 @@ Guns. Weapons. Explosions. This is the DesnoGuns Mod! :D
 
 ## Downloads
 
-<i>Minecraft Pocket Edition 1.1.5:</i><br>
-<i> --- DesnoGuns Mod <b>r024</b>:</i>
+<i>Minecraft Pocket Edition 1.2 beta & 1.1.5:</i><br>
+<i> --- DesnoGuns Mod <b>r025</b>:</i>
 
 | Website | Support | Regular |
 |:--------|:-------:|:-------:|
 | Direct:            | [Support download](http://adf.ly/1mQKuA) | [Regular download]({{ site.url }}/minecraft/desnoguns-mod/download/) |
-| Filecred:          | [Support download](http://adf.ly/1nb4T9) | [Regular download](http://filecred.com/AB52G597) |
 |----
 {: .table}
 
@@ -133,8 +132,8 @@ Click an icon under the "**Crafting**" column to display the crafting recipe of 
 | Explosive Arrow             | 3349     | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/ExplosiveArrow.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/ExplosiveArrow.png" alt="image"></a></figure> |
 | <b>Guns</b>                 | 464≈511 & 3366≈3377 |           |
 | <i>Pro Guns</i>             |          |           |
-| AA-12                       | 509      | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/shotgun.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/AA12.png" alt="image"></a></figure> |
-| Incendiary Grenade Launcher | 510      | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/launcher.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/IncendiaryGL.png" alt="image"></a></figure> |
+| AA-12                       | 3387     | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/shotgun.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/AA12.png" alt="image"></a></figure> |
+| Incendiary Grenade Launcher | 3388     | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/launcher.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/IncendiaryGL.png" alt="image"></a></figure> |
 | MSR                         | 3369     | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/sniper-rifle.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/MSR.png" alt="image"></a></figure> |
 | <i>Free Guns</i>            |          |           |
 | .44 Magnum                  | 3366     | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/handgun.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/44Magnum.png" alt="image"></a></figure> |
@@ -150,7 +149,7 @@ Click an icon under the "**Crafting**" column to display the crafting recipe of 
 | Desert Eagle                | 467      | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/handgun.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/DesertEagle.png" alt="image"></a></figure> |
 | Desert Eagle Gold           | 468      | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/handgun.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/DesertEagleGold.png" alt="image"></a></figure> |
 | Dragunov                    | 469      | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/sniper-rifle.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/Dragunov.png" alt="image"></a></figure> |
-| Flamethrower                | 508      | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/minigun.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/Flamethrower.png" alt="image"></a></figure> |
+| Flamethrower                | 3386     | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/minigun.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/Flamethrower.png" alt="image"></a></figure> |
 | FNSCAR                      | 470      | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/assault-rifle.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/FNSCAR.png" alt="image"></a></figure> |
 | G3                          | 471      | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/assault-rifle.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/G3.png" alt="image"></a></figure> |
 | G36                         | 472      | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/assault-rifle.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/G36.png" alt="image"></a></figure> |
@@ -172,7 +171,7 @@ Click an icon under the "**Crafting**" column to display the crafting recipe of 
 | M1014                       | 487      | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/shotgun.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/M1014.png" alt="image"></a></figure> |
 | M1887                       | 488      | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/shotgun.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/M1887.png" alt="image"></a></figure> |
 | Makarov                     | 489      | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/handgun.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/Makarov.png" alt="image"></a></figure> |
-| Minigun Explosive           | 511      | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/minigun.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/Minigun_Explosive.png" alt="image"></a></figure> |
+| Minigun Explosive           | 3389     | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/minigun.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/Minigun_Explosive.png" alt="image"></a></figure> |
 | Minigun                     | 490      | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/minigun.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/Minigun.png" alt="image"></a></figure> |
 | Mini-Uzi                    | 491      | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/machine-pistol.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/MiniUzi.png" alt="image"></a></figure> |
 | MP5                         | 492      | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/sub-machine.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/MP5.png" alt="image"></a></figure> |
@@ -185,14 +184,14 @@ Click an icon under the "**Crafting**" column to display the crafting recipe of 
 | RPD                         | 497      | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/light-machine.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/RPD.png" alt="image"></a></figure> |
 | RPG                         | 498      | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/launcher.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/RPG.png" alt="image"></a></figure> |
 | RPK                         | 499      | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/assault-rifle.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/RPK.png" alt="image"></a></figure> |
-| SG550                       | 500      | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/assault-rifle.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/SG550.png" alt="image"></a></figure> |
-| SIGP226                     | 501      | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/handgun.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/SIGP226.png" alt="image"></a></figure> |
-| Skorpion                    | 502      | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/machine-pistol.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/Skorpion.png" alt="image"></a></figure> |
-| SPAS-12                     | 503      | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/shotgun.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/SPAS.png" alt="image"></a></figure> |
-| USP                         | 504      | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/handgun.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/USP.png" alt="image"></a></figure> |
-| W1200                       | 505      | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/shotgun.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/W1200.png" alt="image"></a></figure> |
-| Winter Minigun              | 506      | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/minigun.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/Xmas-minigun.png" alt="image"></a></figure> |
-| Winter Sniper               | 507      | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/sniper-rifle.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/Xmas-sniper.png" alt="image"></a></figure> |
+| SG550                       | 3378     | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/assault-rifle.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/SG550.png" alt="image"></a></figure> |
+| SIGP226                     | 3379     | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/handgun.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/SIGP226.png" alt="image"></a></figure> |
+| Skorpion                    | 3380     | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/machine-pistol.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/Skorpion.png" alt="image"></a></figure> |
+| SPAS-12                     | 3381     | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/shotgun.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/SPAS.png" alt="image"></a></figure> |
+| USP                         | 3382     | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/handgun.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/USP.png" alt="image"></a></figure> |
+| W1200                       | 3383     | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/shotgun.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/W1200.png" alt="image"></a></figure> |
+| Winter Minigun              | 3384     | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/minigun.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/Xmas-minigun.png" alt="image"></a></figure> |
+| Winter Sniper               | 3385     | <figure><a href="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/crafting/sniper-rifle.png"><img src="{{ site.url }}/minecraft/desnoguns-mod/images/how-to-craft/icons/Xmas-sniper.png" alt="image"></a></figure> |
 |----
 {: .table}
 
@@ -200,17 +199,17 @@ Click an icon under the "**Crafting**" column to display the crafting recipe of 
 
 ## Changelog
 
+**DesnoGuns Mod r025**
+{% highlight text %}
+- NEW: full support for Minecraft PE 1.2 beta (make sure to use latest BlockLauncher beta)
+- UPDATE: changed IDs of some guns to avoid conflicts with Jukebox Discs
+- FIX: fixed crash with Crossbow Explosive
+{% endhighlight %}
+
 **DesnoGuns Mod r024**
 {% highlight text %}
 - NEW: the Exoskeleton armor!
 - NEW: separated tabs for guns using InventoryPlus
-{% endhighlight %}
-
-**DesnoGuns Mod r023**
-{% highlight text %}
-- FIX: fixed not working recoil
-- FIX: fixed UI not hidden when opening the inventory or the pause menu
-- FIX: fixed chainsaw and machete ability to cut wood and grass
 {% endhighlight %}
 
 <br>

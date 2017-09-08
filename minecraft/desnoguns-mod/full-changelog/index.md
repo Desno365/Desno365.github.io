@@ -5,6 +5,13 @@ excerpt: "DesnoGuns Mod full changelog"
 ---
 
 
+**DesnoGuns Mod r025**
+{% highlight text %}
+- NEW: full support for Minecraft PE 1.2 beta (make sure to use latest BlockLauncher beta)
+- UPDATE: changed IDs of some guns to avoid conflicts with Jukebox Discs
+- FIX: fixed crash with Crossbow Explosive
+{% endhighlight %}
+
 **DesnoGuns Mod r024**
 {% highlight text %}
 - NEW: the Exoskeleton armor!
