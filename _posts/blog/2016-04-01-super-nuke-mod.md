@@ -43,7 +43,7 @@ It allows you to destroy all your world with just a single tap*
 
 | Website | Download |
 |:--------|:-------:|
-| Filecred:             | [Don't Download]() |
+| Direct:               | [Don't Download]() |
 | MediaFire:            | [Don't Download]() |
 |----
 {: .table}

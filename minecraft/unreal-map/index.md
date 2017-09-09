@@ -50,8 +50,7 @@ A video explains it better: [The Unreal Geometry Map YouTube video](http://youtu
 
 | Website | Support | Regular |
 |:--------|:-------:|:-------:|
-| Direct:            | [Support download](http://adf.ly/1mQMEU) | [Regular download]({{ site.url }}/minecraft/unreal-map/download/) |
-| Filecred:          | [Support download](http://adf.ly/1XjXkF) | [Regular download](http://filecred.com/A578G56D) |
+| Direct Download:  | [Support download](http://adf.ly/1mQMEU) | [Regular download]({{ site.url }}/minecraft/unreal-map/download/) |
 |----
 {: .table}
 

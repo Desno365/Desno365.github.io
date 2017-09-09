@@ -48,8 +48,7 @@ The Laser Guns Addon for the DesnoGuns Mod adds awesome new futuristic guns in M
 
 | Website | Support | Regular |
 |:--------|:-------:|:-------:|
-| Direct:            | [Support download](http://adf.ly/1mQM6Z) | [Regular download]({{ site.url }}/minecraft/laser-mod/download/) |
-| Filecred:          | [Support download](http://adf.ly/1YlXtP) | [Regular download](http://filecred.com/A5ECG56F) |
+| Direct Download: | [Support download](http://adf.ly/1mQM6Z) | [Regular download]({{ site.url }}/minecraft/laser-mod/download/) |
 |----
 {: .table}
 

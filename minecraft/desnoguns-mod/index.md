@@ -51,7 +51,7 @@ Guns. Weapons. Explosions. This is the DesnoGuns Mod! :D
 
 | Website | Support | Regular |
 |:--------|:-------:|:-------:|
-| Direct:            | [Support download](http://adf.ly/1mQKuA) | [Regular download]({{ site.url }}/minecraft/desnoguns-mod/download/) |
+| Direct Download: | [Support download](http://adf.ly/1mQKuA) | [Regular download]({{ site.url }}/minecraft/desnoguns-mod/download/) |
 |----
 {: .table}
 

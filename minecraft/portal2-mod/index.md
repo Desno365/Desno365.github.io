@@ -54,8 +54,7 @@ Five different Portal Guns, the Aerial Faith Plate, Propulsion and Repulsion gel
 
 | Website | Support | Regular |
 |:--------|:-------:|:-------:|
-| Direct:            | [Support download](http://adf.ly/1mQLw4) | [Regular download]({{ site.url }}/minecraft/portal2-mod/download/) |
-| Filecred:          | [Support download](http://adf.ly/1h9kdA) | [Regular download](http://filecred.com/AB2AG586) |
+| Direct Download:  | [Support download](http://adf.ly/1mQLw4) | [Regular download]({{ site.url }}/minecraft/portal2-mod/download/) |
 |----
 {: .table}
 

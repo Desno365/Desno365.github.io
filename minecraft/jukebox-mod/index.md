@@ -52,8 +52,7 @@ comments: true
 
 | Website | Support | Regular |
 |:--------|:-------:|:-------:|
-| Direct:          | [Support download](http://adf.ly/1mQM3y) | [Regular download]({{ site.url }}/minecraft/jukebox-mod/download/) |
-| Filecred:        | [Support download](http://adf.ly/1XgbHZ) | [Regular download](http://filecred.com/A571G56D) |
+| Direct Download: | [Support download](http://adf.ly/1mQM3y) | [Regular download]({{ site.url }}/minecraft/jukebox-mod/download/) |
 |----
 {: .table}
 

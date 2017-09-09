@@ -9,7 +9,6 @@ excerpt: "Jukebox Mod older versions"
 
 | Website | Support | Regular |
 |:--------|:-------:|:-------:|
-| Filecred:        | [Support download](http://adf.ly/1SW8u1) | [Regular download](http://filecred.com/A383G565) |
 | MediaFire:       | [Support download](http://adf.ly/1SW9Fw) | [Regular download](http://www.mediafire.com/download/rrwp2cxowrgq1i3/Jukebox_Mod_r004_Desno365.zip) |
 |----
 {: .table}

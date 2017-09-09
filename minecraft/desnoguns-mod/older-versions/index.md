@@ -10,7 +10,6 @@ excerpt: "DesnoGuns Mod older versions"
 | Website | Support | Regular |
 |:--------|:-------:|:-------:|
 | Direct:            | [Support download](https://github.com/Desno365/DesnoGuns-Mod/releases/download/r021/DesnoGuns_Mod_r021_Desno365.modpkg) | [Regular download](https://github.com/Desno365/DesnoGuns-Mod/releases/download/r021/DesnoGuns_Mod_r021_Desno365.modpkg) |
-| Filecred:          | [Support download](http://adf.ly/1hAwH3) | [Regular download](http://filecred.com/AB2CG586) |
 |----
 {: .table}
 
@@ -21,7 +20,6 @@ excerpt: "DesnoGuns Mod older versions"
 | Website | Support | Regular |
 |:--------|:-------:|:-------:|
 | Dropbox:           | [Support download](http://adf.ly/1gEhIR) | [Regular download](https://www.dropbox.com/s/zimc8i3qxrb0qk1/DesnoGuns_Mod_r019_Desno365.modpkg?dl=1) |
-| Filecred:          | [Support download](http://adf.ly/1gEhcV) | [Regular download](http://filecred.com/AB17G583) |
 | MediaFire:         | [Support download](http://adf.ly/1gEheZ) | [Regular download](http://www.mediafire.com/file/fa174ch7uh8snmh/DesnoGuns_Mod_r019_Desno365.modpkg)) |
 |----
 {: .table}
@@ -34,7 +32,6 @@ excerpt: "DesnoGuns Mod older versions"
 
 | Website | Support | Regular |
 |:--------|:-------:|:-------:|
-| Filecred:          | [Support download](http://adf.ly/1TidSk) | [Regular download](http://filecred.com/A423G567) |
 | MediaFire:         | [Support download](http://adf.ly/1TidW3) | [Regular download](http://www.mediafire.com/download/l3wv18fkokefz1f/DesnoGuns_r011_Desno365.zip) |
 | Android File Host: | [Support download](http://adf.ly/1TidOf) | [Regular download](https://www.androidfilehost.com/?fid=24269982087022113) |
 |----
@@ -47,7 +44,6 @@ excerpt: "DesnoGuns Mod older versions"
 | Website | Support | Regular |
 |:--------|:-------:|:-------:|
 | MediaFire:         | [Support download](http://adf.ly/1O0Q9Y) | [Regular download](http://www.mediafire.com/download/7ldhkxrpp39heed/DesnoGuns_r008_Desno365.zip) |
-| Filecred:          | [Support download](http://adf.ly/1O0QD9) | [Regular download](http://filecred.com/A132G55F) |
 | Android File Host: | [Support download](http://adf.ly/1O0QHV) | [Regular download](https://www.androidfilehost.com/?fid=24052804347812199) |
 |----
 {: .table}
