@@ -46,7 +46,7 @@ Guns. Weapons. Explosions. This is the DesnoGuns Mod! :D
 
 ## Downloads
 
-<i>Minecraft Pocket Edition 1.2 beta & 1.1.5:</i><br>
+<i>Minecraft Pocket Edition 1.2.1 & 1.1.5:</i><br>
 <i> --- DesnoGuns Mod <b>r025</b>:</i>
 
 | Website | Support | Regular |
