@@ -16,13 +16,13 @@ excerpt: "Guide your rocket through space!"
 
 ## Information
 
-A simple and addictive arcade game where you control the direction of your rocket through explosions.
-Avoid hazards, collect diamonds and beat your high score.
-With diamonds you can buy awesome and better rockets to make your high score even higher.
+Explosive Rocket is a new simple and addictive arcade game where you control the direction of your rocket through explosions.
+Avoid hazards, collect diamonds and make a new high score.
+With diamonds you can get better rockets and upgrade your power-ups to make your high score even higher.
 
-The game also has a global leaderboard and achievements!
+The game now also has a multiplayer game mode, play online in real-time with your friends or with other random players online. Up to 4 players can play simultaneously.
 
-Are you able to reach a score of 10'000 and beat all your friends?
+Are you able to reach the impossible score of 10'000 and beat all your friends?
 
 ---
 
