@@ -172,11 +172,11 @@ comments: true
 
 ---
 
-## Modern Guns addon by мина
+## Bald Guy Guns addon by Agent 47
 
 • [Download the addon](http://www.mediafire.com/download/qm8z1str843miy4/Modern+guns+v1.0.modpkg)
 
-• Creator: [мина](https://twitter.com/llovelihanshu)
+• Creator: [Agent 47](https://twitter.com/IvanAnd80979934)
 
 <figure class="half">
 	<img src="http://i.imgur.com/ZUMQEP5.jpg" alt="image">
