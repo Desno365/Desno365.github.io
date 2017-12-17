@@ -57,6 +57,21 @@ comments: true
 
 ---
 
+## Bald Guy Weapons addon by Agent 47
+
+• [Download the addon](https://www.mediafire.com/file/e1hauiba105fzfv/WEAPON+V1.0.0.modpkg)
+
+• Creator: [Agent 47](https://twitter.com/IvanAnd80979934)
+
+<figure class="half">
+	<img src="https://i.imgur.com/hrzkB2r.jpg" alt="image">
+	<img src="https://i.imgur.com/hrrA52O.jpg" alt="image">
+	<img src="https://i.imgur.com/AbLAmQG.jpg" alt="image">
+	<img src="https://i.imgur.com/OADtAgV.jpg" alt="image">
+</figure>
+
+---
+
 ## WW2 Weapons addon by ChevyRedneck
 
 • [Download the addon](http://www.mediafire.com/download/kf89ajozxj1wrfh/WW2+Weapons+Addon+v.1.5+by+ChevyRedneck.modpkg)
@@ -168,19 +183,6 @@ comments: true
 <figure class="half">
 	<img src="http://i.imgur.com/ntZ8erh.png" alt="image">
 	<img src="http://i.imgur.com/z0VpDQs.png" alt="image">
-</figure>
-
----
-
-## Bald Guy Guns addon by Agent 47
-
-• [Download the addon](http://www.mediafire.com/download/qm8z1str843miy4/Modern+guns+v1.0.modpkg)
-
-• Creator: [Agent 47](https://twitter.com/IvanAnd80979934)
-
-<figure class="half">
-	<img src="http://i.imgur.com/ZUMQEP5.jpg" alt="image">
-	<img src="http://i.imgur.com/x3VWCBF.jpg" alt="image">
 </figure>
 
 ---
