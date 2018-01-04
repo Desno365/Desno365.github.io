@@ -59,15 +59,15 @@ comments: true
 
 ## Bald Guy Weapons addon by Agent 47
 
-• [Download the addon](https://www.mediafire.com/file/e1hauiba105fzfv/WEAPON+V1.0.0.modpkg)
+• [Download the addon](https://www.mediafire.com/file/mhqm3doaqoo7wqx/WEAPON+V1.1.0.modpkg)
 
 • Creator: [Agent 47](https://twitter.com/IvanAnd80979934)
 
 <figure class="half">
 	<img src="https://i.imgur.com/hrzkB2r.jpg" alt="image">
 	<img src="https://i.imgur.com/hrrA52O.jpg" alt="image">
-	<img src="https://i.imgur.com/AbLAmQG.jpg" alt="image">
-	<img src="https://i.imgur.com/OADtAgV.jpg" alt="image">
+	<img src="https://i.imgur.com/rqqPvsV.jpg" alt="image">
+	<img src="https://i.imgur.com/pidjH5o.jpg" alt="image">
 </figure>
 
 ---
