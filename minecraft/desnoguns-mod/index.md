@@ -26,8 +26,6 @@ Guns. Weapons. Explosions. This is the DesnoGuns Mod! :D
 • Open [BlockLauncher](https://play.google.com/store/apps/details?id=net.zhuoweizhang.mcpelauncher) and in <i>Manage ModPE scripts</i> import the modpkg file from local storage.<br>
 • Restart BlockLauncher and enjoy the mod!
 
-•• Optional: download the [InventoryPlus addon](http://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-mods-tools/2842644) to get separated tabs for guns.
-
 •• Optional: download the ["Desno365's Mods" app](https://play.google.com/store/apps/details?id=com.desno365.mods) from Google Play Store to get news and notifications of new mod versions.
 
 <a href="https://play.google.com/store/apps/details?id=com.desno365.mods">

@@ -34,7 +34,7 @@ comments: true
 • Import the .modpkg file in BlockLauncher like you do with a ModPE script.<br>
 • Enjoy! ;)
 
-• Optional: download the ["Desno365's Mods" app](https://play.google.com/store/apps/details?id=com.desno365.mods) from Google Play Store.
+•• Optional: download the ["Desno365's Mods" app](https://play.google.com/store/apps/details?id=com.desno365.mods) from Google Play Store to get news and notifications of new mod versions.
 
 <a href="https://play.google.com/store/apps/details?id=com.desno365.mods">
   <img alt="Get it on Google Play"

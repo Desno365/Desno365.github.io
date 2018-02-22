@@ -31,7 +31,7 @@ Five different Portal Guns, the Aerial Faith Plate, Propulsion and Repulsion gel
 • Open [BlockLauncher](https://play.google.com/store/apps/details?id=net.zhuoweizhang.mcpelauncher) and in <i>Manage ModPE scripts</i> import the modpkg file from local storage.<br>
 • Restart BlockLauncher and enjoy the mod!
 
-• Optional: download the ["Desno365's Mods" app](https://play.google.com/store/apps/details?id=com.desno365.mods) from Google Play Store.
+•• Optional: download the ["Desno365's Mods" app](https://play.google.com/store/apps/details?id=com.desno365.mods) from Google Play Store to get news and notifications of new mod versions.
 
 <a href="https://play.google.com/store/apps/details?id=com.desno365.mods">
   <img alt="Get it on Google Play"

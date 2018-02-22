@@ -32,7 +32,7 @@ A video explains it better: [The Unreal Geometry Map YouTube video](http://youtu
 • Disable other mods.<br>
 • Enjoy! :D<br>
 
-• Optional: download the ["Desno365's Mods" app](https://play.google.com/store/apps/details?id=com.desno365.mods) from Google Play Store.
+•• Optional: download the ["Desno365's Mods" app](https://play.google.com/store/apps/details?id=com.desno365.mods) from Google Play Store to get news and notifications of new mod versions.
 
 <a href="https://play.google.com/store/apps/details?id=com.desno365.mods">
   <img alt="Get it on Google Play"
