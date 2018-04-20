@@ -169,16 +169,16 @@ Currently no, because with the current APIs it's quite difficult to make it work
 The best way to report a bug is write it on the [minecraft-forum.net][thread] thread. Before posting your bug-report, read the ["Known bugs and issues"]({{ site.url }}/minecraft/portal2-mod/#known-bugs-and-issues) section.
 
 *• How can I support you?*<br>
-You can [follow me on Twitter](https://twitter.com/desno365) and subscribe to [my Youtube channel](http://www.youtube.com/channel/UCJQL47nQnsijcaN_7pMsjCQ/videos).
+You can [follow me on Twitter](https://twitter.com/desno365) and subscribe to [my Youtube channel](https://www.youtube.com/channel/UCJQL47nQnsijcaN_7pMsjCQ/videos).
 
 ---
 
 ## Copyrights
 
 All the code of the mod, and a few textures (more license details about the textures are inside the texture pack) are copyright of Dennis Motta (Desno365), and are licensed under the Creative Commons Attribution-NonCommercial 4.0 International License.
-To view a copy of this license, visit [http://creativecommo...nses/by-nc/4.0/](http://creativecommons.org/licenses/by-nc/4.0/) or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
+To view a copy of this license, visit [https://creativecommo...nses/by-nc/4.0/](https://creativecommons.org/licenses/by-nc/4.0/) or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
 <br><br>
-Some textures (more details in the respective folders) are copyright of [Sayomi_Inoue](http://www.minecraftforum.net/members/Sayomi_Inoue), extracted from the [Precisely Portal Texture Pack](http://www.minecraftforum.net/forums/mapping-and-modding/resource-packs/2132158-16x-32x-1-8-x-3d-models-precisely-portal-and), used according to the permissions license written in the [official thread](http://www.minecraftforum.net/forums/mapping-and-modding/resource-packs/2132158-16x-32x-1-8-x-3d-models-precisely-portal-and).
+Some textures (more details in the respective folders) are copyright of [Sayomi_Inoue](https://www.minecraftforum.net/members/Sayomi_Inoue), extracted from the [Precisely Portal Texture Pack](https://www.minecraftforum.net/forums/mapping-and-modding/resource-packs/2132158-16x-32x-1-8-x-3d-models-precisely-portal-and), used according to the permissions license written in the [official thread](https://www.minecraftforum.net/forums/mapping-and-modding/resource-packs/2132158-16x-32x-1-8-x-3d-models-precisely-portal-and).
 <br><br>
 All the following trademarks are the properties of their respective owners as listed below.<br>
 • Minecraft ®/TM & © 2009-2013 Mojang / Notch<br>
@@ -189,10 +189,10 @@ All the following trademarks are the properties of their respective owners as li
 ## Credits
 
 • Thanks to <i>iChun ([@ohaiiChun](https://twitter.com/ohaiiChun)) for a few images extracted from his mod.<br>
-• Thanks to <i>[Sayomi_Inoue](http://www.minecraftforum.net/members/Sayomi_Inoue)</i> for [his textures](http://www.minecraftforum.net/forums/mapping-and-modding/resource-packs/2132158-16x-32x-1-8-x-3d-models-precisely-portal-and).<br>
+• Thanks to <i>[Sayomi_Inoue](https://www.minecraftforum.net/members/Sayomi_Inoue)</i> for [his textures](https://www.minecraftforum.net/forums/mapping-and-modding/resource-packs/2132158-16x-32x-1-8-x-3d-models-precisely-portal-and).<br>
 • Thanks to <i>MyNameIsAnti ([@AntiModPE](https://twitter.com/AntiModPE))</i> that made for me a fantastic render for the turret.<br>
-• Thanks to <i>[MC_miner_bros](http://www.minecraftforum.net/members/MC_miner_bros)</i> for some beautiful textures.
+• Thanks to <i>[MC_miner_bros](https://www.minecraftforum.net/members/MC_miner_bros)</i> for some beautiful textures.
 
 ---
 
-[thread]: http://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-mods-tools/2097326-mod-beta-portal-2-mod-portal-gun-r008-by-desno365
+[thread]: https://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-mods-tools/2097326-mod-beta-portal-2-mod-portal-gun-r008-by-desno365

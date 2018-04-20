@@ -25,7 +25,7 @@ comments: true
 ## Installation instructions
 
 • Download the zip that contains all the necessary files.<br>
-• Extract it with your [file explorer/manager](http://play.google.com/store/search?q=file%20explorer) (I recommend [Solid Explorer](https://play.google.com/store/apps/details?id=pl.solidexplorer2)).<br>
+• Extract it with your [file explorer/manager](https://play.google.com/store/search?q=file%20explorer) (I recommend [Solid Explorer](https://play.google.com/store/apps/details?id=pl.solidexplorer2)).<br>
 • Install textures.<br>
 • Import the script from local storage in Blocklauncher and enable it.<br>
 • Enjoy! ;)
@@ -48,7 +48,7 @@ comments: true
 
 | Website | Support | Regular |
 |:--------|:-------:|:-------:|
-| MediaFire:         | [Support download](http://adf.ly/rfJUz) | [Regular download](http://www.mediafire.com/download/o7xdbe19za3x2to/Turrets_Mod_r001_Desno365.zip) |
+| MediaFire:         | [Support download](http://adf.ly/rfJUz) | [Regular download](https://www.mediafire.com/download/o7xdbe19za3x2to/Turrets_Mod_r001_Desno365.zip) |
 | Android File Host: | [Support download](http://adf.ly/rfJmM) | [Regular download](https://www.androidfilehost.com/?fid=23622183712465438) |
 | MEGA:              | [Support download](http://adf.ly/rfJZn) | [Regular download](https://mega.co.nz/#!u5hgjLLQ!A3fMHmlNpNPUjuo9UXURP2-n0Bn9Fuf-0NrtLg995gA) |
 |----
@@ -122,14 +122,14 @@ Of course you can. Only one thing: if you want to add a link for the download, d
 The best way to report a bug is write it on the [minecraft-forum.net][thread] thread. Before posting your bug-report, read the ["Known bugs and issues"]({{ site.url }}/minecraft/turrets-mod/#known-bugs-and-issues) section.
 
 *• How can I support you?*<br>
-You can [follow me on Twitter](https://twitter.com/desno365) and subscribe to [my Youtube channel](http://www.youtube.com/channel/UCJQL47nQnsijcaN_7pMsjCQ/videos).
+You can [follow me on Twitter](https://twitter.com/desno365) and subscribe to [my Youtube channel](https://www.youtube.com/channel/UCJQL47nQnsijcaN_7pMsjCQ/videos).
 
 ---
 
 ## Copyrights
 
 This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License.
-To view a copy of this license, visit [http://creativecommo...nses/by-nc/4.0/](http://creativecommons.org/licenses/by-nc/4.0/) or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
+To view a copy of this license, visit [https://creativecommo...nses/by-nc/4.0/](https://creativecommons.org/licenses/by-nc/4.0/) or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
 <br><br>
 All the following trademarks are the properties of their respective owners as listed below.<br>
 Minecraft ®/TM & © 2009-2013 Mojang / Notch
@@ -143,4 +143,4 @@ Minecraft ®/TM & © 2009-2013 Mojang / Notch
 
 ---
 
-[thread]: http://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-mods-tools/2201372-mod-beta-turrets-mod-kill-mobs-automatically-r001
+[thread]: https://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-mods-tools/2201372-mod-beta-turrets-mod-kill-mobs-automatically-r001

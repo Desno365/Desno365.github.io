@@ -29,15 +29,15 @@ comments: true
 
 ## Black Ops 3 addon by Black_Death
 
-• [Download the addon](http://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-mods-tools/2625220-addon-black-ops-3-desnoguns-addon-bo3-guns-in)
+• [Download the addon](https://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-mods-tools/2625220-addon-black-ops-3-desnoguns-addon-bo3-guns-in)
 
 • Creator: [Black_Death](https://twitter.com/Black_DeathPE)
 
 <figure class="half">
-	<img src="http://i.imgur.com/yg7UjWZ.png" alt="image">
-	<img src="http://i.imgur.com/3RwDy3o.png" alt="image">
-	<img src="http://i.imgur.com/cTsRoEk.png" alt="image">
-	<img src="http://i.imgur.com/N4yUFw4.png" alt="image">
+	<img src="https://i.imgur.com/yg7UjWZ.png" alt="image">
+	<img src="https://i.imgur.com/3RwDy3o.png" alt="image">
+	<img src="https://i.imgur.com/cTsRoEk.png" alt="image">
+	<img src="https://i.imgur.com/N4yUFw4.png" alt="image">
 </figure>
 
 ---
@@ -49,10 +49,10 @@ comments: true
 • Creator: SerhatIsb
 
 <figure class="half">
-	<img src="http://i.imgur.com/3Vds4cX.png" alt="image">
-	<img src="http://i.imgur.com/a1j1jVy.png" alt="image">
-	<img src="http://i.imgur.com/XoZKomw.png" alt="image">
-	<img src="http://i.imgur.com/ztKPoAO.jpg" alt="image">
+	<img src="https://i.imgur.com/3Vds4cX.png" alt="image">
+	<img src="https://i.imgur.com/a1j1jVy.png" alt="image">
+	<img src="https://i.imgur.com/XoZKomw.png" alt="image">
+	<img src="https://i.imgur.com/ztKPoAO.jpg" alt="image">
 </figure>
 
 ---
@@ -74,15 +74,15 @@ comments: true
 
 ## WW2 Weapons addon by ChevyRedneck
 
-• [Download the addon](http://www.mediafire.com/download/kf89ajozxj1wrfh/WW2+Weapons+Addon+v.1.5+by+ChevyRedneck.modpkg)
+• [Download the addon](https://www.mediafire.com/download/kf89ajozxj1wrfh/WW2+Weapons+Addon+v.1.5+by+ChevyRedneck.modpkg)
 
 • Creator: [ChevyRedneck](https://twitter.com/ChevyRedneck554)
 
 <figure class="half">
-	<img src="http://i.imgur.com/wnIAmSz.png" alt="image">
-	<img src="http://i.imgur.com/hnef5KT.jpg" alt="image">
-	<img src="http://i.imgur.com/GGKivYL.jpg" alt="image">
-	<img src="http://i.imgur.com/803FyRx.jpg" alt="image">
+	<img src="https://i.imgur.com/wnIAmSz.png" alt="image">
+	<img src="https://i.imgur.com/hnef5KT.jpg" alt="image">
+	<img src="https://i.imgur.com/GGKivYL.jpg" alt="image">
+	<img src="https://i.imgur.com/803FyRx.jpg" alt="image">
 </figure>
 
 ---
@@ -94,10 +94,10 @@ comments: true
 • Creator: RahEll
 
 <figure class="half">
-	<img src="http://i.imgur.com/D6wSHPH.png" alt="image">
-	<img src="http://i.imgur.com/cfv1wsL.png" alt="image">
-	<img src="http://i.imgur.com/vbXVTdE.png" alt="image">
-	<img src="http://i.imgur.com/VNNa2uu.png" alt="image">
+	<img src="https://i.imgur.com/D6wSHPH.png" alt="image">
+	<img src="https://i.imgur.com/cfv1wsL.png" alt="image">
+	<img src="https://i.imgur.com/vbXVTdE.png" alt="image">
+	<img src="https://i.imgur.com/VNNa2uu.png" alt="image">
 </figure>
 
 ---
@@ -109,40 +109,40 @@ comments: true
 • Creator: [BM Heades](https://twitter.com/bmheades)
 
 <figure class="half">
-	<img src="http://i.imgur.com/G9uGAeO.png" alt="image">
-	<img src="http://i.imgur.com/QZmUMRx.png" alt="image">
-	<img src="http://i.imgur.com/a1CaNaT.png" alt="image">
-	<img src="http://i.imgur.com/fVUzIap.png" alt="image">
+	<img src="https://i.imgur.com/G9uGAeO.png" alt="image">
+	<img src="https://i.imgur.com/QZmUMRx.png" alt="image">
+	<img src="https://i.imgur.com/a1CaNaT.png" alt="image">
+	<img src="https://i.imgur.com/fVUzIap.png" alt="image">
 </figure>
 
 ---
 
 ## DarkStriker Guns addon by xXlolYx
 
-• [Download the addon](http://www.mediafire.com/file/9e7dm69uemc5eu2/DarkStrikersGuns+Addon+By+xXlolYx+Ver+2.modpkg)
+• [Download the addon](https://www.mediafire.com/file/9e7dm69uemc5eu2/DarkStrikersGuns+Addon+By+xXlolYx+Ver+2.modpkg)
 
 • Creator: xXlolYx
 
 <figure class="half">
-	<img src="http://i.imgur.com/IMeTkYO.png" alt="image">
-	<img src="http://i.imgur.com/HNnTQoJ.png" alt="image">
-	<img src="http://i.imgur.com/46dsH2B.png" alt="image">
-	<img src="http://i.imgur.com/KklfFyF.png" alt="image">
+	<img src="https://i.imgur.com/IMeTkYO.png" alt="image">
+	<img src="https://i.imgur.com/HNnTQoJ.png" alt="image">
+	<img src="https://i.imgur.com/46dsH2B.png" alt="image">
+	<img src="https://i.imgur.com/KklfFyF.png" alt="image">
 </figure>
 
 ---
 
 ## Mo' Snipers addon by Williamdu40
 
-• [Download the addon](http://www.mediafire.com/download/tt5f585e709v6at/Mo%27+Snipers+add-on.modpkg)
+• [Download the addon](https://www.mediafire.com/download/tt5f585e709v6at/Mo%27+Snipers+add-on.modpkg)
 
 • Creator: [Williamdu40](https://twitter.com/Williamdu40)
 
 <figure class="half">
-	<img src="http://i.imgur.com/cR94Vmg.jpg" alt="image">
-	<img src="http://i.imgur.com/hPQAcwH.jpg" alt="image">
-	<img src="http://i.imgur.com/DLOWGqn.jpg" alt="image">
-	<img src="http://i.imgur.com/8Wh2idr.jpg" alt="image">
+	<img src="https://i.imgur.com/cR94Vmg.jpg" alt="image">
+	<img src="https://i.imgur.com/hPQAcwH.jpg" alt="image">
+	<img src="https://i.imgur.com/DLOWGqn.jpg" alt="image">
+	<img src="https://i.imgur.com/8Wh2idr.jpg" alt="image">
 </figure>
 
 ---
@@ -154,35 +154,35 @@ comments: true
 • Creator: [BM Heades](https://twitter.com/bmheades)
 
 <figure class="half">
-	<img src="http://i.imgur.com/ekA7kH1.jpg" alt="image">
-	<img src="http://i.imgur.com/CaahBym.jpg" alt="image">
-	<img src="http://i.imgur.com/7XdDsur.jpg" alt="image">
+	<img src="https://i.imgur.com/ekA7kH1.jpg" alt="image">
+	<img src="https://i.imgur.com/CaahBym.jpg" alt="image">
+	<img src="https://i.imgur.com/7XdDsur.jpg" alt="image">
 </figure>
 
 ---
 
 ## Alpha Guns addon by SuperFireRex
 
-• [Download the addon](http://www.mediafire.com/?zywxmtnb6zc0hk5)
+• [Download the addon](https://www.mediafire.com/?zywxmtnb6zc0hk5)
 
 • Creator: SuperFireRex
 
 <figure class="half">
-	<img src="http://i.imgur.com/aEjC8Wr.png" alt="image">
-	<img src="http://i.imgur.com/4bFktrW.png" alt="image">
+	<img src="https://i.imgur.com/aEjC8Wr.png" alt="image">
+	<img src="https://i.imgur.com/4bFktrW.png" alt="image">
 </figure>
 
 ---
 
 ## Omega Guns addon by SuperFireRex
 
-• [Download the addon](http://www.mediafire.com/?bq9vy826x04vg2l)
+• [Download the addon](https://www.mediafire.com/?bq9vy826x04vg2l)
 
 • Creator: SuperFireRex
 
 <figure class="half">
-	<img src="http://i.imgur.com/ntZ8erh.png" alt="image">
-	<img src="http://i.imgur.com/z0VpDQs.png" alt="image">
+	<img src="https://i.imgur.com/ntZ8erh.png" alt="image">
+	<img src="https://i.imgur.com/z0VpDQs.png" alt="image">
 </figure>
 
 ---
@@ -194,23 +194,10 @@ comments: true
 • Creator: Velsory TV
 
 <figure class="half">
-	<img src="http://i.imgur.com/XIp1A7g.png" alt="image">
-	<img src="http://i.imgur.com/VSfi8Y9.png" alt="image">
-	<img src="http://i.imgur.com/WqqdiFY.png" alt="image">
-	<img src="http://i.imgur.com/treWDcj.png" alt="image">
-</figure>
-
----
-
-## German Guns addon by pilzie LP
-
-• [Download the addon](http://mcpeuniverse.com/mods/germanguns-addon-for-desnoguns/)
-
-• Creator: [pilzie LP](https://twitter.com/pilzieLP)
-
-<figure class="half">
-	<img src="http://i.imgur.com/LJivqfF.png" alt="image">
-	<img src="http://i.imgur.com/DRSXxem.jpg" alt="image">
+	<img src="https://i.imgur.com/XIp1A7g.png" alt="image">
+	<img src="https://i.imgur.com/VSfi8Y9.png" alt="image">
+	<img src="https://i.imgur.com/WqqdiFY.png" alt="image">
+	<img src="https://i.imgur.com/treWDcj.png" alt="image">
 </figure>
 
 ---

@@ -13,7 +13,7 @@ excerpt: "My Games"
 		<img alt="Get it on Google Play"
 			src="/images/google_play_badge.png" />
 	</a>
-	<a href="http://itunes.apple.com/app/id1221970675?mt=8">
+	<a href="https://itunes.apple.com/app/id1221970675?mt=8">
 		<img alt="Download on the App Store"
 			src="/images/apple_store_badge.png" />
 	</a>

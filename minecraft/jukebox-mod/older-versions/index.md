@@ -9,7 +9,7 @@ excerpt: "Jukebox Mod older versions"
 
 | Website | Support | Regular |
 |:--------|:-------:|:-------:|
-| MediaFire:       | [Support download](http://adf.ly/1SW9Fw) | [Regular download](http://www.mediafire.com/download/rrwp2cxowrgq1i3/Jukebox_Mod_r004_Desno365.zip) |
+| MediaFire:       | [Support download](http://adf.ly/1SW9Fw) | [Regular download](https://www.mediafire.com/download/rrwp2cxowrgq1i3/Jukebox_Mod_r004_Desno365.zip) |
 |----
 {: .table}
 
@@ -21,7 +21,7 @@ excerpt: "Jukebox Mod older versions"
 
 | Website | Support | Regular |
 |:--------|:-------:|:-------:|
-| MediaFire:       | [Support download](http://adf.ly/rMLgk) | [Regular download](http://www.mediafire.com/download/qvtuhflw0wncfb7/Jukebox_Mod_r002_Desno365.zip) |
+| MediaFire:       | [Support download](http://adf.ly/rMLgk) | [Regular download](https://www.mediafire.com/download/qvtuhflw0wncfb7/Jukebox_Mod_r002_Desno365.zip) |
 | MEGA:            | [Support download](http://adf.ly/rMKm6) | [Regular download](https://mega.co.nz/#!P4pWzCgA!HrjiZ2epU-rbRYGlBgH4wG5YBZfe3tTHroA4gdUJCwg) |
 |----
 {: .table}

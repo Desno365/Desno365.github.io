@@ -37,4 +37,4 @@ excerpt: "All my work made for the Minecraft PE community"
 * [The Companion Mod]({{ site.url }}/minecraft/companion-mod)
 
 <br>
-**My profile on minecraft-forum.net:** [Desno365](http://www.minecraftforum.net/members/Desno365)
+**My profile on minecraft-forum.net:** [Desno365](https://www.minecraftforum.net/members/Desno365)

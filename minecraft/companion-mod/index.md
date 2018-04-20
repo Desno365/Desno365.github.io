@@ -41,7 +41,7 @@ Only the level of your companions is saved when you exit the game, so you have t
 
 | Website | Support | Regular |
 |:--------|:-------:|:-------:|
-| MediaFire:       | [Support download](http://adf.ly/pQgyk) | [Regular download](http://www.mediafire.com/download/6d8oqhgbmc2b41n/TheCompanionMod_v2.1_Desno365.js) |
+| MediaFire:       | [Support download](http://adf.ly/pQgyk) | [Regular download](https://www.mediafire.com/download/6d8oqhgbmc2b41n/TheCompanionMod_v2.1_Desno365.js) |
 | MEGA:            | [Support download](http://adf.ly/pQgxV) | [Regular download](https://mega.co.nz/#!DxpDjb4S!duIbn4A8HGMgytl6iLSsdCaAdzAJBxvgUWbG-DpSG-A) |
 |----
 {: .table}
@@ -141,14 +141,14 @@ Of course you can. Only one thing: if you want to add a link for the download, d
 The best way to report a bug is write it on the [minecraft-forum.net][thread] thread. Before posting your bug-report, read the ["Known bugs and issues"]({{ site.url }}/minecraft/companion-mod/#known-bugs-and-issues) section.
 
 *• How can I support you?*<br>
-You can [follow me on Twitter](https://twitter.com/desno365), subscribe to [my Youtube channel](http://www.youtube.com/channel/UCJQL47nQnsijcaN_7pMsjCQ/videos) or [make a donation](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GBEMKJBA3Z7PG). :)
+You can [follow me on Twitter](https://twitter.com/desno365), subscribe to [my Youtube channel](https://www.youtube.com/channel/UCJQL47nQnsijcaN_7pMsjCQ/videos) or [make a donation](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GBEMKJBA3Z7PG). :)
 
 ---
 
 ## Copyrights
 
 This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.
-To view a copy of this license, visit http://creativecommo...s/by-nc-sa/3.0/ or send a
+To view a copy of this license, visit [https://creativecommo...s/by-nc-sa/3.0/](https://creativecommons.org/licenses/by-nc-sa/3.0/) or send a
 letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
 <br><br>
 All the following trademarks are the properties of their respective owners as listed below.<br>
@@ -156,4 +156,4 @@ Minecraft ®/TM & © 2009-2013 Mojang / Notch
 
 ---
 
-[thread]: http://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-mods-tools/1987585-mod-beta-the-friends-mod-also-called-the
+[thread]: https://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-mods-tools/1987585-mod-beta-the-friends-mod-also-called-the

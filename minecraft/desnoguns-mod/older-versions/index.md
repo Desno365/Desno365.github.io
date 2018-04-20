@@ -20,7 +20,7 @@ excerpt: "DesnoGuns Mod older versions"
 | Website | Support | Regular |
 |:--------|:-------:|:-------:|
 | Dropbox:           | [Support download](http://adf.ly/1gEhIR) | [Regular download](https://www.dropbox.com/s/zimc8i3qxrb0qk1/DesnoGuns_Mod_r019_Desno365.modpkg?dl=1) |
-| MediaFire:         | [Support download](http://adf.ly/1gEheZ) | [Regular download](http://www.mediafire.com/file/fa174ch7uh8snmh/DesnoGuns_Mod_r019_Desno365.modpkg)) |
+| MediaFire:         | [Support download](http://adf.ly/1gEheZ) | [Regular download](https://www.mediafire.com/file/fa174ch7uh8snmh/DesnoGuns_Mod_r019_Desno365.modpkg)) |
 |----
 {: .table}
 
@@ -32,7 +32,7 @@ excerpt: "DesnoGuns Mod older versions"
 
 | Website | Support | Regular |
 |:--------|:-------:|:-------:|
-| MediaFire:         | [Support download](http://adf.ly/1TidW3) | [Regular download](http://www.mediafire.com/download/l3wv18fkokefz1f/DesnoGuns_r011_Desno365.zip) |
+| MediaFire:         | [Support download](http://adf.ly/1TidW3) | [Regular download](https://www.mediafire.com/download/l3wv18fkokefz1f/DesnoGuns_r011_Desno365.zip) |
 | Android File Host: | [Support download](http://adf.ly/1TidOf) | [Regular download](https://www.androidfilehost.com/?fid=24269982087022113) |
 |----
 {: .table}
@@ -43,7 +43,7 @@ excerpt: "DesnoGuns Mod older versions"
 
 | Website | Support | Regular |
 |:--------|:-------:|:-------:|
-| MediaFire:         | [Support download](http://adf.ly/1O0Q9Y) | [Regular download](http://www.mediafire.com/download/7ldhkxrpp39heed/DesnoGuns_r008_Desno365.zip) |
+| MediaFire:         | [Support download](http://adf.ly/1O0Q9Y) | [Regular download](https://www.mediafire.com/download/7ldhkxrpp39heed/DesnoGuns_r008_Desno365.zip) |
 | Android File Host: | [Support download](http://adf.ly/1O0QHV) | [Regular download](https://www.androidfilehost.com/?fid=24052804347812199) |
 |----
 {: .table}
@@ -54,7 +54,7 @@ excerpt: "DesnoGuns Mod older versions"
 
 | Website | Support | Regular |
 |:--------|:-------:|:-------:|
-| MediaFire:         | [Support download](http://adf.ly/12exnh) | [Regular download](http://www.mediafire.com/download/tcd1zd4by1kjzc9/DesnoGuns_r004_Desno365.zip) |
+| MediaFire:         | [Support download](http://adf.ly/12exnh) | [Regular download](https://www.mediafire.com/download/tcd1zd4by1kjzc9/DesnoGuns_r004_Desno365.zip) |
 | Android File Host: | [Support download](http://adf.ly/12eyOl) | [Regular download](https://www.androidfilehost.com/?fid=95916177934530177) |
 | MEGA:              | [Support download](http://adf.ly/12ey73) | [Regular download](https://mega.co.nz/#!m1ZiWBzQ!f-rrW3MlSKYGwKJLnuao-FPMKXLkkUsSkAxmewQsgV0) |
 |----
@@ -66,7 +66,7 @@ excerpt: "DesnoGuns Mod older versions"
 
 | Website | Support | Regular |
 |:--------|:-------:|:-------:|
-| MediaFire:       | [Support download](http://adf.ly/wbeKd) | [Regular download](http://www.mediafire.com/download/lteboluuz98qtqb/DesnoGuns_r003_Desno365.zip) |
+| MediaFire:       | [Support download](http://adf.ly/wbeKd) | [Regular download](https://www.mediafire.com/download/lteboluuz98qtqb/DesnoGuns_r003_Desno365.zip) |
 | AndroidFileHost: | [Support download](http://adf.ly/wbe2B) | [Regular download](https://www.androidfilehost.com/?fid=95916177934516426) |
 | MEGA:            | [Support download](http://adf.ly/wbeBn) | [Regular download](https://mega.co.nz/#!HwA3QAwJ!elIYzO1sB4xdzgQmmXKgUbjZrAJBf7f4Mav1mCHeNBA) |
 |----

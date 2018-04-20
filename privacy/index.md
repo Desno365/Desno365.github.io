@@ -11,7 +11,7 @@ Like many other Web sites, desno365.net makes use of log files. The information 
 
 #### Cookies and Web Beacons
 desno365.net does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.<br>
-Learn more about cookies here: [http://cookiesandyou.com/](http://cookiesandyou.com/)<br>
+Learn more about cookies here: [https://cookiesandyou.com/](https://cookiesandyou.com/)<br>
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.<br>
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include:
 
@@ -25,7 +25,7 @@ You should consult the respective privacy policies of these third-party ad serve
 #### DoubleClick DART Cookie
 Google, as a third party vendor, uses cookies to serve ads on desno365.net.
 Google’s use of the DART cookie enables it to serve ads to your users based on their visit to desno365.net and other sites on the Internet.
-Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL: [http://www.google.com/privacy_ads.html](http://www.google.com/privacy_ads.html)
+Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL: [https://policies.google.com/technologies/ads](https://policies.google.com/technologies/ads)
 
 
 #### Questions?

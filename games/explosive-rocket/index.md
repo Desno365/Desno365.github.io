@@ -32,7 +32,7 @@ Are you able to reach the impossible score of 10'000 and beat all your friends?
 	<img alt="Get it on Google Play"
 		src="/images/google_play_badge.png" />
 </a>
-<a href="http://itunes.apple.com/app/id1221970675?mt=8">
+<a href="https://itunes.apple.com/app/id1221970675?mt=8">
 	<img alt="Download on the App Store"
 		src="/images/apple_store_badge.png" />
 </a>
@@ -61,10 +61,10 @@ You can reach us at <a href="mailto:{{ site.owner.email }}" title="Send a mail t
 Explosive Rocket © 2017 Dennis Motta / Desno365
 <br><br>
 The background music of the game "Vintage Elecro pop loop" is copyright of [Frankum](http://frankum-frankumjay.blogspot.com.es/) and is licensed under the Attribution 3.0 Unported License.
-To view a copy of this license, visit [http://creativecommo...nses/by/3.0/](https://creativecommons.org/licenses/by/3.0/) or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
+To view a copy of this license, visit [https://creativecommo...nses/by/3.0/](https://creativecommons.org/licenses/by/3.0/) or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
 <br><br>
 The background music in the shop "loop029" is copyright of [bebeto](http://www.lucadebernardi.com/) and is licensed under the Attribution-NonCommercial 3.0 Unported License.
-To view a copy of this license, visit [http://creativecommo...nses/by-nc/3.0/](https://creativecommons.org/licenses/by-nc/3.0/) or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
+To view a copy of this license, visit [https://creativecommo...nses/by-nc/3.0/](https://creativecommons.org/licenses/by-nc/3.0/) or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
 
 ---
 

@@ -93,7 +93,7 @@ excerpt: "Portal 2 Mod full changelog"
 **Portal 2 Mod r005**
 {% highlight text %}
 - NEW: you can set the buttons size for PortalGuns and GravityGun
-- NEW: place 4 turrets near themselves and they will start to sing (see http://i.imgur.com/foYMwi1.jpg)
+- NEW: place 4 turrets near themselves and they will start to sing (see https://i.imgur.com/foYMwi1.jpg)
 - UPDATE: increased the max limit of turrets, now you can spawn a max of 20 turrets.
 - UPDATE: turrets open the guns when they are shooting. And if aggressive is ON a laser for the turret will appear
 - UPDATE: added an option in the Turrets Options GUI for removing the turret
@@ -119,7 +119,7 @@ excerpt: "Portal 2 Mod full changelog"
 **Portal 2 Mod r003**
 {% highlight text %}
 - NEW: restyled GUI
-- NEW: you can spawn portals under blocks (see http://imgur.com/GRlgnFX)
+- NEW: you can spawn portals under blocks (see https://imgur.com/GRlgnFX)
 - NEW: damage for Portal guns
 - NEW: sound for the PortalGun Wood & Stone
 - NEW: "turret song" in the Portal jukebox

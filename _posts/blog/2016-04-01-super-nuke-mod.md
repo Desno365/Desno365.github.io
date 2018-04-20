@@ -53,12 +53,12 @@ It allows you to destroy all your world with just a single tap*
 ## Screenshots
 
 <figure>
-  <img src="http://i.imgur.com/fNZwPGT.png">
+  <img src="https://i.imgur.com/fNZwPGT.png">
   <figcaption>Is this a picture of a nuke? I think so</figcaption>
 </figure>
 
 <figure>
-  <img src="http://i.imgur.com/GpJMdj6.png">
+  <img src="https://i.imgur.com/GpJMdj6.png">
   <figcaption>Booooom!</figcaption>
 </figure>
 

@@ -19,14 +19,14 @@ comments: true
 This map and the mod attached bring the Non-Euclidean geometry on your mobile device!<br>
 Experience the craziness of an unreal world, in a normal/Euclidean game like Minecraft.<br>
 Words can't explain in a good way what this map has.<br>
-A video explains it better: [The Unreal Geometry Map YouTube video](http://youtu.be/WwMZg0aRKIM)
+A video explains it better: [The Unreal Geometry Map YouTube video](https://youtu.be/WwMZg0aRKIM)
 
 ---
 
 ## Installation instructions
 
 • Download the zip that contains the mod and the map.<br>
-• Extract it with your [file explorer/manager](http://play.google.com/store/search?q=file%20explorer) (I recommend [Solid Explorer](https://play.google.com/store/apps/details?id=pl.solidexplorer2)).<br>
+• Extract it with your [file explorer/manager](https://play.google.com/store/search?q=file%20explorer) (I recommend [Solid Explorer](https://play.google.com/store/apps/details?id=pl.solidexplorer2)).<br>
 • Move the "Unreal Geometry Map" to "sdcard/games/com.mojang/minecraftWorlds"<br>
 • Import the script from local storage in Blocklauncher and enable it.<br>
 • Disable other mods.<br>
@@ -64,7 +64,7 @@ A video explains it better: [The Unreal Geometry Map YouTube video](http://youtu
 
 A video explains it better:
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/WwMZg0aRKIM" frameborder="0"> </iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WwMZg0aRKIM" frameborder="0"> </iframe>
 
 
 For people who prefer screenshoots:
@@ -117,19 +117,19 @@ Of course you can. Only one thing: if you want to add a link for the download, d
 The best way to report a bug is write it on the [minecraft-forum.net][thread] thread. Before posting your bug-report, read the ["Known bugs and issues"]({{ site.url }}/minecraft/unreal-map/#known-bugs-and-issues) section.
 
 *• How can I support you?*<br>
-You can [follow me on Twitter](https://twitter.com/desno365) and subscribe to [my Youtube channel](http://www.youtube.com/channel/UCJQL47nQnsijcaN_7pMsjCQ/videos).
+You can [follow me on Twitter](https://twitter.com/desno365) and subscribe to [my Youtube channel](https://www.youtube.com/channel/UCJQL47nQnsijcaN_7pMsjCQ/videos).
 
 ---
 
 ## Copyrights
 
 This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License.
-To view a copy of this license, visit [http://creativecommo...nses/by-nc/4.0/](http://creativecommons.org/licenses/by-nc/4.0/) or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
+To view a copy of this license, visit [https://creativecommo...nses/by-nc/4.0/](https://creativecommons.org/licenses/by-nc/4.0/) or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
 <br><br>
 All the following trademarks are the properties of their respective owners as listed below.<br>
 Minecraft ®/TM & © 2009-2013 Mojang / Notch
 
 ---
 
-[thread]: http://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-maps/2389061-map-mod-unreal-geometry-map-non-euclidean-map
+[thread]: https://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-maps/2389061-map-mod-unreal-geometry-map-non-euclidean-map
 
