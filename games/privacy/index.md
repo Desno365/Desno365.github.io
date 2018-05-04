@@ -34,7 +34,7 @@ When we offer our games as free-to-play, we still require the game to generate i
 
 ##### Opt Out
 By using our products you are consenting to the above collection of anonymous, non-sensitive data as outlined in this privacy policy.
-If you would like to opt-out of interest based advertising or collection of data for analytics, or find out more information of any Analytics or Ad network products implemented within JOX Development games, please refer to the relevant links below (please note that individual privacy policies may be updated from time to time for any reason)
+If you would like to opt-out of interest based advertising or collection of data for analytics, or find out more information of any Analytics or Ad network products implemented, please refer to the relevant links below (please note that individual privacy policies may be updated from time to time for any reason)
 
 • Google Analytics and AdMob<br>
 [Privacy Policy](https://www.google.com/policies/privacy/)<br>
