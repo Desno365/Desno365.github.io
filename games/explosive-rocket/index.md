@@ -2,6 +2,7 @@
 layout: page
 title: Explosive Rocket
 excerpt: "Guide your rocket through space!"
+no_page_level_ads: true
 ---
 
 <div style="text-align:center;">
@@ -53,6 +54,14 @@ Are you able to reach the impossible score of 10'000 and beat all your friends?
 
 If you have any question or problem about the game don't hesitate to ask.<br>
 You can reach us at <a href="mailto:{{ site.owner.email }}" title="Send a mail to {{ site.owner.name}}" target="_blank">desno365@gmail.com</a> or if you prefer you can contact Desno365 directly on Twitter: <a href="https://twitter.com/{{ site.owner.twitter }}" title="{{ site.owner.name}} on Twitter" target="_blank">@desno365</a>
+
+---
+
+## Privacy Policy
+
+For more information on what data we collect read the privacy policy for our games and apps:
+
+<div markdown="0"><a href="{{ site.url }}/games/privacy" class="btn">Privacy Policy</a></div>
 
 ---
 

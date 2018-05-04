@@ -2,6 +2,7 @@
 layout: page
 title: Games
 excerpt: "My Games"
+no_page_level_ads: true
 ---
 
 ### Explosive Rocket:
