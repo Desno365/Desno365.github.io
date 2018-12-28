@@ -89,7 +89,7 @@ comments: true
 
 ## Project Prometheus addon by RahEll
 
-• [Download the addon](https://www.dropbox.com/s/4ewym5jxmmcosr1/Project%20Prometheus.modpkg?dl=0)
+• [Download the addon](https://www.dropbox.com/s/4ewym5jxmmcosr1/Project%20Prometheus.modpkg?dl=1)
 
 • Creator: RahEll
 
@@ -98,21 +98,6 @@ comments: true
 	<img src="https://i.imgur.com/cfv1wsL.png" alt="image">
 	<img src="https://i.imgur.com/vbXVTdE.png" alt="image">
 	<img src="https://i.imgur.com/VNNa2uu.png" alt="image">
-</figure>
-
----
-
-## European Guns addon by BM Heades
-
-• [Download the addon](http://bm-inc.weebly.com/mods/european_guns_addon)
-
-• Creator: [BM Heades](https://twitter.com/bmheades)
-
-<figure class="half">
-	<img src="https://i.imgur.com/G9uGAeO.png" alt="image">
-	<img src="https://i.imgur.com/QZmUMRx.png" alt="image">
-	<img src="https://i.imgur.com/a1CaNaT.png" alt="image">
-	<img src="https://i.imgur.com/fVUzIap.png" alt="image">
 </figure>
 
 ---
@@ -143,20 +128,6 @@ comments: true
 	<img src="https://i.imgur.com/hPQAcwH.jpg" alt="image">
 	<img src="https://i.imgur.com/DLOWGqn.jpg" alt="image">
 	<img src="https://i.imgur.com/8Wh2idr.jpg" alt="image">
-</figure>
-
----
-
-## Transformers Guns addon by BM Heades
-
-• [Download the addon](http://bm-inc.weebly.com/mods/transformers_guns_addon)
-
-• Creator: [BM Heades](https://twitter.com/bmheades)
-
-<figure class="half">
-	<img src="https://i.imgur.com/ekA7kH1.jpg" alt="image">
-	<img src="https://i.imgur.com/CaahBym.jpg" alt="image">
-	<img src="https://i.imgur.com/7XdDsur.jpg" alt="image">
 </figure>
 
 ---
