@@ -1,0 +1,19 @@
+Sitemap: https://desno365.net/sitemap.xml
+
+User-agent: * 
+Disallow: /minecraft/desnoguns-mod/full-changelog/changelog.html
+
+User-agent: * 
+Disallow: /minecraft/jukebox-mod/full-changelog/changelog.html
+
+User-agent: * 
+Disallow: /minecraft/laser-mod/full-changelog/changelog.html
+
+User-agent: * 
+Disallow: /minecraft/portal2-mod/full-changelog/changelog.html
+
+User-agent: * 
+Disallow: /minecraft/turrets-mod/full-changelog/changelog.html
+
+User-agent: * 
+Disallow: /minecraft/unreal-map/full-changelog/changelog.html
