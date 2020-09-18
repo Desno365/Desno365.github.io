@@ -65,6 +65,12 @@ For more information on what data we collect read the privacy policy for our gam
 
 ---
 
+## Articles
+
+• [Underrated Casual Games To Play on IOS](https://gameskeys.net/underrated-casual-games-to-play-on-ios/)<br>
+
+---
+
 ## Copyrights
 
 Explosive Rocket © 2017 Dennis Motta / Desno365
